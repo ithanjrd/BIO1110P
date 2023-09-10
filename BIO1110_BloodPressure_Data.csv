@@ -1,0 +1,3110 @@
+﻿Patient,Age,Smoking,BPFirstSystolic,BPSecondSystolic,BPFirstDiastolic,BPSecondDiastolic,BMI,FeelEatHealthy
+1,63,No,120,110,70,70,23.685,I am very interested
+2,64,Yes,126,124,82,80,29.538,I have been trying to eat healthier lately
+3,62,No,126,120,72,68,24.5,I already eat healthy foods
+4,53,No,128,118,78,71,29.067,Missing
+5,58,No,116,124,82,84,32.794,Missing
+6,62,No,132,128,80,80,35.034,I have been trying to eat healthier lately
+7,64,No,120,116,78,76,29.106,I am very interested
+8,56,No,102,98,70,68,21.965,Missing
+9,62,No,112,120,74,78,26.356,I already eat healthy foods
+10,54,No,117,116,69,74,27.997,I already eat healthy foods
+11,63,No,98,110,66,64,35.818,Missing
+12,59,No,110,110,72,72,21.158,I am very interested
+13,57,Yes,180,180,100,96,29.044,Missing
+14,53,No,124,121,74,70,45.051,I am very interested
+15,55,Yes,110,110,74,69,35.002,Missing
+16,61,No,142,140,98,88,28.784,I am very interested
+17,56,No,142,140,89,80,31.64,Missing
+18,54,No,102,90,56,70,19.655,I have been trying to eat healthier lately
+19,59,No,130,130,80,80,32.121,Missing
+20,57,No,143,140,79,76,30.238,I already eat healthy foods
+21,57,No,100,100,70,71,33.509,Missing
+22,55,No,130,132,80,82,29.492,I am very interested
+23,57,Yes,106,110,66,68,40.755,Missing
+24,55,No,118,116,70,70,40.057,I am not interested
+25,61,No,134,130,79,80,21.922,I already eat healthy foods
+26,61,Yes,82,102,58,68,31.564,I have been trying to eat healthier lately
+27,56,No,110,110,78,69,41.461,I am interested in finding out more
+28,62,Yes,148,148,86,86,46.567,I am interested in finding out more
+29,54,No,144,142,102,90,34.922,I am interested in finding out more
+30,61,No,121,120,77,70,35.117,Missing
+31,61,No,106,98,88,64,27.026,I already eat healthy foods
+32,57,No,110,134,70,70,30.26,I have been trying to eat healthier lately
+33,62,No,142,126,98,89,50.778,Missing
+34,59,No,122,120,76,78,27.779,I have been trying to eat healthier lately
+35,62,No,100,104,62,63,28.854,I already eat healthy foods
+36,61,No,114,112,72,68,28.072,I have been trying to eat healthier lately
+37,64,No,122,114,78,66,29.087,Missing
+38,54,No,123,116,68,66,38.814,Missing
+39,60,No,98,94,60,54,21.438,I am very interested
+40,51,No,108,108,72,70,29.703,Missing
+41,58,Yes,128,122,82,80,29.274,Missing
+42,54,No,131,100,62,60,24.15,Missing
+43,61,No,98,102,62,64,23.003,Missing
+44,56,No,120,124,72,72,27.024,I am very interested
+45,64,No,118,124,80,68,19.459,I already eat healthy foods
+46,64,No,112,112,69,70,24.685,I am interested in finding out more
+47,63,No,102,100,70,68,21.821,I already eat healthy foods
+48,64,Yes,128,124,82,82,33.157,I am very interested
+49,63,No,124,110,78,74,32.049,Missing
+50,64,No,118,112,62,59,23.035,Missing
+51,59,No,98,90,68,60,27.94,Missing
+52,57,No,120,110,80,60,26.631,I am interested in finding out more
+53,59,No,122,129,69,76,21.646,I already eat healthy foods
+54,54,Yes,108,108,68,68,24.164,I am interested in finding out more
+55,55,No,112,110,60,60,29.11,Missing
+56,61,No,132,132,92,92,32.207,Missing
+57,57,No,132,128,76,76,26.414,I have been trying to eat healthier lately
+58,56,No,110,110,68,70,20.611,Missing
+59,53,No,122,122,84,77,32.688,I am interested in finding out more
+60,63,No,140,140,92,92,39.674,I have been trying to eat healthier lately
+61,59,Yes,126,124,76,76,35.083,I am interested in finding out more
+62,62,Yes,152,152,90,90,26.618,Missing
+63,54,No,140,136,72,74,43.682,I am very interested
+64,57,No,104,100,60,60,24.6,I am not interested
+65,55,No,116,118,78,78,26.814,I am very interested
+66,57,No,111,102,75,72,32.537,I have been trying to eat healthier lately
+67,58,No,134,129,78,78,38.765,I have been trying to eat healthier lately
+68,59,No,130,132,86,80,29.726,I am very interested
+69,62,No,107,128,73,82,41.062,I am not interested
+70,64,No,130,130,70,70,39.886,Missing
+71,53,No,120,122,74,74,21.28,I have been trying to eat healthier lately
+72,56,Yes,150,122,92,80,47.612,Missing
+73,62,No,110,110,75,79,39.309,I am very interested
+74,53,No,120,122,78,76,26.73,Missing
+75,63,Yes,130,134,90,94,37.813,Missing
+76,57,No,144,138,85,77,37.431,I already eat healthy foods
+77,57,No,118,120,86,82,29.403,I have been trying to eat healthier lately
+78,59,No,92,94,64,62,28.111,Missing
+79,57,No,124,126,80,80,28.293,Missing
+80,61,No,144,146,90,80,44.399,I am very interested
+81,56,Yes,142,140,82,80,43.014,Missing
+82,59,No,118,122,74,72,24.376,I have been trying to eat healthier lately
+83,64,No,134,130,80,78,22.562,I already eat healthy foods
+84,56,No,114,110,63,70,25.319,I have been trying to eat healthier lately
+85,60,No,126,126,76,76,22.835,Missing
+86,49,No,131,135,73,71,48.99,Missing
+87,64,No,110,113,70,68,27.838,I am very interested
+88,60,No,102,104,80,69,29.746,Missing
+89,56,No,118,111,73,71,33.514,Missing
+90,56,No,137,120,94,88,44.068,I am interested in finding out more
+91,64,Yes,112,110,75,64,37.088,Missing
+92,58,No,110,116,60,70,28.023,Missing
+93,60,No,137,143,85,77,24.121,I have been trying to eat healthier lately
+94,46,No,122,129,82,78,33.044,Missing
+95,59,No,100,100,60,60,23.412,I am not interested
+96,59,No,106,102,69,70,21.266,Missing
+97,64,No,140,134,84,76,39.879,I am very interested
+98,52,No,114,114,74,74,20.607,Missing
+99,55,No,110,110,76,78,30.709,Missing
+100,54,No,131,127,78,84,21.325,Missing
+101,53,No,120,122,80,82,44.154,Missing
+102,62,No,128,128,70,70,35.59,Missing
+103,54,No,136,135,78,80,28.431,I am very interested
+104,60,No,106,104,60,60,20.86,Missing
+105,57,No,130,126,76,74,25.971,I already eat healthy foods
+106,58,No,120,118,62,62,29.492,I am interested in finding out more
+107,61,No,140,137,80,82,31.575,Missing
+108,54,No,120,120,80,80,32.504,I already eat healthy foods
+109,49,Yes,120,100,80,70,30.756,Missing
+110,58,No,125,124,78,68,26.52,Missing
+111,61,No,136,134,78,78,30.803,Missing
+112,54,No,118,126,78,74,36.113,I have been trying to eat healthier lately
+113,58,No,124,124,80,80,45.409,Missing
+114,60,No,148,138,90,86,17.913,I have been trying to eat healthier lately
+115,58,Yes,144,142,86,86,27.565,I have been trying to eat healthier lately
+116,57,No,120,122,80,80,29.27,I have been trying to eat healthier lately
+117,58,Yes,110,110,68,67,20.914,I am very interested
+118,57,No,114,112,80,78,41.037,Missing
+119,56,No,120,114,68,66,19.738,I already eat healthy foods
+120,59,Yes,128,122,98,86,39.578,I have been trying to eat healthier lately
+121,61,No,102,104,62,60,20.986,I am interested in finding out more
+122,57,Yes,124,120,82,82,28.185,Missing
+123,60,Yes,128,132,90,76,35.233,I am interested in finding out more
+124,64,No,133,130,80,79,25.527,I am very interested
+125,55,No,150,148,92,88,29.76,Missing
+126,64,Yes,142,136,84,87,34.382,I am very interested
+127,61,Yes,120,114,79,78,28.3,Missing
+128,57,Yes,162,156,84,78,29.579,I am interested in finding out more
+129,57,No,140,140,90,88,46.734,I am very interested
+130,53,No,122,122,74,78,22.283,I am very interested
+131,62,No,143,126,74,84,35.615,Missing
+132,51,Yes,118,118,78,72,28.835,I have been trying to eat healthier lately
+133,58,No,152,158,92,95,35.868,I am very interested
+134,60,No,120,122,70,68,30.691,Missing
+135,61,No,102,102,64,66,21.706,I already eat healthy foods
+136,57,Yes,90,92,64,68,27.715,I already eat healthy foods
+137,62,No,102,100,70,70,21.952,I have been trying to eat healthier lately
+138,58,No,124,122,78,78,27.077,I have been trying to eat healthier lately
+139,56,No,150,132,90,87,30.151,I have been trying to eat healthier lately
+140,60,No,112,112,64,60,34.918,I am very interested
+141,58,No,120,120,76,76,27.577,I have been trying to eat healthier lately
+142,57,No,113,116,64,72,24.104,I already eat healthy foods
+143,53,No,118,112,78,78,28.987,I have been trying to eat healthier lately
+144,55,No,134,140,78,82,32.521,Missing
+145,55,No,120,120,80,80,25.896,Missing
+146,56,No,128,127,78,78,38.872,Missing
+147,55,No,111,112,82,75,32.911,I am very interested
+148,63,Yes,124,128,82,82,42.982,Missing
+149,61,No,120,126,70,74,42.131,I have been trying to eat healthier lately
+150,54,No,119,130,74,92,32.584,Missing
+151,63,No,140,138,82,82,37.815,I have been trying to eat healthier lately
+152,60,No,104,104,72,72,31.232,Missing
+153,64,No,130,130,70,70,23.306,I am very interested
+154,60,Yes,130,128,82,82,26.901,Missing
+155,58,No,130,130,80,80,31.479,Missing
+156,61,No,124,124,80,80,22.944,I already eat healthy foods
+157,61,No,148,148,94,94,23.761,Missing
+158,60,No,125,119,85,85,27.112,Missing
+159,61,No,130,129,80,82,44.931,I am interested in finding out more
+160,56,Yes,130,131,84,84,33.951,Missing
+161,59,No,120,120,72,72,34.951,Missing
+162,59,Yes,145,138,86,80,23.503,I have been trying to eat healthier lately
+163,59,No,122,122,80,80,32.015,I am not interested
+164,54,No,110,110,70,70,21.925,I already eat healthy foods
+165,53,Yes,128,132,82,84,35.399,I have been trying to eat healthier lately
+166,61,No,120,121,66,68,27.497,Missing
+167,64,No,112,111,62,62,27.72,Missing
+168,57,No,110,122,64,70,37.611,Missing
+169,62,No,132,132,92,92,26.92,Missing
+170,60,No,120,120,70,70,27.311,Missing
+171,63,No,114,104,61,64,17.736,I already eat healthy foods
+172,58,No,124,120,68,64,23.513,I already eat healthy foods
+173,52,Yes,128,130,90,100,47.815,I am interested in finding out more
+174,56,Yes,138,134,90,94,38.076,I am very interested
+175,55,No,160,160,94,94,35.354,I am interested in finding out more
+176,52,No,128,132,78,78,18.289,I have been trying to eat healthier lately
+177,59,No,150,148,92,90,34.632,I have been trying to eat healthier lately
+178,49,No,124,132,82,84,34.228,Missing
+179,56,No,108,100,68,60,31.424,Missing
+180,55,No,87,99,61,72,28.032,I have been trying to eat healthier lately
+181,60,No,162,159,100,89,29.978,Missing
+182,51,No,121,122,85,85,33.029,Missing
+183,64,No,130,132,80,80,38.397,I have been trying to eat healthier lately
+184,60,No,140,142,100,102,30.77,I am very interested
+185,61,No,107,108,62,63,18.321,I already eat healthy foods
+186,60,No,106,124,80,72,19.127,I have been trying to eat healthier lately
+187,62,Yes,124,122,81,80,36.643,Missing
+188,57,No,110,122,70,72,23.142,I already eat healthy foods
+189,53,No,120,128,62,80,29.15,I am very interested
+190,60,No,120,142,77,80,40.45,I am very interested
+191,56,No,118,112,78,78,31.278,I am very interested
+192,58,No,122,118,76,76,42.145,I am very interested
+193,64,No,140,135,89,82,23.726,Missing
+194,60,No,126,116,80,76,39.429,I have been trying to eat healthier lately
+195,56,No,128,132,94,100,24.087,I am interested in finding out more
+196,59,No,123,123,70,70,26.288,Missing
+197,58,No,120,120,70,70,19.206,I have been trying to eat healthier lately
+198,62,Yes,106,102,66,78,28.644,Missing
+199,53,Yes,116,110,80,82,29.782,I already eat healthy foods
+200,55,No,117,120,72,68,30.363,I already eat healthy foods
+201,63,Yes,160,150,92,90,31.996,I have been trying to eat healthier lately
+202,64,No,102,106,58,62,16.848,Missing
+203,54,No,112,112,69,68,38.115,Missing
+204,55,No,131,128,90,87,42.17,I am interested in finding out more
+205,59,No,124,130,72,86,32.047,I have been trying to eat healthier lately
+206,59,No,112,128,73,77,41.916,Missing
+207,56,No,116,116,70,76,42.466,I am very interested
+208,59,No,136,150,90,90,45.339,Missing
+209,55,No,130,138,84,87,25.021,I am very interested
+210,59,No,130,130,80,80,39.82,I am very interested
+211,60,No,122,140,84,84,39.863,I am very interested
+212,63,No,130,123,70,70,21.927,I already eat healthy foods
+213,56,No,110,110,70,71,23.279,I am very interested
+214,55,No,108,107,67,67,29.226,I am very interested
+215,47,No,116,126,79,78,35.771,I have been trying to eat healthier lately
+216,64,No,100,101,70,60,22.464,I am very interested
+217,57,No,116,104,72,82,35.584,Missing
+218,59,No,120,120,74,74,37.525,Missing
+219,63,Yes,136,120,82,86,45.682,I am very interested
+220,59,No,128,124,76,76,33.679,I am very interested
+221,57,No,124,132,78,80,33.517,I am very interested
+222,57,No,130,132,80,80,22.3,Missing
+223,62,Yes,142,130,80,80,26.139,I have been trying to eat healthier lately
+224,58,No,100,104,80,80,33.319,I have been trying to eat healthier lately
+225,63,Yes,114,114,78,73,35.52,Missing
+226,53,No,128,138,80,90,35.708,I am very interested
+227,59,Yes,146,152,82,86,39.425,I have been trying to eat healthier lately
+228,62,No,128,142,84,83,20.268,I am very interested
+229,54,Yes,128,130,82,80,39.859,Missing
+230,52,No,122,116,80,76,29.829,Missing
+231,63,No,122,120,78,76,22.367,I am very interested
+232,61,No,121,120,82,82,30.701,Missing
+233,54,No,116,120,78,74,25.117,I have been trying to eat healthier lately
+234,58,No,148,140,98,92,23.515,Missing
+235,61,No,132,122,84,84,23.424,I have been trying to eat healthier lately
+236,51,No,118,112,62,80,24.492,Missing
+237,58,Yes,130,124,84,82,26.424,Missing
+238,53,Yes,124,120,86,80,31.235,I am very interested
+239,53,No,106,102,62,60,22.091,I have been trying to eat healthier lately
+240,55,No,141,136,80,72,28.073,I have been trying to eat healthier lately
+241,53,Yes,150,135,90,82,27.963,I am very interested
+242,64,No,120,121,73,68,23.407,Missing
+243,54,No,118,118,74,70,30.147,Missing
+244,47,No,118,118,72,70,30.564,I am very interested
+245,60,No,120,122,70,70,30.798,I have been trying to eat healthier lately
+246,54,No,126,122,88,80,21.631,I have been trying to eat healthier lately
+247,64,No,154,138,92,84,33.289,I am not interested
+248,60,No,100,92,60,62,26.048,I already eat healthy foods
+249,51,No,96,96,56,56,23.169,Missing
+250,60,No,94,92,62,62,21.717,I already eat healthy foods
+251,58,No,130,122,62,74,19.051,I have been trying to eat healthier lately
+252,57,Yes,92,96,54,66,21.281,I am very interested
+253,63,No,138,120,78,70,34.932,I have been trying to eat healthier lately
+254,60,No,128,122,79,76,25.661,I have been trying to eat healthier lately
+255,63,Yes,128,125,81,82,31.346,I am very interested
+256,54,No,117,117,69,69,23.552,Missing
+257,53,No,112,110,74,72,20.146,I am very interested
+258,53,No,96,102,56,62,25.76,Missing
+259,53,Yes,126,124,86,82,27.005,Missing
+260,53,No,111,98,73,68,26.232,Missing
+261,64,No,134,130,69,66,24.605,Missing
+262,53,No,125,120,64,64,21.91,I already eat healthy foods
+263,54,No,100,110,76,74,30.349,I already eat healthy foods
+264,63,No,98,118,62,72,20.131,I have been trying to eat healthier lately
+265,61,Yes,160,140,88,80,30.431,Missing
+266,55,Yes,145,140,83,80,26.511,I have been trying to eat healthier lately
+267,62,No,112,120,78,80,32.19,Missing
+268,56,No,122,121,84,80,41.96,I am interested in finding out more
+269,60,No,109,118,72,72,34.06,Missing
+270,54,No,90,90,62,62,21.375,Missing
+271,51,No,112,118,68,82,39.506,I have been trying to eat healthier lately
+272,64,Yes,150,162,90,86,24.247,I already eat healthy foods
+273,56,No,110,114,60,62,32.009,Missing
+274,48,Yes,130,130,82,80,39.925,I am interested in finding out more
+275,63,No,112,118,72,74,18.856,I have been trying to eat healthier lately
+276,58,No,120,118,68,66,30.21,I am interested in finding out more
+277,61,No,120,118,80,82,29.261,Missing
+278,53,No,106,108,66,64,22.457,Missing
+279,53,Yes,128,124,82,80,27.195,I have been trying to eat healthier lately
+280,63,No,122,122,75,73,32.269,I already eat healthy foods
+281,56,No,120,140,84,77,26.003,Missing
+282,60,No,132,138,78,80,24.708,Missing
+283,59,Yes,123,122,84,82,25.714,I am very interested
+284,56,No,113,110,82,80,38.426,I am very interested
+285,57,No,120,118,75,74,30.496,I am very interested
+286,61,No,124,124,82,82,29.408,I have been trying to eat healthier lately
+287,55,Yes,130,132,84,84,33.176,I am very interested
+288,62,No,116,114,72,70,26.588,Missing
+289,55,No,118,122,78,80,28.655,Missing
+290,62,No,106,94,62,68,23.407,I already eat healthy foods
+291,59,No,100,101,70,70,32.948,I am interested in finding out more
+292,54,No,118,118,76,76,27.207,Missing
+293,64,No,120,121,71,74,25.736,Missing
+294,62,No,138,138,84,84,32.107,Missing
+295,51,No,120,114,78,65,38.229,I have been trying to eat healthier lately
+296,64,No,100,100,70,70,47.038,I have been trying to eat healthier lately
+297,53,No,121,118,80,83,30.705,I have been trying to eat healthier lately
+298,56,No,123,124,60,62,36.454,I have been trying to eat healthier lately
+299,62,Yes,158,144,82,80,26.616,Missing
+300,45,Yes,120,110,80,70,36.322,Missing
+301,59,No,122,120,82,78,29.982,Missing
+302,58,Yes,128,134,80,80,31.434,I already eat healthy foods
+303,51,No,124,120,82,80,26.598,Missing
+304,50,No,128,126,76,76,32.899,I am very interested
+305,54,No,116,116,74,70,50.925,Missing
+306,53,No,120,120,68,68,21.417,Missing
+307,54,No,123,126,87,85,34.033,I have been trying to eat healthier lately
+308,61,No,120,124,76,71,51.89,I have been trying to eat healthier lately
+309,61,Yes,132,126,70,66,25.623,I already eat healthy foods
+310,56,No,118,116,70,70,28.131,Missing
+311,53,Yes,110,112,64,64,25.702,I already eat healthy foods
+312,60,No,104,102,68,70,34.405,I have been trying to eat healthier lately
+313,59,Yes,128,132,76,80,35.154,I have been trying to eat healthier lately
+314,51,No,120,120,72,72,28.125,I am very interested
+315,64,No,136,120,80,76,35.416,I am very interested
+316,54,Yes,108,112,76,74,23.749,Missing
+317,55,Yes,133,132,86,82,31.429,I am very interested
+318,56,Yes,130,128,84,80,40.781,I have been trying to eat healthier lately
+319,54,Yes,132,134,84,78,53.51,Missing
+320,60,Yes,131,130,82,76,47.184,I am very interested
+321,63,Yes,170,158,101,99,26.871,Missing
+322,54,No,110,110,68,68,22.013,I already eat healthy foods
+323,56,Yes,102,100,60,60,22.502,I already eat healthy foods
+324,64,No,124,126,88,88,27.788,I am very interested
+325,53,Yes,122,122,84,84,32.633,Missing
+326,53,No,140,136,88,86,25.048,Missing
+327,61,No,140,140,86,80,40.382,I am interested in finding out more
+328,57,No,118,128,80,82,26.992,I have been trying to eat healthier lately
+329,58,Yes,128,120,78,76,23.315,Missing
+330,61,Yes,150,160,90,98,35.78,Missing
+331,58,No,128,128,72,60,45.39,I am interested in finding out more
+332,59,No,122,128,76,74,28.584,Missing
+333,52,No,116,116,84,80,36.975,Missing
+334,60,Yes,152,140,84,82,26.965,I already eat healthy foods
+335,64,No,116,102,73,72,23.476,I already eat healthy foods
+336,53,No,139,129,94,94,27.491,Missing
+337,54,No,142,118,68,72,35.809,I have been trying to eat healthier lately
+338,50,No,100,98,70,70,30.191,I am interested in finding out more
+339,59,No,132,130,94,94,31.625,I am interested in finding out more
+340,52,No,123,116,81,76,30.088,I already eat healthy foods
+341,57,No,112,108,78,75,23.454,Missing
+342,51,No,106,122,63,88,19.685,I am very interested
+343,58,No,116,108,71,80,22.086,I am very interested
+344,63,No,130,124,82,80,32.802,I already eat healthy foods
+345,64,No,118,130,58,72,32.341,I already eat healthy foods
+346,57,No,140,120,80,80,30.283,I have been trying to eat healthier lately
+347,64,No,118,112,70,66,26.57,I already eat healthy foods
+348,52,No,150,150,98,88,34.481,Missing
+349,55,No,128,130,71,92,21.106,Missing
+350,60,No,126,120,80,80,38.113,I have been trying to eat healthier lately
+351,62,No,114,110,70,70,21.031,I already eat healthy foods
+352,55,No,110,106,64,60,23.502,I already eat healthy foods
+353,60,No,90,102,60,60,17.785,I have been trying to eat healthier lately
+354,55,No,136,122,76,76,36.874,I am very interested
+355,63,Yes,134,140,85,88,51.644,Missing
+356,53,No,124,124,76,80,30.117,I am very interested
+357,61,No,110,109,80,76,26.769,I already eat healthy foods
+358,45,No,110,122,60,80,24.467,Missing
+359,62,No,112,116,78,84,36.263,I have been trying to eat healthier lately
+360,44,No,130,130,70,69,27.15,I am interested in finding out more
+361,55,No,122,110,78,61,37.838,Missing
+362,51,No,116,99,76,72,22.908,I am very interested
+363,61,No,124,120,84,84,32.753,Missing
+364,55,Yes,128,122,64,74,50.609,I have been trying to eat healthier lately
+365,62,No,126,167,74,78,25.872,I already eat healthy foods
+366,52,Yes,118,116,62,60,23.351,I already eat healthy foods
+367,59,No,110,108,62,60,26.747,I am very interested
+368,62,No,130,126,72,70,37.441,I have been trying to eat healthier lately
+369,54,No,152,148,96,100,53.994,Missing
+370,54,Yes,120,110,70,70,56.721,I have been trying to eat healthier lately
+371,63,No,128,128,74,74,24.098,Missing
+372,55,No,137,137,81,80,29.356,Missing
+373,64,Yes,126,124,88,84,47.96,I already eat healthy foods
+374,51,No,122,122,68,68,31.01,I already eat healthy foods
+375,62,No,140,136,79,82,34.581,I am interested in finding out more
+376,64,No,122,123,70,70,45.795,I have been trying to eat healthier lately
+377,52,No,110,112,70,70,20.318,Missing
+378,62,No,126,132,78,78,19.298,I already eat healthy foods
+379,63,No,126,130,78,82,43.132,I am interested in finding out more
+380,55,No,110,104,70,70,30.025,I am very interested
+381,60,No,140,142,70,74,18.402,Missing
+382,60,Yes,118,116,80,82,29.002,Missing
+383,59,No,148,175,91,90,24.899,I am interested in finding out more
+384,54,No,120,114,78,68,35.336,Missing
+385,54,No,122,124,75,76,27.764,Missing
+386,57,No,96,98,62,60,20.832,I already eat healthy foods
+387,57,No,110,110,79,80,32.501,Missing
+388,53,No,106,98,98,62,31.255,I have been trying to eat healthier lately
+389,55,Yes,124,114,82,73,30.339,Missing
+390,58,No,102,102,62,62,42.341,I am very interested
+391,54,No,148,158,84,80,32.705,I already eat healthy foods
+392,55,No,120,118,70,70,29.321,Missing
+393,51,Yes,130,130,86,86,22.715,I am very interested
+394,54,No,138,134,90,88,39.706,I am very interested
+395,54,Yes,124,120,82,80,30.055,I have been trying to eat healthier lately
+396,50,No,119,120,70,70,25.23,Missing
+397,64,No,129,116,73,73,31.053,I have been trying to eat healthier lately
+398,58,No,122,128,86,84,28.903,I am interested in finding out more
+399,63,Yes,112,112,68,68,22.725,I am very interested
+400,56,Yes,118,120,80,80,22.475,Missing
+401,63,No,124,132,60,64,22.79,I already eat healthy foods
+402,61,No,132,134,80,84,36.438,I am interested in finding out more
+403,55,No,96,96,66,66,25.6,I have been trying to eat healthier lately
+404,51,No,138,130,84,82,39.607,I am interested in finding out more
+405,62,Yes,120,122,80,80,29.029,I already eat healthy foods
+406,63,No,134,122,80,78,28.182,I already eat healthy foods
+407,58,No,110,118,73,72,26.054,Missing
+408,52,No,92,90,60,62,29.097,I am interested in finding out more
+409,53,No,110,108,74,72,19.741,I already eat healthy foods
+410,52,No,100,110,60,70,31.402,I am interested in finding out more
+411,54,Yes,148,152,86,92,29.988,Missing
+412,54,No,108,110,68,65,31.538,Missing
+413,53,Yes,124,128,62,64,26.674,Missing
+414,58,No,122,122,80,80,38.739,I have been trying to eat healthier lately
+415,56,No,110,112,70,70,38.618,I am very interested
+416,57,No,128,126,84,84,23.678,I have been trying to eat healthier lately
+417,53,Yes,91,90,62,62,30.915,Missing
+418,57,Yes,176,142,110,80,30.042,Missing
+419,52,No,140,128,100,84,42.14,I already eat healthy foods
+420,57,No,130,128,84,78,30.508,I am very interested
+421,64,No,118,118,62,60,28.245,I have been trying to eat healthier lately
+422,63,No,134,110,74,78,45.449,Missing
+423,62,No,104,100,54,54,23.133,I already eat healthy foods
+424,61,No,118,116,70,70,22.768,I already eat healthy foods
+425,56,No,110,110,60,60,35.613,I have been trying to eat healthier lately
+426,53,No,122,128,70,68,28.557,I am very interested
+427,53,No,144,142,78,80,35.115,I am very interested
+428,52,Yes,130,130,92,92,40.95,Missing
+429,59,Yes,149,146,82,79,39.147,I am interested in finding out more
+430,59,No,104,108,66,76,32.856,Missing
+431,56,No,102,120,80,84,33.802,I have been trying to eat healthier lately
+432,52,No,108,114,70,72,28.624,I already eat healthy foods
+433,62,No,124,120,76,76,25.776,I am interested in finding out more
+434,55,Yes,124,124,90,90,25.798,I already eat healthy foods
+435,58,No,146,140,74,72,50.422,Missing
+436,58,No,128,124,70,70,30.712,Missing
+437,64,No,118,125,80,83,30.39,I have been trying to eat healthier lately
+438,61,Yes,140,142,90,90,36.006,I am very interested
+439,52,No,118,118,70,72,44.163,Missing
+440,60,No,110,114,69,74,36.679,I already eat healthy foods
+441,57,No,120,108,86,78,19.54,I am very interested
+442,63,No,142,140,50,56,44.752,Missing
+443,63,No,134,132,80,82,25.844,I am very interested
+444,64,No,117,110,71,70,32.769,Missing
+445,61,Yes,150,150,84,80,24.017,I have been trying to eat healthier lately
+446,58,No,122,120,80,74,25.506,Missing
+447,57,No,108,102,72,70,28.844,Missing
+448,57,No,120,117,80,76,22.898,Missing
+449,55,Yes,134,132,82,80,35.474,Missing
+450,58,No,121,108,68,60,23.117,I already eat healthy foods
+451,56,No,128,126,78,70,32.712,I have been trying to eat healthier lately
+452,54,No,150,156,83,86,32.144,I have been trying to eat healthier lately
+453,54,No,108,110,72,70,28.718,I am interested in finding out more
+454,57,Yes,110,110,80,80,27.019,Missing
+455,62,No,94,102,50,60,22.39,Missing
+456,64,No,159,142,85,85,34.734,Missing
+457,62,Yes,142,122,82,84,31.224,I have been trying to eat healthier lately
+458,53,No,106,120,72,77,30.257,Missing
+459,64,No,123,130,76,69,30.98,Missing
+460,60,No,112,108,63,64,25.491,Missing
+461,54,No,98,98,70,60,23.068,Missing
+462,54,No,124,124,74,76,21.511,Missing
+463,59,No,130,134,80,80,46.464,I already eat healthy foods
+464,57,Yes,132,130,88,88,35.609,Missing
+465,53,No,126,128,78,80,31.327,Missing
+466,55,No,124,117,80,75,26.535,Missing
+467,63,No,128,130,78,76,24.473,I have been trying to eat healthier lately
+468,52,No,152,132,98,82,19.05,Missing
+469,54,Yes,150,148,110,92,30.99,I am interested in finding out more
+470,51,Yes,104,105,71,71,52.327,Missing
+471,56,Yes,137,144,91,84,42.782,Missing
+472,64,No,120,116,72,70,28.822,Missing
+473,60,No,103,104,66,62,28.783,I already eat healthy foods
+474,61,No,110,108,80,68,33.915,I am very interested
+475,58,No,146,146,80,80,32.866,Missing
+476,52,No,140,138,90,91,22.389,Missing
+477,54,No,124,128,78,70,21.393,I have been trying to eat healthier lately
+478,51,Yes,122,122,84,84,33.382,I am very interested
+479,57,No,128,128,70,70,33.544,Missing
+480,51,No,114,111,76,62,30.5,Missing
+481,52,No,116,112,79,76,28.728,Missing
+482,60,No,118,112,60,76,27.858,Missing
+483,51,Yes,170,160,108,100,40.976,I have been trying to eat healthier lately
+484,55,Yes,142,146,80,84,37.344,Missing
+485,61,No,126,126,80,80,26.124,I have been trying to eat healthier lately
+486,62,No,120,100,72,60,28.425,I already eat healthy foods
+487,47,No,112,114,80,72,33.686,I am very interested
+488,54,No,112,108,68,70,21.741,I already eat healthy foods
+489,64,No,130,130,80,80,26.642,I have been trying to eat healthier lately
+490,58,Yes,122,120,74,74,28.872,Missing
+491,52,No,104,100,60,58,28.443,Missing
+492,63,No,120,126,72,74,14.386,I am very interested
+493,51,No,132,126,90,84,43.906,Missing
+494,52,No,100,100,70,80,36.313,I am very interested
+495,54,No,106,106,62,66,30.026,I am very interested
+496,54,No,100,133,65,80,29.971,I am interested in finding out more
+497,51,No,100,102,60,62,23.848,Missing
+498,57,No,120,122,80,80,37.949,Missing
+499,61,No,130,122,80,78,30.911,I already eat healthy foods
+500,54,No,128,120,80,78,35.832,Missing
+501,57,No,90,92,60,60,25.481,I am very interested
+502,59,Yes,169,149,94,93,28.29,I already eat healthy foods
+503,60,No,130,128,78,80,32.599,Missing
+504,54,No,114,122,73,75,27.228,I have been trying to eat healthier lately
+505,53,No,112,112,80,80,27.107,I have been trying to eat healthier lately
+506,53,No,134,120,80,80,23.744,Missing
+507,59,No,90,92,66,66,19.9,I already eat healthy foods
+508,50,No,114,118,68,70,22.509,Missing
+509,45,No,118,120,72,72,25.043,I am very interested
+510,49,No,96,94,60,62,21.254,I already eat healthy foods
+511,55,No,112,112,76,72,43.458,I have been trying to eat healthier lately
+512,49,No,121,120,80,80,21.633,Missing
+513,56,No,104,118,60,62,30.254,Missing
+514,50,No,135,130,90,88,20.784,Missing
+515,59,No,124,119,80,80,26.926,I have been trying to eat healthier lately
+516,51,No,132,128,80,80,31.996,I already eat healthy foods
+517,56,Yes,116,112,72,82,28.561,I already eat healthy foods
+518,57,Yes,136,128,82,80,26.599,I am very interested
+519,53,No,116,120,78,78,25.22,I have been trying to eat healthier lately
+520,50,No,119,120,78,80,35.667,I am very interested
+521,58,No,124,122,84,82,37.198,Missing
+522,52,No,136,134,84,74,26.957,Missing
+523,56,Yes,122,122,82,80,32.763,I am very interested
+524,63,Yes,120,138,80,78,40.322,I already eat healthy foods
+525,56,Yes,128,127,86,82,23.564,Missing
+526,57,No,150,138,96,88,26.744,I am very interested
+527,58,No,148,122,95,82,27.402,Missing
+528,51,Yes,130,130,86,86,40.676,Missing
+529,53,Yes,120,116,82,78,27.332,Missing
+530,55,No,120,120,70,70,32.676,Missing
+531,52,Yes,132,132,86,86,40.377,Missing
+532,52,No,130,124,80,80,29.185,I am very interested
+533,60,No,118,116,62,62,26.576,I already eat healthy foods
+534,63,No,102,104,79,74,26.352,I have been trying to eat healthier lately
+535,45,No,104,100,74,74,34.716,Missing
+536,42,No,108,118,71,72,31.39,Missing
+537,62,No,120,120,80,80,30.088,Missing
+538,56,No,124,130,80,84,29.239,I already eat healthy foods
+539,57,No,116,118,62,76,33.732,I am interested in finding out more
+540,55,No,128,120,80,70,29.847,Missing
+541,53,No,102,124,66,82,41.872,Missing
+542,60,No,118,118,70,70,28.587,Missing
+543,56,Yes,120,130,80,90,35.408,I am interested in finding out more
+544,54,No,110,110,70,74,24.468,I am not interested
+545,53,No,105,101,72,70,23.389,Missing
+546,52,No,130,130,100,80,37.666,Missing
+547,58,No,114,112,60,60,24.393,I am interested in finding out more
+548,56,No,125,122,79,76,23.925,I am very interested
+549,59,No,122,138,86,86,37.989,Missing
+550,61,No,131,140,74,78,32.8,Missing
+551,51,No,100,100,70,70,22.149,I have been trying to eat healthier lately
+552,52,No,146,146,76,82,50.604,Missing
+553,54,No,112,126,71,84,22.847,Missing
+554,55,Yes,112,122,50,68,50.826,I have been trying to eat healthier lately
+555,56,No,120,120,81,80,20.147,Missing
+556,59,No,112,118,64,64,20.933,Missing
+557,63,No,116,116,76,76,40.78,Missing
+558,56,Yes,122,118,88,72,36.733,I am very interested
+559,61,No,138,167,79,81,61.604,Missing
+560,53,No,126,130,76,86,28.268,I have been trying to eat healthier lately
+561,47,No,112,108,68,65,32.836,I am very interested
+562,60,No,110,110,80,80,22.357,I have been trying to eat healthier lately
+563,57,No,112,110,90,76,34.327,Missing
+564,60,No,111,101,80,68,17.711,I am very interested
+565,50,No,140,140,80,78,25.014,I am very interested
+566,45,No,108,110,62,62,19.513,I am very interested
+567,52,No,124,120,82,80,37.668,I have been trying to eat healthier lately
+568,51,No,102,112,78,82,25.555,Missing
+569,50,No,142,142,104,104,31.516,I already eat healthy foods
+570,45,No,110,108,72,70,27.204,I already eat healthy foods
+571,64,Yes,136,124,90,72,41.59,Missing
+572,51,No,92,100,79,80,22.847,I am interested in finding out more
+573,52,No,112,106,78,74,42.902,I have been trying to eat healthier lately
+574,60,No,142,131,90,90,27.737,I have been trying to eat healthier lately
+575,51,No,120,130,82,84,22.702,Missing
+576,53,No,120,116,70,60,46.06,I have been trying to eat healthier lately
+577,51,No,132,128,80,78,25.8,I already eat healthy foods
+578,61,No,138,137,87,88,33.077,I am very interested
+579,54,No,132,130,72,68,25.661,Missing
+580,51,No,142,140,90,88,34.012,Missing
+581,51,No,102,110,68,62,33.88,I am very interested
+582,61,No,110,124,71,72,29.371,I have been trying to eat healthier lately
+583,45,No,89,96,51,52,24.388,Missing
+584,64,Yes,108,100,60,62,21.509,Missing
+585,51,Yes,134,129,80,79,51.869,I have been trying to eat healthier lately
+586,57,No,108,126,62,80,48.45,I have been trying to eat healthier lately
+587,62,No,120,98,72,57,22.432,I already eat healthy foods
+588,50,Yes,98,100,72,70,23.509,I have been trying to eat healthier lately
+589,54,Yes,138,118,90,88,32.225,I am interested in finding out more
+590,51,No,142,142,86,86,38.893,I am very interested
+591,64,Yes,130,130,80,80,27.676,Missing
+592,51,No,126,118,72,71,38.432,Missing
+593,44,No,118,116,78,76,35.921,I am very interested
+594,53,No,138,128,84,84,28.051,I already eat healthy foods
+595,56,No,111,100,78,120,40.527,Missing
+596,60,No,126,122,80,76,34.717,I have been trying to eat healthier lately
+597,61,No,120,104,72,66,29.164,Missing
+598,56,Yes,131,129,77,74,33.186,I have been trying to eat healthier lately
+599,49,No,100,90,64,62,30.191,I have been trying to eat healthier lately
+600,52,No,140,132,78,80,54.74,Missing
+601,53,No,104,104,60,65,32.561,I am very interested
+602,59,No,109,109,79,79,29.18,I have been trying to eat healthier lately
+603,56,No,133,130,79,79,41.028,I already eat healthy foods
+604,57,No,104,111,64,70,32.312,Missing
+605,62,No,130,118,79,20,20.174,Missing
+606,57,No,124,124,82,80,24.005,I am interested in finding out more
+607,61,Yes,150,150,88,78,34.786,I am very interested
+608,57,No,111,108,82,76,22.661,Missing
+609,53,Yes,138,139,90,81,36.262,I already eat healthy foods
+610,53,No,114,122,80,80,27.026,Missing
+611,62,No,105,126,68,62,15.659,I have been trying to eat healthier lately
+612,57,No,110,110,68,64,31.728,Missing
+613,59,No,108,104,64,66,30.959,I am very interested
+614,44,No,106,100,62,62,20.739,Missing
+615,46,No,124,122,72,70,48.771,I am very interested
+616,62,No,134,132,84,80,25.287,Missing
+617,51,No,116,110,76,74,21.788,Missing
+618,60,No,110,133,70,82,30.73,Missing
+619,52,Yes,124,124,82,82,30.801,Missing
+620,51,No,130,130,78,70,35.913,Missing
+621,54,No,138,126,76,77,48.842,Missing
+622,61,No,128,120,81,80,31.953,Missing
+623,61,No,114,112,86,84,34.414,I am very interested
+624,52,No,138,138,72,70,39.345,Missing
+625,63,No,106,110,64,68,17.555,I am interested in finding out more
+626,54,No,105,121,84,86,26.135,I am very interested
+627,58,Yes,164,158,90,93,31.65,I am very interested
+628,51,No,114,112,76,74,37.44,I am very interested
+629,57,No,103,110,72,74,42.739,I have been trying to eat healthier lately
+630,62,No,140,130,90,90,39.387,I have been trying to eat healthier lately
+631,60,Yes,101,101,57,57,50.276,I am very interested
+632,64,Yes,124,128,82,82,40.639,Missing
+633,60,Yes,128,120,74,71,22.826,I am very interested
+634,51,No,112,110,62,60,22.779,I already eat healthy foods
+635,60,No,108,108,67,68,21.746,Missing
+636,64,No,150,163,71,78,25.462,Missing
+637,56,No,118,120,78,80,22.588,Missing
+638,54,No,120,120,81,80,39.39,I have been trying to eat healthier lately
+639,60,No,120,120,80,80,33.937,Missing
+640,53,Yes,122,120,84,80,21.764,Missing
+641,54,No,122,130,80,70,38.698,I have been trying to eat healthier lately
+642,50,Yes,154,154,90,90,25.399,I have been trying to eat healthier lately
+643,60,Yes,122,120,84,79,39.694,I have been trying to eat healthier lately
+644,64,No,122,120,76,77,24.967,I have been trying to eat healthier lately
+645,50,No,110,112,80,78,27.881,I am interested in finding out more
+646,57,No,132,138,78,76,23.559,I am very interested
+647,60,No,118,116,70,76,23.345,I am very interested
+648,60,No,120,118,82,80,30.623,I already eat healthy foods
+649,47,No,158,128,80,80,47.591,I already eat healthy foods
+650,53,Yes,124,124,84,84,26.336,I already eat healthy foods
+651,60,No,136,110,80,20,48.169,Missing
+652,56,No,120,120,78,78,26.997,Missing
+653,60,Yes,134,136,84,84,33.457,I have been trying to eat healthier lately
+654,57,No,124,120,86,88,36.463,I am very interested
+655,61,No,78,99,59,59,21.716,I already eat healthy foods
+656,62,No,130,130,78,78,28.338,Missing
+657,61,No,132,119,61,74,25.816,Missing
+658,60,Yes,138,134,82,80,32.078,I have been trying to eat healthier lately
+659,53,Yes,124,128,68,70,29.216,I am interested in finding out more
+660,52,No,112,93,66,60,25.817,Missing
+661,54,No,98,90,50,48,24.49,I have been trying to eat healthier lately
+662,47,No,115,112,70,73,35.303,I already eat healthy foods
+663,44,No,98,96,63,63,24.612,I am very interested
+664,50,No,128,136,78,79,28.804,I am very interested
+665,56,No,138,134,84,82,27.8,Missing
+666,54,Yes,140,132,82,70,18.738,Missing
+667,50,No,108,108,60,60,39.955,I have been trying to eat healthier lately
+668,59,No,112,114,78,79,27.672,Missing
+669,54,Yes,130,130,90,80,32.481,Missing
+670,58,No,130,130,82,82,25.761,I have been trying to eat healthier lately
+671,57,No,118,118,68,68,45.806,Missing
+672,63,No,138,128,80,80,27.843,I have been trying to eat healthier lately
+673,47,No,106,100,70,70,34.216,I have been trying to eat healthier lately
+674,55,No,140,136,80,72,26.724,I already eat healthy foods
+675,60,No,115,120,69,70,22.755,I am very interested
+676,51,No,132,125,90,90,36.681,Missing
+677,56,No,130,130,80,82,40.95,Missing
+678,61,No,114,116,68,70,35.39,I am interested in finding out more
+679,64,No,130,130,82,82,31.703,I have been trying to eat healthier lately
+680,60,No,102,102,75,78,24.928,I have been trying to eat healthier lately
+681,48,No,127,134,71,70,34.67,I already eat healthy foods
+682,55,No,110,110,61,76,25.584,Missing
+683,62,No,98,114,65,80,60.594,Missing
+684,56,No,108,108,60,60,27.263,Missing
+685,57,No,114,110,78,78,31.453,I already eat healthy foods
+686,60,No,128,144,74,90,39.387,Missing
+687,50,No,116,116,70,68,38.739,I have been trying to eat healthier lately
+688,54,No,110,110,70,74,35.295,I am interested in finding out more
+689,58,No,121,133,72,78,38.897,I am very interested
+690,60,No,120,120,85,80,39.997,Missing
+691,54,No,120,120,76,76,31.728,I am very interested
+692,53,Yes,134,151,85,95,34.453,I already eat healthy foods
+693,43,No,118,114,66,68,40.128,Missing
+694,62,No,120,120,70,70,49.166,Missing
+695,58,No,128,110,68,77,33.387,I have been trying to eat healthier lately
+696,52,No,112,118,64,66,24.549,Missing
+697,62,Yes,130,120,82,85,38.84,I am very interested
+698,49,No,120,120,82,76,38.199,I am interested in finding out more
+699,52,Yes,120,115,82,80,38.978,I am interested in finding out more
+700,60,No,112,110,76,78,38.064,I am interested in finding out more
+701,58,No,122,102,80,80,27.315,I am very interested
+702,64,No,124,130,78,82,35.999,I have been trying to eat healthier lately
+703,50,Yes,126,126,84,84,48.366,I already eat healthy foods
+704,62,No,124,120,74,72,40.948,I have been trying to eat healthier lately
+705,50,Yes,162,140,100,98,22.522,Missing
+706,53,No,130,120,82,80,21.022,Missing
+707,50,No,137,132,84,86,33.581,Missing
+708,57,No,116,100,58,60,31.893,I have been trying to eat healthier lately
+709,49,No,124,126,76,68,37.52,I am interested in finding out more
+710,60,Yes,132,126,81,80,33.909,Missing
+711,60,No,128,126,80,75,36.422,Missing
+712,57,No,130,128,80,80,29.441,I am interested in finding out more
+713,55,Yes,180,190,100,108,37.987,I already eat healthy foods
+714,49,No,100,100,62,62,31.852,I am interested in finding out more
+715,56,No,110,108,63,68,30.044,Missing
+716,53,No,110,110,64,64,23.656,Missing
+717,51,No,168,158,98,100,26.614,Missing
+718,50,No,110,108,60,62,33.036,I have been trying to eat healthier lately
+719,52,No,132,130,90,84,24.589,Missing
+720,55,No,98,100,65,56,25.126,I have been trying to eat healthier lately
+721,58,No,126,124,84,86,29.972,I am very interested
+722,46,No,118,118,82,80,26.414,I am very interested
+723,54,Yes,144,144,86,84,34.787,Missing
+724,54,No,104,100,64,61,29.789,I already eat healthy foods
+725,61,No,147,140,89,80,35.701,Missing
+726,50,Yes,122,120,60,68,19.553,Missing
+727,53,No,148,136,78,68,27.118,Missing
+728,51,No,150,152,90,100,38.064,I am interested in finding out more
+729,57,No,136,131,73,72,29.125,I have been trying to eat healthier lately
+730,60,Yes,118,118,80,80,30.669,Missing
+731,63,No,122,118,68,72,39.93,I am very interested
+732,54,No,114,110,66,70,22.047,I already eat healthy foods
+733,51,No,106,114,74,70,22.143,Missing
+734,55,No,116,112,68,68,28.568,I have been trying to eat healthier lately
+735,55,No,105,110,70,75,20.435,I am interested in finding out more
+736,63,Yes,132,128,84,76,35.603,I have been trying to eat healthier lately
+737,54,No,134,138,80,78,25.196,I am very interested
+738,50,Yes,124,128,78,80,19.76,Missing
+739,56,Yes,138,138,86,86,29.205,I am very interested
+740,54,No,110,110,70,70,24.866,I have been trying to eat healthier lately
+741,60,No,116,112,66,69,34.008,I already eat healthy foods
+742,52,No,141,136,90,88,52.915,I have been trying to eat healthier lately
+743,54,No,122,110,62,60,31.255,Missing
+744,62,No,138,132,83,80,39.103,I am very interested
+745,53,Yes,130,128,90,88,25.922,Missing
+746,64,No,142,112,64,60,40.19,Missing
+747,47,No,120,132,78,79,33.411,I am very interested
+748,59,No,120,122,80,82,40.444,I have been trying to eat healthier lately
+749,58,Yes,132,130,86,80,33.434,Missing
+750,56,Yes,142,140,98,90,34.928,I already eat healthy foods
+751,64,No,110,108,75,70,17.718,Missing
+752,52,No,101,100,78,68,17.199,I am very interested
+753,46,No,100,100,64,64,26.577,Missing
+754,50,Yes,146,136,96,84,33.422,Missing
+755,52,No,112,112,70,70,36.96,I already eat healthy foods
+756,57,No,140,138,72,68,32.279,Missing
+757,51,No,122,128,78,80,36.556,I already eat healthy foods
+758,53,No,130,122,80,74,22.746,Missing
+759,49,Yes,120,118,60,64,30.771,I am interested in finding out more
+760,54,No,137,138,86,83,33.935,Missing
+761,53,Yes,127,128,74,80,27.573,Missing
+762,56,No,115,122,70,64,30.538,I am very interested
+763,63,No,114,98,65,62,20.018,I am very interested
+764,59,No,144,142,88,78,29.162,I am interested in finding out more
+765,40,Yes,105,103,63,65,26.269,I am interested in finding out more
+766,60,No,131,130,80,80,25.122,Missing
+767,56,Yes,162,160,102,100,22.92,Missing
+768,50,No,109,118,72,82,34.005,I am interested in finding out more
+769,56,No,114,110,70,70,36.029,Missing
+770,47,No,126,119,80,80,29.564,Missing
+771,64,No,122,122,80,80,29.953,I already eat healthy foods
+772,53,No,126,110,70,78,28.455,Missing
+773,47,No,130,126,80,75,29.501,I already eat healthy foods
+774,51,No,124,122,80,78,31.208,I am interested in finding out more
+775,53,No,116,120,64,66,26.025,I already eat healthy foods
+776,54,No,138,134,82,80,33.671,I am interested in finding out more
+777,46,No,114,108,62,62,31.534,I am very interested
+778,47,No,108,106,64,72,19.334,I already eat healthy foods
+779,52,No,102,102,60,60,22.959,Missing
+780,56,Yes,126,128,64,72,30.191,I have been trying to eat healthier lately
+781,51,Yes,140,124,92,80,32.866,Missing
+782,54,No,102,110,64,74,23.234,I am very interested
+783,49,No,134,132,88,86,47.164,Missing
+784,59,Yes,128,120,84,84,37.689,Missing
+785,60,No,136,128,68,60,33.55,Missing
+786,54,Yes,130,132,92,90,40.162,Missing
+787,52,No,108,106,70,70,29.173,I am very interested
+788,55,No,130,128,80,80,37.74,Missing
+789,57,Yes,100,110,60,68,31.077,I am interested in finding out more
+790,51,No,112,100,72,64,27.37,Missing
+791,57,Yes,121,152,95,94,40.491,I already eat healthy foods
+792,54,No,100,100,70,68,32.681,I have been trying to eat healthier lately
+793,45,Yes,134,129,79,80,29.578,I have been trying to eat healthier lately
+794,54,No,110,110,68,66,27.215,I already eat healthy foods
+795,60,No,140,128,84,80,28.486,I have been trying to eat healthier lately
+796,60,No,126,128,78,78,29.27,I am very interested
+797,53,No,110,108,71,72,24.417,I already eat healthy foods
+798,57,Yes,134,139,84,90,28.601,Missing
+799,49,No,100,110,70,72,26.38,Missing
+800,55,No,120,110,72,70,26.5,I am very interested
+801,63,No,140,128,78,70,32.383,I have been trying to eat healthier lately
+802,53,Yes,127,128,80,80,39.03,Missing
+803,54,No,112,116,68,70,31.204,I have been trying to eat healthier lately
+804,45,No,120,118,72,72,37.986,I have been trying to eat healthier lately
+805,50,No,106,107,62,61,23.691,I already eat healthy foods
+806,55,No,122,116,80,80,29.934,I have been trying to eat healthier lately
+807,51,No,116,118,78,78,39.387,Missing
+808,58,Yes,150,152,100,86,35.957,Missing
+809,61,No,122,118,66,60,30.768,I have been trying to eat healthier lately
+810,62,Yes,126,122,84,80,21.493,I already eat healthy foods
+811,56,No,110,108,60,62,32.271,I am interested in finding out more
+812,49,No,116,130,78,78,26.661,Missing
+813,64,No,120,122,70,68,27.865,I already eat healthy foods
+814,52,No,109,110,72,66,30.749,I am very interested
+815,63,No,122,121,80,80,28.618,I have been trying to eat healthier lately
+816,49,No,105,108,80,72,16.046,Missing
+817,62,No,110,108,70,70,23.439,Missing
+818,54,Yes,142,142,92,94,41.527,Missing
+819,51,No,126,122,80,82,36.97,Missing
+820,56,No,138,138,76,76,18.47,Missing
+821,57,No,120,123,80,80,39.733,I am very interested
+822,51,No,108,110,70,70,23.948,Missing
+823,53,No,140,138,82,82,48.725,I am very interested
+824,60,No,128,132,76,78,34.599,Missing
+825,51,No,121,120,72,72,31.665,Missing
+826,55,No,92,82,58,44,20.773,I have been trying to eat healthier lately
+827,53,No,94,100,68,74,26.369,I am very interested
+828,56,No,140,120,81,82,26.419,Missing
+829,49,Yes,132,132,88,88,36.002,I have been trying to eat healthier lately
+830,59,No,112,116,64,81,27.426,I have been trying to eat healthier lately
+831,56,No,108,110,72,76,26.731,I already eat healthy foods
+832,58,No,126,120,75,75,29.991,Missing
+833,59,No,106,104,68,69,37.397,Missing
+834,56,No,108,102,64,66,37.991,Missing
+835,56,Yes,120,124,78,76,38.007,I have been trying to eat healthier lately
+836,48,No,118,102,72,76,30.611,I have been trying to eat healthier lately
+837,51,No,127,127,74,74,33.343,I am very interested
+838,49,No,122,124,80,82,29.234,Missing
+839,50,No,134,144,84,92,27.461,I have been trying to eat healthier lately
+840,59,No,140,132,80,84,31.63,Missing
+841,45,No,118,116,82,80,28.912,Missing
+842,46,Yes,122,132,86,78,42.727,Missing
+843,50,No,109,104,68,72,26.117,I am interested in finding out more
+844,50,Yes,110,108,70,76,27.062,Missing
+845,50,Yes,122,127,90,84,43.174,Missing
+846,51,No,140,132,72,70,24.306,Missing
+847,62,No,116,120,60,80,29.536,I am very interested
+848,52,No,122,124,70,70,26.15,Missing
+849,62,No,118,110,78,68,26.818,Missing
+850,52,No,110,108,70,70,25.693,I have been trying to eat healthier lately
+851,56,No,128,128,70,70,31.109,I am interested in finding out more
+852,64,Yes,146,120,92,62,23.592,Missing
+853,62,No,128,122,68,77,28.181,I am very interested
+854,49,No,102,113,63,72,17.284,I already eat healthy foods
+855,50,No,122,122,78,74,18.418,Missing
+856,53,No,128,116,61,76,23.201,I have been trying to eat healthier lately
+857,46,No,118,118,72,70,29.887,I have been trying to eat healthier lately
+858,54,No,126,131,80,80,28.405,I have been trying to eat healthier lately
+859,47,No,96,100,58,64,38.993,I have been trying to eat healthier lately
+860,53,No,140,140,98,94,49.551,I have been trying to eat healthier lately
+861,59,Yes,142,138,82,80,35.914,Missing
+862,63,No,118,110,66,60,19.411,I already eat healthy foods
+863,46,No,120,129,86,80,26.449,I have been trying to eat healthier lately
+864,53,No,106,100,70,70,21.165,Missing
+865,55,No,112,112,70,70,20.973,I already eat healthy foods
+866,54,No,125,128,78,80,38.298,Missing
+867,56,No,110,110,60,62,24.407,I already eat healthy foods
+868,55,No,110,110,80,76,24.303,I have been trying to eat healthier lately
+869,58,No,112,116,68,72,20.808,Missing
+870,59,Yes,150,138,97,86,36.335,Missing
+871,52,No,118,120,78,78,26.553,Missing
+872,60,No,97,97,63,63,41.715,I am not interested
+873,53,No,118,114,62,62,23.339,I already eat healthy foods
+874,59,No,120,116,75,70,36.025,Missing
+875,55,No,128,126,64,80,66.415,Missing
+876,50,No,105,110,61,69,28.211,I am very interested
+877,50,No,118,120,70,70,27.523,I have been trying to eat healthier lately
+878,53,No,122,122,76,82,27.997,I am very interested
+879,48,No,120,117,85,83,28.645,Missing
+880,54,Yes,100,108,70,72,29.388,I already eat healthy foods
+881,60,No,118,116,60,60,35.445,Missing
+882,57,No,118,120,72,74,21.677,I already eat healthy foods
+883,64,No,130,120,80,70,28.733,I have been trying to eat healthier lately
+884,48,No,130,126,80,80,26.918,I already eat healthy foods
+885,60,No,140,132,76,86,50.358,I have been trying to eat healthier lately
+886,64,No,132,130,68,66,29.217,Missing
+887,54,No,96,96,72,65,26.397,I already eat healthy foods
+888,49,Yes,155,142,88,92,48.761,Missing
+889,48,No,118,120,72,76,37.943,Missing
+890,54,No,98,98,60,62,16.558,Missing
+891,60,No,134,130,78,70,25.196,I am very interested
+892,58,No,144,138,98,90,33.229,I have been trying to eat healthier lately
+893,60,No,136,132,89,89,34.518,Missing
+894,54,No,118,122,76,80,31.969,Missing
+895,52,Yes,126,136,82,74,37.258,Missing
+896,49,No,120,128,76,66,41.593,I am interested in finding out more
+897,56,No,140,142,108,100,35.83,Missing
+898,59,Yes,115,112,72,74,37.092,Missing
+899,55,No,120,98,76,68,26.198,I already eat healthy foods
+900,60,No,118,118,72,64,34.62,Missing
+901,61,No,124,120,62,82,28.017,Missing
+902,53,Yes,142,138,92,90,45.674,I have been trying to eat healthier lately
+903,58,No,92,92,58,56,19.674,I already eat healthy foods
+904,55,Yes,142,136,88,84,33.091,Missing
+905,56,No,102,96,60,62,27.353,I have been trying to eat healthier lately
+906,49,No,100,100,62,60,38.885,I am very interested
+907,59,Yes,126,126,84,84,31.411,Missing
+908,58,Yes,136,134,82,78,36.887,Missing
+909,58,Yes,138,140,80,82,30.81,Missing
+910,59,No,134,118,74,78,37.737,I am very interested
+911,63,No,149,149,79,79,25.111,I am very interested
+912,55,Yes,124,120,78,76,27.067,Missing
+913,56,No,114,122,82,87,27.67,I already eat healthy foods
+914,64,Yes,150,138,84,85,26.506,I am interested in finding out more
+915,49,No,116,108,80,82,40.815,I already eat healthy foods
+916,58,Yes,130,120,64,70,22.587,I have been trying to eat healthier lately
+917,60,No,120,121,82,82,17.479,I am very interested
+918,58,No,128,134,80,78,33.555,I have been trying to eat healthier lately
+919,58,No,128,128,92,88,34.677,I already eat healthy foods
+920,60,No,128,134,82,86,33.639,Missing
+921,53,Yes,150,144,88,90,27.799,I am very interested
+922,59,No,122,132,64,70,31.727,Missing
+923,63,Yes,130,130,78,78,28.336,I have been trying to eat healthier lately
+924,48,No,97,104,68,78,28.056,I have been trying to eat healthier lately
+925,52,No,122,132,80,80,31.986,Missing
+926,48,No,130,130,80,80,25.467,I am very interested
+927,48,No,104,102,60,60,34.793,I am very interested
+928,54,No,120,144,78,78,33.242,I am very interested
+929,57,No,110,118,72,68,28.297,I already eat healthy foods
+930,51,No,115,100,63,64,27.106,I have been trying to eat healthier lately
+931,50,No,122,138,85,88,35.432,Missing
+932,48,No,132,130,62,80,27.909,I am very interested
+933,53,No,120,115,74,70,34.217,I already eat healthy foods
+934,52,Yes,122,120,84,80,28.19,I have been trying to eat healthier lately
+935,50,Yes,136,130,86,80,27.85,Missing
+936,61,Yes,124,124,70,70,32.162,I have been trying to eat healthier lately
+937,54,No,132,128,84,86,35.804,Missing
+938,48,Yes,125,124,77,77,28.674,I am very interested
+939,56,No,120,116,78,75,45.972,I am very interested
+940,53,No,136,136,80,82,41.599,I am very interested
+941,51,No,126,128,78,78,34.329,I am very interested
+942,60,No,100,100,80,80,24.931,I already eat healthy foods
+943,55,No,139,140,80,76,25.922,I am very interested
+944,61,No,118,120,64,60,22.735,I have been trying to eat healthier lately
+945,57,No,134,147,75,89,34.334,I already eat healthy foods
+946,58,No,157,141,67,76,34.992,I have been trying to eat healthier lately
+947,52,No,110,110,70,70,26.598,I have been trying to eat healthier lately
+948,61,No,134,132,94,86,27.421,Missing
+949,51,No,114,102,78,67,21.374,Missing
+950,57,No,126,116,72,70,26.443,Missing
+951,55,No,123,120,80,80,42.546,Missing
+952,50,No,108,110,64,62,27.184,Missing
+953,54,No,146,126,90,80,38.181,Missing
+954,52,No,120,110,60,70,28.562,I am very interested
+955,46,No,122,122,70,70,29.148,I already eat healthy foods
+956,50,No,116,116,70,70,23.223,I am very interested
+957,54,Yes,144,144,89,90,45.022,I am very interested
+958,56,No,107,126,80,80,30.221,Missing
+959,64,No,114,120,63,58,22.879,Missing
+960,50,No,130,142,78,90,28.314,I have been trying to eat healthier lately
+961,59,No,90,104,60,70,26.426,Missing
+962,52,No,120,113,79,74,49.109,I am very interested
+963,55,No,112,110,69,70,27.908,I already eat healthy foods
+964,57,No,122,122,79,79,33.791,I am interested in finding out more
+965,64,No,132,138,72,78,34.625,I already eat healthy foods
+966,54,No,120,110,82,80,24.104,Missing
+967,59,No,146,142,70,68,48.892,Missing
+968,50,No,118,112,72,80,28.367,I am interested in finding out more
+969,55,Yes,139,142,92,90,50.397,I am very interested
+970,54,No,116,120,54,62,46.916,Missing
+971,49,No,120,128,80,82,39.614,I am very interested
+972,55,No,120,119,70,70,21.941,Missing
+973,47,No,110,110,70,72,28.886,Missing
+974,53,No,100,98,58,60,21.537,Missing
+975,57,No,134,121,76,70,23.324,I already eat healthy foods
+976,50,Yes,110,101,62,58,29.246,I already eat healthy foods
+977,60,No,118,124,78,82,21.076,Missing
+978,48,No,120,116,84,82,29.921,Missing
+979,49,Yes,110,112,60,58,28.452,Missing
+980,62,No,120,124,90,98,23.595,I already eat healthy foods
+981,55,No,121,110,80,70,23.216,I already eat healthy foods
+982,60,No,116,112,64,60,37.735,I have been trying to eat healthier lately
+983,58,No,112,108,66,67,19.33,I have been trying to eat healthier lately
+984,51,Yes,138,135,81,80,35.971,I am interested in finding out more
+985,53,No,116,119,72,68,27.239,I am very interested
+986,51,No,100,100,70,70,28.697,Missing
+987,52,No,121,117,70,68,27.418,I already eat healthy foods
+988,50,No,128,124,82,80,36.382,I am interested in finding out more
+989,63,No,124,120,62,60,16.574,Missing
+990,50,Yes,124,110,84,74,27.655,I am very interested
+991,49,No,124,128,74,74,34.93,Missing
+992,53,No,144,139,87,83,25.672,I am very interested
+993,55,No,134,128,94,86,23.521,Missing
+994,51,No,120,125,80,84,28.309,I am very interested
+995,56,No,168,172,108,90,32.299,Missing
+996,48,No,104,103,60,60,31.114,I have been trying to eat healthier lately
+997,50,No,118,116,62,60,24.533,I have been trying to eat healthier lately
+998,48,No,136,112,80,62,41.325,I have been trying to eat healthier lately
+999,56,No,139,134,82,80,29.911,I am very interested
+1000,53,No,111,107,71,70,26.418,Missing
+1001,52,Yes,110,110,80,78,31.225,Missing
+1002,52,No,112,120,74,70,22.298,I have been trying to eat healthier lately
+1003,44,No,110,120,75,75,42.677,I am very interested
+1004,64,Yes,146,147,79,72,40.883,I have been trying to eat healthier lately
+1005,52,No,110,112,64,68,21.471,Missing
+1006,51,No,100,104,62,60,30.937,I have been trying to eat healthier lately
+1007,55,No,116,117,77,78,29.833,I have been trying to eat healthier lately
+1008,52,No,110,108,72,72,31.738,Missing
+1009,54,No,134,130,70,70,23.197,I am not interested
+1010,48,No,100,118,66,70,23.379,Missing
+1011,48,No,112,116,80,78,25.906,I am very interested
+1012,49,No,118,102,72,64,19.336,I am interested in finding out more
+1013,50,No,124,120,68,71,23.289,Missing
+1014,49,No,112,100,68,64,22.525,I already eat healthy foods
+1015,49,Yes,100,104,60,62,16.857,I am not interested
+1016,54,No,120,122,82,84,35.265,I have been trying to eat healthier lately
+1017,56,No,110,114,69,72,32.556,Missing
+1018,64,No,123,115,67,71,32.815,I have been trying to eat healthier lately
+1019,60,No,124,124,70,70,32.579,I am interested in finding out more
+1020,58,No,124,127,79,78,34.467,I am very interested
+1021,61,No,150,130,79,92,39.093,Missing
+1022,51,Yes,122,117,60,68,29.491,Missing
+1023,43,No,138,136,74,75,37.743,I am very interested
+1024,61,No,142,128,84,88,45.117,Missing
+1025,53,No,112,112,72,72,23.686,Missing
+1026,63,No,114,118,56,60,28.006,I am very interested
+1027,63,No,130,130,84,84,39.507,Missing
+1028,51,No,113,105,72,68,27.105,Missing
+1029,56,Yes,132,129,90,86,27.737,I am very interested
+1030,49,No,112,106,60,60,31.084,Missing
+1031,53,No,122,106,81,73,19.429,I have been trying to eat healthier lately
+1032,52,No,110,110,66,70,25.048,Missing
+1033,48,No,92,96,72,72,31.266,I am interested in finding out more
+1034,55,No,118,118,76,76,24.351,Missing
+1035,62,No,120,116,60,60,27.266,I already eat healthy foods
+1036,51,No,121,119,75,74,31.774,I am interested in finding out more
+1037,48,Yes,156,156,90,94,23.684,Missing
+1038,55,No,104,110,70,70,28.323,Missing
+1039,58,No,128,124,74,68,22.193,I have been trying to eat healthier lately
+1040,61,No,130,130,84,82,34.922,I have been trying to eat healthier lately
+1041,48,No,112,110,80,80,27.308,I am very interested
+1042,60,No,116,122,88,86,23.747,I am interested in finding out more
+1043,63,Yes,190,186,110,100,21.253,I already eat healthy foods
+1044,58,No,124,122,82,82,29.003,I have been trying to eat healthier lately
+1045,46,No,100,105,62,68,25.678,Missing
+1046,54,No,103,103,67,64,31.741,I already eat healthy foods
+1047,53,No,120,128,80,75,35.061,I already eat healthy foods
+1048,58,No,136,135,79,80,28.307,I have been trying to eat healthier lately
+1049,58,No,130,120,70,72,46.923,Missing
+1050,49,Yes,152,144,90,90,36.17,I am interested in finding out more
+1051,46,No,119,120,72,72,32.856,I am interested in finding out more
+1052,57,Yes,138,128,81,70,38.594,I already eat healthy foods
+1053,48,Yes,142,132,92,90,31.622,Missing
+1054,61,No,121,120,76,74,28.04,I already eat healthy foods
+1055,49,No,120,120,70,72,34.055,I have been trying to eat healthier lately
+1056,61,No,138,132,86,84,18.619,I have been trying to eat healthier lately
+1057,51,No,140,120,70,76,27.7,Missing
+1058,50,No,110,140,86,88,47.854,I am very interested
+1059,60,No,116,124,78,78,29.534,I am interested in finding out more
+1060,62,Yes,140,130,82,81,25.698,Missing
+1061,56,No,120,122,72,74,38.217,I have been trying to eat healthier lately
+1062,49,No,120,122,80,74,27.947,I have been trying to eat healthier lately
+1063,56,No,131,130,82,80,26.923,I am interested in finding out more
+1064,53,No,138,130,73,75,30.042,Missing
+1065,54,No,116,118,64,70,21.149,I already eat healthy foods
+1066,61,No,120,120,70,68,41.088,I have been trying to eat healthier lately
+1067,53,No,102,102,71,70,28.651,I am very interested
+1068,55,No,132,130,70,70,36.761,I have been trying to eat healthier lately
+1069,59,Yes,130,157,72,90,38.273,I am very interested
+1070,48,Yes,110,108,70,70,29.406,Missing
+1071,53,No,132,136,80,82,52.542,I have been trying to eat healthier lately
+1072,53,No,110,108,78,72,29.912,I already eat healthy foods
+1073,50,Yes,120,118,78,70,38.304,I already eat healthy foods
+1074,56,No,108,108,60,52,20.797,I am very interested
+1075,57,Yes,144,130,88,82,48.696,I already eat healthy foods
+1076,54,Yes,144,126,82,68,31.892,I have been trying to eat healthier lately
+1077,57,No,122,118,72,70,38.556,Missing
+1078,54,No,118,110,72,68,21.769,Missing
+1079,47,No,110,112,60,70,29.944,Missing
+1080,58,Yes,110,116,72,72,32.784,I have been trying to eat healthier lately
+1081,48,No,143,140,92,86,28.193,I have been trying to eat healthier lately
+1082,50,Yes,134,132,84,84,26.931,Missing
+1083,49,No,120,116,72,70,30.843,Missing
+1084,50,No,116,116,64,64,27.185,Missing
+1085,48,Yes,132,144,88,97,43.082,I am very interested
+1086,48,No,111,120,70,80,21.286,I already eat healthy foods
+1087,48,No,116,112,68,72,27.477,I am very interested
+1088,54,No,120,119,70,70,44.647,I already eat healthy foods
+1089,58,No,122,120,80,80,37.768,Missing
+1090,62,Yes,127,126,82,80,24.453,I have been trying to eat healthier lately
+1091,52,No,108,102,68,62,38.676,I have been trying to eat healthier lately
+1092,54,No,90,86,60,64,21.711,I already eat healthy foods
+1093,52,No,114,110,67,68,21.94,I am very interested
+1094,58,No,200,114,76,80,25.611,Missing
+1095,53,No,114,112,72,70,30.554,I am interested in finding out more
+1096,53,No,132,128,80,70,39.444,Missing
+1097,50,No,120,120,78,74,35.052,I have been trying to eat healthier lately
+1098,52,Yes,132,104,76,80,19.212,I have been trying to eat healthier lately
+1099,58,No,128,122,70,70,43.255,I have been trying to eat healthier lately
+1100,49,No,109,108,62,74,37.661,I am very interested
+1101,55,No,109,112,73,68,21.333,I am very interested
+1102,61,No,110,110,70,70,27.722,Missing
+1103,46,No,117,120,74,70,17.371,I already eat healthy foods
+1104,59,Yes,128,132,70,70,29.578,I have been trying to eat healthier lately
+1105,59,No,130,120,96,88,37.03,I am very interested
+1106,61,No,120,120,78,80,29.062,I am interested in finding out more
+1107,54,Yes,136,139,90,100,28.849,I already eat healthy foods
+1108,48,No,130,117,80,76,34.688,I have been trying to eat healthier lately
+1109,48,No,135,137,77,77,44.198,I already eat healthy foods
+1110,55,Yes,93,93,66,66,24.678,Missing
+1111,54,No,115,115,80,80,26.13,I have been trying to eat healthier lately
+1112,51,No,101,114,59,71,30.435,I am interested in finding out more
+1113,48,No,116,124,78,80,42.708,I am very interested
+1114,61,No,121,110,70,68,31.007,I already eat healthy foods
+1115,55,No,122,124,86,86,32.294,I am very interested
+1116,51,Yes,147,131,94,89,30.097,I have been trying to eat healthier lately
+1117,53,No,144,112,80,80,37.666,I already eat healthy foods
+1118,52,No,114,112,74,70,23.827,I already eat healthy foods
+1119,51,No,118,124,64,70,26.263,Missing
+1120,57,No,180,140,122,192,32.519,I am very interested
+1121,64,No,110,110,70,70,28.253,I am very interested
+1122,53,Yes,130,128,82,82,27.645,I have been trying to eat healthier lately
+1123,58,No,120,120,80,80,21.741,I have been trying to eat healthier lately
+1124,59,Yes,124,126,82,70,35.238,Missing
+1125,59,No,114,112,74,70,24.029,Missing
+1126,53,No,110,117,70,74,20.967,I have been trying to eat healthier lately
+1127,48,No,116,118,72,72,31.605,Missing
+1128,64,No,92,92,60,58,29.878,I have been trying to eat healthier lately
+1129,51,No,122,120,86,84,37.007,Missing
+1130,59,No,112,112,74,84,41.221,Missing
+1131,64,No,118,110,73,74,24.403,I already eat healthy foods
+1132,48,No,118,118,70,68,30.201,I already eat healthy foods
+1133,47,No,120,121,80,80,37.856,Missing
+1134,53,No,118,118,78,76,28.792,I have been trying to eat healthier lately
+1135,64,No,122,118,70,70,38.587,I have been trying to eat healthier lately
+1136,47,No,99,100,66,68,21.748,Missing
+1137,62,No,132,134,80,76,31.791,Missing
+1138,54,Yes,124,126,82,82,31.094,I am very interested
+1139,64,Yes,122,116,84,79,34.224,Missing
+1140,61,No,149,165,89,88,21.558,Missing
+1141,52,No,120,117,80,82,29.891,I am interested in finding out more
+1142,55,No,126,120,80,76,34.151,I have been trying to eat healthier lately
+1143,47,No,98,92,68,68,30.605,Missing
+1144,57,No,110,110,80,80,32.829,Missing
+1145,54,Yes,118,118,80,80,30.32,Missing
+1146,54,No,120,118,60,60,48.969,I have been trying to eat healthier lately
+1147,58,Yes,123,125,84,83,41.505,I have been trying to eat healthier lately
+1148,61,No,130,128,76,76,28.329,I am very interested
+1149,45,No,102,128,70,70,24.801,I have been trying to eat healthier lately
+1150,51,No,110,113,70,71,26.489,I am interested in finding out more
+1151,43,No,116,107,60,60,34.228,I am very interested
+1152,60,No,110,106,66,60,47.137,I am very interested
+1153,59,No,136,142,66,80,34.441,I am interested in finding out more
+1154,54,Yes,118,112,65,60,33.926,I am very interested
+1155,56,No,132,133,66,68,34.956,I already eat healthy foods
+1156,50,No,90,80,50,50,27.885,I have been trying to eat healthier lately
+1157,48,No,110,110,74,72,28.808,I have been trying to eat healthier lately
+1158,61,No,120,128,70,80,30.509,I have been trying to eat healthier lately
+1159,64,Yes,110,106,64,70,26.668,I have been trying to eat healthier lately
+1160,49,No,118,118,74,80,43.23,Missing
+1161,50,No,112,110,68,64,29.447,Missing
+1162,58,No,116,114,76,80,25.644,Missing
+1163,52,Yes,140,140,88,80,29.996,Missing
+1164,58,No,147,140,77,77,28.341,I am interested in finding out more
+1165,47,Yes,121,124,88,86,33.049,I am very interested
+1166,59,No,105,84,68,60,19.264,I have been trying to eat healthier lately
+1167,55,No,120,118,60,60,24.88,I am interested in finding out more
+1168,53,Yes,142,140,94,98,49.4,I am very interested
+1169,63,No,104,108,76,80,30.494,I have been trying to eat healthier lately
+1170,55,Yes,142,112,82,68,26.198,I am very interested
+1171,59,No,118,116,76,72,40.776,I am very interested
+1172,55,Yes,140,138,88,88,32.39,Missing
+1173,63,No,130,142,72,88,26.835,I already eat healthy foods
+1174,55,No,89,90,70,70,21.296,I have been trying to eat healthier lately
+1175,60,No,106,104,64,62,31.261,I am interested in finding out more
+1176,59,No,100,96,60,64,17.132,I have been trying to eat healthier lately
+1177,51,No,137,130,80,78,28.854,Missing
+1178,56,No,98,88,60,60,19.212,I already eat healthy foods
+1179,53,No,118,118,64,62,20.563,I have been trying to eat healthier lately
+1180,64,Yes,132,126,86,86,37.965,Missing
+1181,55,No,118,118,78,70,31.076,Missing
+1182,48,No,108,118,64,72,30.611,I have been trying to eat healthier lately
+1183,58,Yes,148,148,82,93,45.718,I already eat healthy foods
+1184,53,No,118,128,64,70,29.931,Missing
+1185,60,No,118,120,80,81,34.525,Missing
+1186,54,No,130,124,80,86,27.433,I already eat healthy foods
+1187,51,Yes,142,124,90,80,29.147,I am very interested
+1188,61,No,119,120,73,66,24.052,Missing
+1189,53,No,201,150,105,90,24.732,I have been trying to eat healthier lately
+1190,51,No,125,125,78,78,29.168,Missing
+1191,53,No,120,120,68,68,23.501,Missing
+1192,47,No,100,107,62,68,27.736,I am very interested
+1193,54,No,130,108,80,60,31.259,I have been trying to eat healthier lately
+1194,49,Yes,129,120,85,87,29.637,Missing
+1195,56,No,130,126,82,80,23.369,I already eat healthy foods
+1196,61,No,138,154,110,120,34.727,I already eat healthy foods
+1197,61,Yes,130,126,70,70,22.736,Missing
+1198,53,Yes,107,107,82,82,26.5,I already eat healthy foods
+1199,44,No,110,110,72,70,24.604,I am very interested
+1200,49,No,118,118,82,82,28.458,Missing
+1201,50,Yes,116,118,74,70,20.775,Missing
+1202,58,No,122,136,75,72,28.649,Missing
+1203,47,No,121,120,80,82,40.31,Missing
+1204,64,No,128,129,70,72,24.831,I already eat healthy foods
+1205,55,No,132,142,78,84,25.224,I am interested in finding out more
+1206,64,No,122,122,78,78,34.87,Missing
+1207,53,No,110,118,80,80,40.881,I have been trying to eat healthier lately
+1208,64,No,132,130,68,60,58.029,I have been trying to eat healthier lately
+1209,64,No,106,117,64,70,29.542,I am very interested
+1210,61,No,118,122,82,82,36.614,Missing
+1211,48,No,118,126,70,86,49.519,Missing
+1212,55,No,120,120,68,70,22.171,I already eat healthy foods
+1213,55,No,120,120,80,82,24.755,I have been trying to eat healthier lately
+1214,52,No,113,112,84,88,43.562,Missing
+1215,59,No,122,120,78,78,24.056,I am interested in finding out more
+1216,49,No,92,110,64,80,28.488,I have been trying to eat healthier lately
+1217,56,No,112,110,68,72,24.26,I am very interested
+1218,57,No,122,123,71,70,39.942,I already eat healthy foods
+1219,54,No,118,120,80,78,45.428,I am interested in finding out more
+1220,59,No,124,124,60,60,22.994,I have been trying to eat healthier lately
+1221,57,Yes,158,152,90,88,35.147,I already eat healthy foods
+1222,53,No,96,97,62,66,21.532,I have been trying to eat healthier lately
+1223,53,No,108,100,72,61,31.239,Missing
+1224,48,No,110,105,80,78,28.792,I already eat healthy foods
+1225,61,Yes,134,128,70,66,23.547,I already eat healthy foods
+1226,53,No,142,130,77,72,22.042,Missing
+1227,62,No,120,130,78,68,32.832,I have been trying to eat healthier lately
+1228,60,No,118,116,58,66,26.276,Missing
+1229,51,No,110,110,78,78,29.782,Missing
+1230,58,No,109,112,80,76,32.196,I am interested in finding out more
+1231,52,No,130,127,78,80,36.342,Missing
+1232,50,No,118,128,72,80,30.088,I have been trying to eat healthier lately
+1233,50,Yes,122,122,70,70,28.998,Missing
+1234,51,No,112,110,72,72,34.543,I already eat healthy foods
+1235,51,No,101,115,69,74,30.863,Missing
+1236,54,No,102,105,60,60,20.266,I already eat healthy foods
+1237,55,No,100,112,81,87,33.593,I have been trying to eat healthier lately
+1238,59,No,129,120,80,80,37.592,I have been trying to eat healthier lately
+1239,62,No,114,100,78,66,22.494,I already eat healthy foods
+1240,56,No,119,116,78,80,28.637,Missing
+1241,55,No,122,128,84,78,37.728,I am very interested
+1242,49,No,140,141,90,90,28.631,I already eat healthy foods
+1243,53,No,130,124,70,62,23.932,Missing
+1244,55,No,119,124,82,80,22.03,Missing
+1245,51,No,120,122,64,66,28.863,I am very interested
+1246,57,No,120,118,72,72,24.619,I am very interested
+1247,59,No,138,125,84,85,31.898,I already eat healthy foods
+1248,50,No,124,120,80,80,31.995,Missing
+1249,45,Yes,110,112,75,74,25.446,I am very interested
+1250,52,Yes,122,120,84,84,21.593,Missing
+1251,57,No,152,148,80,80,51.829,I have been trying to eat healthier lately
+1252,47,No,104,102,76,70,18.932,Missing
+1253,51,No,120,112,82,74,23.805,Missing
+1254,57,No,132,118,80,78,36.226,I have been trying to eat healthier lately
+1255,59,No,130,124,79,70,46.667,I am interested in finding out more
+1256,51,No,108,100,68,58,27.555,Missing
+1257,52,No,126,128,74,76,38.786,I have been trying to eat healthier lately
+1258,49,Yes,100,96,58,60,18.876,Missing
+1259,58,Yes,128,126,84,82,26.962,I am very interested
+1260,59,No,118,114,72,64,26.599,Missing
+1261,61,No,132,138,86,90,43.734,I am very interested
+1262,63,No,104,102,62,62,27.357,I am interested in finding out more
+1263,47,No,100,91,61,53,21.431,I already eat healthy foods
+1264,43,No,132,132,78,78,31.837,I have been trying to eat healthier lately
+1265,59,Yes,148,152,82,82,23.695,I have been trying to eat healthier lately
+1266,56,No,119,118,66,68,22.924,I already eat healthy foods
+1267,58,Yes,114,110,62,66,26.452,I already eat healthy foods
+1268,48,No,116,120,71,70,21.603,Missing
+1269,47,No,124,112,86,83,39.054,Missing
+1270,57,No,118,115,71,71,22.81,Missing
+1271,49,No,119,124,76,70,41.597,I am very interested
+1272,55,No,138,138,86,86,39.245,I have been trying to eat healthier lately
+1273,49,No,160,132,81,90,47.52,I am very interested
+1274,51,No,116,126,78,80,37.752,I have been trying to eat healthier lately
+1275,62,Yes,140,140,86,86,32.343,Missing
+1276,56,No,118,136,78,80,27.861,I am very interested
+1277,58,No,126,122,81,83,28.331,I have been trying to eat healthier lately
+1278,64,Yes,126,114,72,74,38.623,I already eat healthy foods
+1279,56,No,118,118,64,64,32.906,I already eat healthy foods
+1280,58,No,120,122,68,68,28.395,I already eat healthy foods
+1281,51,No,126,100,60,60,27.16,I already eat healthy foods
+1282,48,No,98,98,73,72,34.723,Missing
+1283,53,No,106,106,64,64,21.464,Missing
+1284,58,No,122,123,79,76,32.25,Missing
+1285,47,No,125,122,80,76,43.856,Missing
+1286,49,No,110,130,70,76,24.774,I have been trying to eat healthier lately
+1287,51,No,102,102,74,74,39.21,Missing
+1288,56,No,112,111,86,82,39.498,I am very interested
+1289,55,No,110,104,60,82,44.633,Missing
+1290,54,No,110,122,66,72,28.133,I am very interested
+1291,58,No,140,137,100,100,35.508,I am interested in finding out more
+1292,57,Yes,140,138,84,86,23.62,Missing
+1293,63,No,122,120,80,70,33.527,I already eat healthy foods
+1294,60,No,112,120,70,60,38.159,I already eat healthy foods
+1295,55,No,140,148,80,80,46.089,I am very interested
+1296,56,No,144,120,80,90,35.023,I have been trying to eat healthier lately
+1297,61,Yes,160,156,92,84,33.885,I am very interested
+1298,64,Yes,124,120,72,68,36.116,Missing
+1299,49,Yes,132,128,80,70,33.846,I already eat healthy foods
+1300,54,No,142,138,82,90,42.021,I have been trying to eat healthier lately
+1301,53,No,101,94,78,70,28.118,I am very interested
+1302,64,No,126,129,74,76,23.747,I have been trying to eat healthier lately
+1303,57,No,130,120,80,70,31.366,I am very interested
+1304,57,No,142,140,78,80,41.095,Missing
+1305,48,Yes,130,130,80,80,27.829,Missing
+1306,58,No,132,128,80,76,32.172,Missing
+1307,47,No,110,110,78,78,34.229,I am very interested
+1308,64,No,130,130,78,80,30.938,Missing
+1309,54,Yes,138,132,84,78,30.659,I have been trying to eat healthier lately
+1310,59,No,112,113,76,75,36.862,Missing
+1311,60,No,116,122,82,64,39.609,Missing
+1312,61,Yes,126,119,62,64,31.241,I have been trying to eat healthier lately
+1313,61,No,115,119,75,78,32.968,Missing
+1314,55,No,117,116,70,68,29.941,I am very interested
+1315,50,Yes,138,140,88,88,36.779,I am interested in finding out more
+1316,49,No,121,118,70,70,34.127,I have been trying to eat healthier lately
+1317,61,No,136,140,80,82,31.593,Missing
+1318,63,No,108,102,64,62,22.327,Missing
+1319,62,No,132,138,78,80,27.375,I have been trying to eat healthier lately
+1320,51,No,124,137,78,84,33.529,I am very interested
+1321,51,No,114,103,70,70,21.722,I already eat healthy foods
+1322,50,No,114,114,76,78,22.545,I already eat healthy foods
+1323,59,No,124,120,80,78,24.346,I have been trying to eat healthier lately
+1324,47,No,110,120,72,74,48.226,I have been trying to eat healthier lately
+1325,57,No,116,108,66,60,22.639,I have been trying to eat healthier lately
+1326,54,No,122,128,78,86,52.16,I am very interested
+1327,58,No,100,110,60,68,30.388,I have been trying to eat healthier lately
+1328,47,No,100,100,71,72,72.939,Missing
+1329,64,No,124,124,70,70,24.912,I already eat healthy foods
+1330,53,No,120,120,72,70,29.798,I have been trying to eat healthier lately
+1331,61,Yes,132,140,84,90,29.655,I am not interested
+1332,47,No,142,142,80,80,27.457,Missing
+1333,59,Yes,134,124,82,84,29.104,Missing
+1334,51,No,112,116,78,78,31.642,Missing
+1335,55,No,124,122,84,80,32.046,I have been trying to eat healthier lately
+1336,48,No,118,128,84,80,24.603,I am interested in finding out more
+1337,41,No,110,110,78,69,34.577,Missing
+1338,60,Yes,150,140,90,88,31.886,I already eat healthy foods
+1339,48,No,110,115,75,80,31.145,I am interested in finding out more
+1340,61,No,118,120,78,81,31.015,Missing
+1341,55,No,104,104,60,60,35.285,I have been trying to eat healthier lately
+1342,53,No,100,92,64,58,32.548,I am very interested
+1343,49,Yes,102,106,80,80,33.855,I have been trying to eat healthier lately
+1344,50,No,118,100,68,60,28.374,Missing
+1345,51,No,122,122,80,84,46.129,I am interested in finding out more
+1346,47,No,108,110,64,64,18.335,Missing
+1347,57,No,96,98,60,60,33.757,I have been trying to eat healthier lately
+1348,55,Yes,144,144,90,90,27.778,I have been trying to eat healthier lately
+1349,47,No,112,110,80,76,26.46,I have been trying to eat healthier lately
+1350,57,No,132,128,80,78,30.403,I have been trying to eat healthier lately
+1351,55,No,128,126,78,80,44.955,I have been trying to eat healthier lately
+1352,60,No,117,96,70,54,23.711,I already eat healthy foods
+1353,52,Yes,160,166,111,98,35.822,I am very interested
+1354,43,No,110,104,70,68,25.922,Missing
+1355,54,No,130,110,80,80,32.786,Missing
+1356,59,No,116,116,70,70,35.614,I have been trying to eat healthier lately
+1357,47,Yes,136,128,96,88,30.761,I have been trying to eat healthier lately
+1358,50,No,110,118,70,78,32.721,Missing
+1359,46,No,100,100,58,60,22.851,I am very interested
+1360,54,No,122,126,80,80,29.955,I already eat healthy foods
+1361,62,No,106,106,66,68,20.652,I am interested in finding out more
+1362,50,No,120,122,61,64,23.196,I have been trying to eat healthier lately
+1363,57,Yes,138,124,82,82,27.1,I am interested in finding out more
+1364,48,No,116,116,84,82,39.491,Missing
+1365,58,Yes,125,130,83,82,33.982,Missing
+1366,51,Yes,102,114,60,76,27.21,Missing
+1367,48,No,120,118,70,70,19.54,I am very interested
+1368,57,No,116,116,66,60,30.213,I am very interested
+1369,47,Yes,133,140,84,100,34.712,Missing
+1370,51,No,122,116,74,69,35.997,I have been trying to eat healthier lately
+1371,46,No,122,122,74,72,25.268,Missing
+1372,62,No,126,126,73,68,22.03,I am interested in finding out more
+1373,51,No,110,112,80,76,21.976,Missing
+1374,61,No,136,125,87,88,29.779,I am very interested
+1375,49,No,124,124,70,66,31.999,I am very interested
+1376,46,No,104,108,66,74,24.873,I have been trying to eat healthier lately
+1377,49,Yes,140,128,82,78,27.648,Missing
+1378,54,No,98,98,70,70,22.048,I have been trying to eat healthier lately
+1379,53,Yes,126,126,86,86,33.605,Missing
+1380,54,No,130,124,84,84,20.494,I already eat healthy foods
+1381,64,No,118,116,76,74,25.821,I already eat healthy foods
+1382,64,No,110,110,66,66,31.764,I have been trying to eat healthier lately
+1383,64,No,100,105,72,62,24.66,I have been trying to eat healthier lately
+1384,57,No,122,120,78,80,24.845,I already eat healthy foods
+1385,48,No,102,96,60,68,28.359,Missing
+1386,56,No,122,120,80,80,22.755,I already eat healthy foods
+1387,51,No,110,110,72,62,24.207,I am very interested
+1388,51,No,118,114,74,70,28.798,Missing
+1389,63,No,136,138,76,78,24.537,I am very interested
+1390,55,No,110,110,60,60,25.266,I already eat healthy foods
+1391,59,No,120,140,79,80,47.926,I am interested in finding out more
+1392,49,No,122,122,76,76,26.182,Missing
+1393,60,No,152,148,102,96,21.918,I already eat healthy foods
+1394,56,No,169,170,78,88,27.767,Missing
+1395,51,No,88,88,58,58,34.234,Missing
+1396,48,No,110,111,72,72,28.727,Missing
+1397,59,No,120,120,82,80,45.223,Missing
+1398,59,No,118,118,72,70,25.824,Missing
+1399,54,No,124,122,74,74,27.278,I am very interested
+1400,63,No,106,104,68,74,24.236,I am very interested
+1401,53,No,96,100,66,70,30.545,I have been trying to eat healthier lately
+1402,63,No,102,106,60,60,30.492,Missing
+1403,58,No,106,110,78,70,22.636,I already eat healthy foods
+1404,60,Yes,132,132,80,80,32.646,I have been trying to eat healthier lately
+1405,58,No,112,98,76,68,29.567,I am very interested
+1406,50,No,148,120,94,92,34.693,I am very interested
+1407,57,No,106,105,66,66,40.711,I already eat healthy foods
+1408,60,Yes,120,120,78,80,22.83,Missing
+1409,55,No,100,94,68,62,27.369,I am very interested
+1410,45,No,108,108,72,74,22.838,Missing
+1411,51,No,132,134,92,92,34.207,I have been trying to eat healthier lately
+1412,49,No,106,108,62,62,27.038,I am very interested
+1413,48,No,119,121,73,80,33.459,Missing
+1414,49,No,100,102,60,60,28.939,I have been trying to eat healthier lately
+1415,54,No,110,102,62,58,26.86,Missing
+1416,56,No,116,126,86,88,29.746,Missing
+1417,52,No,112,116,84,86,29.766,I already eat healthy foods
+1418,61,No,104,110,78,82,34.951,I am very interested
+1419,45,Yes,118,112,76,71,33.916,I am not interested
+1420,58,No,134,136,80,72,54.711,Missing
+1421,58,No,120,120,84,84,33.538,I am very interested
+1422,47,No,122,128,74,76,35.728,I have been trying to eat healthier lately
+1423,58,No,115,124,75,80,31.398,Missing
+1424,59,No,118,118,78,78,22.075,I am very interested
+1425,60,No,132,130,82,82,22.087,I am very interested
+1426,58,No,120,120,80,80,25.859,I already eat healthy foods
+1427,56,No,124,126,78,78,28.61,I have been trying to eat healthier lately
+1428,49,No,120,120,64,64,21.409,I am very interested
+1429,55,No,120,118,80,78,25.606,I have been trying to eat healthier lately
+1430,50,No,132,108,70,78,31.514,Missing
+1431,56,No,119,119,77,70,31.593,I am very interested
+1432,48,Yes,120,112,70,72,30.607,Missing
+1433,54,No,99,100,56,58,28.51,I am very interested
+1434,61,Yes,118,120,60,68,30.482,I am very interested
+1435,64,Yes,140,134,83,82,56.322,I already eat healthy foods
+1436,62,No,122,112,70,68,26.752,I already eat healthy foods
+1437,46,No,122,120,84,80,30.191,I already eat healthy foods
+1438,51,No,108,112,64,60,24.059,I am very interested
+1439,43,No,103,106,78,62,34.349,I have been trying to eat healthier lately
+1440,49,No,116,110,72,82,27.212,I have been trying to eat healthier lately
+1441,49,No,110,114,76,68,26.169,Missing
+1442,41,No,96,90,62,60,24.303,Missing
+1443,51,No,138,118,78,79,23.075,I have been trying to eat healthier lately
+1444,47,No,120,128,80,79,32.93,I am interested in finding out more
+1445,53,No,110,108,80,80,30.092,I have been trying to eat healthier lately
+1446,56,Yes,122,122,80,80,50.618,I am very interested
+1447,49,No,103,112,69,59,25.654,I have been trying to eat healthier lately
+1448,55,No,128,116,80,79,23.411,I already eat healthy foods
+1449,57,No,104,109,71,68,27.788,I am interested in finding out more
+1450,57,No,130,120,86,86,38.963,I have been trying to eat healthier lately
+1451,58,Yes,120,122,78,78,32.093,Missing
+1452,58,No,124,124,80,79,22.456,Missing
+1453,57,No,112,110,62,61,21.524,I already eat healthy foods
+1454,48,No,142,136,60,80,55.046,Missing
+1455,59,No,122,124,86,80,40.416,Missing
+1456,50,No,120,122,68,72,20.297,Missing
+1457,49,No,110,112,70,70,28.944,I have been trying to eat healthier lately
+1458,46,No,116,116,62,62,20.853,Missing
+1459,47,No,118,120,78,78,27.408,I am interested in finding out more
+1460,57,Yes,128,124,82,82,34.419,I am very interested
+1461,60,No,128,126,78,79,25.632,I am very interested
+1462,54,No,137,140,84,82,33.912,Missing
+1463,64,No,122,120,72,74,41.539,Missing
+1464,49,No,112,110,70,70,25.524,I have been trying to eat healthier lately
+1465,58,No,110,110,80,74,36.434,Missing
+1466,59,No,102,100,60,68,22.602,I already eat healthy foods
+1467,60,No,120,110,83,72,32.598,Missing
+1468,60,Yes,132,124,85,76,30.03,Missing
+1469,53,No,114,118,78,78,28.93,I already eat healthy foods
+1470,50,No,120,126,80,82,29.33,I am very interested
+1471,55,No,126,131,80,78,33.426,I already eat healthy foods
+1472,58,No,120,130,70,70,29.563,I already eat healthy foods
+1473,52,No,112,103,80,80,34.395,I have been trying to eat healthier lately
+1474,48,No,96,109,64,70,28.526,I have been trying to eat healthier lately
+1475,49,No,158,164,86,90,29.794,I am very interested
+1476,47,No,115,112,66,66,21.047,I already eat healthy foods
+1477,52,No,130,130,84,85,41.258,I have been trying to eat healthier lately
+1478,47,No,120,122,75,77,26.313,I am interested in finding out more
+1479,55,No,122,120,74,78,40.312,I am interested in finding out more
+1480,62,No,110,112,72,72,25.055,Missing
+1481,53,No,115,115,66,66,30.493,I already eat healthy foods
+1482,54,No,120,118,76,70,30.122,I have been trying to eat healthier lately
+1483,64,No,144,170,80,79,35.474,I already eat healthy foods
+1484,56,No,160,152,82,79,22.941,I am not interested
+1485,56,No,135,120,70,70,22.953,I am interested in finding out more
+1486,59,No,100,100,60,60,29.216,I am very interested
+1487,54,No,114,110,72,72,28.724,I have been trying to eat healthier lately
+1488,56,No,100,100,60,60,23.212,Missing
+1489,51,No,96,100,54,58,24.86,I already eat healthy foods
+1490,56,No,112,118,72,74,28.258,Missing
+1491,52,No,116,115,62,62,24.578,Missing
+1492,49,No,120,124,72,70,25.243,Missing
+1493,47,Yes,122,120,77,84,29.754,Missing
+1494,51,No,126,130,82,90,37.618,I have been trying to eat healthier lately
+1495,51,No,128,124,80,76,31.588,Missing
+1496,54,No,118,100,80,76,16.267,I have been trying to eat healthier lately
+1497,48,No,102,119,64,69,29.368,Missing
+1498,49,No,122,120,70,70,31.587,I already eat healthy foods
+1499,48,No,130,128,70,84,55.202,I have been trying to eat healthier lately
+1500,50,No,100,101,70,70,19.745,Missing
+1501,53,No,110,110,68,64,20.677,Missing
+1502,56,No,118,120,80,82,26.898,I have been trying to eat healthier lately
+1503,55,Yes,144,142,94,90,34.523,I already eat healthy foods
+1504,52,No,120,124,78,76,26.815,I am very interested
+1505,64,No,118,110,70,80,28.86,I am very interested
+1506,62,No,92,98,62,58,26.882,Missing
+1507,57,Yes,148,146,70,66,50.327,Missing
+1508,62,No,108,102,60,60,30.042,I have been trying to eat healthier lately
+1509,48,Yes,138,136,84,90,48.147,Missing
+1510,63,Yes,160,142,88,88,33.548,Missing
+1511,47,No,126,122,91,86,29.736,Missing
+1512,51,No,110,106,68,70,32.28,I am very interested
+1513,57,No,140,161,85,90,33.738,I have been trying to eat healthier lately
+1514,58,No,118,114,78,78,26.117,I have been trying to eat healthier lately
+1515,61,No,136,130,76,72,26.013,Missing
+1516,50,No,120,118,66,68,35.783,I have been trying to eat healthier lately
+1517,58,No,160,146,90,76,36.713,I am very interested
+1518,50,No,132,128,91,90,45.122,I have been trying to eat healthier lately
+1519,63,No,151,140,92,90,42.893,I have been trying to eat healthier lately
+1520,51,No,120,119,64,68,25.195,Missing
+1521,59,No,110,116,70,76,29.634,I am interested in finding out more
+1522,52,No,136,132,84,82,34.346,I am not interested
+1523,54,No,130,130,79,70,30.17,Missing
+1524,52,No,124,118,78,80,39.286,I am very interested
+1525,47,Yes,120,121,70,70,35.694,I am very interested
+1526,57,No,156,156,70,78,37.772,Missing
+1527,46,No,110,112,69,70,26.822,Missing
+1528,56,No,128,130,84,78,36.737,I have been trying to eat healthier lately
+1529,46,No,132,118,80,78,45.631,Missing
+1530,46,Yes,142,140,86,88,32.897,I have been trying to eat healthier lately
+1531,52,No,118,118,70,70,40.582,I have been trying to eat healthier lately
+1532,58,Yes,120,122,60,60,26.387,Missing
+1533,49,No,114,110,68,60,28.21,Missing
+1534,58,No,128,126,71,70,39.964,I am interested in finding out more
+1535,49,No,112,118,69,64,33.816,I have been trying to eat healthier lately
+1536,51,No,170,156,102,105,51.652,I have been trying to eat healthier lately
+1537,60,Yes,164,162,94,92,41.178,I already eat healthy foods
+1538,48,No,112,112,66,82,34.784,Missing
+1539,61,No,138,118,80,78,29.053,I have been trying to eat healthier lately
+1540,49,No,114,114,80,80,33.883,Missing
+1541,46,No,106,114,71,74,44.379,I am very interested
+1542,56,No,160,128,90,82,39.378,Missing
+1543,52,No,120,112,62,60,26.503,I am very interested
+1544,47,No,132,131,78,78,32.714,Missing
+1545,56,No,100,96,76,76,23.555,I have been trying to eat healthier lately
+1546,50,Yes,148,144,90,82,42.668,Missing
+1547,62,Yes,134,140,90,90,26.104,I already eat healthy foods
+1548,57,No,142,120,70,59,34.059,Missing
+1549,49,No,128,126,74,72,21.022,I am very interested
+1550,52,No,110,108,82,72,23.702,I have been trying to eat healthier lately
+1551,49,No,118,110,72,70,20.014,I am very interested
+1552,56,No,140,140,82,82,55.332,I have been trying to eat healthier lately
+1553,61,No,138,130,86,80,31.358,I have been trying to eat healthier lately
+1554,58,No,114,112,64,62,37.892,I have been trying to eat healthier lately
+1555,61,No,131,130,70,70,30.513,I am very interested
+1556,59,Yes,130,138,84,88,32.309,Missing
+1557,48,Yes,114,114,64,64,18.006,Missing
+1558,63,No,130,130,82,82,48.125,I am very interested
+1559,52,Yes,142,139,80,83,37.204,Missing
+1560,51,No,110,114,78,75,23.282,I already eat healthy foods
+1561,51,No,108,114,68,68,23.116,I already eat healthy foods
+1562,51,No,120,120,80,80,21.51,Missing
+1563,60,No,130,132,64,64,32.975,I have been trying to eat healthier lately
+1564,58,No,120,130,80,80,46.528,Missing
+1565,46,Yes,118,120,60,68,30.156,Missing
+1566,55,No,161,153,95,98,33.452,Missing
+1567,56,No,121,120,80,78,27.043,Missing
+1568,52,No,106,110,72,76,29.546,I am interested in finding out more
+1569,53,Yes,140,134,92,94,34.253,Missing
+1570,57,No,102,102,69,69,45.792,Missing
+1571,59,No,112,112,73,70,27.519,Missing
+1572,56,No,120,110,80,78,26.453,I have been trying to eat healthier lately
+1573,51,No,112,112,64,62,20.221,I already eat healthy foods
+1574,62,No,124,106,75,70,21.062,I already eat healthy foods
+1575,52,Yes,130,128,82,84,28.987,I am very interested
+1576,62,No,140,140,78,70,34.992,Missing
+1577,56,Yes,140,140,100,90,31.671,Missing
+1578,57,No,110,112,72,70,27.169,I am very interested
+1579,57,Yes,166,164,90,90,24.388,I have been trying to eat healthier lately
+1580,64,No,116,112,54,64,31.175,I already eat healthy foods
+1581,44,Yes,104,102,68,62,31.786,I have been trying to eat healthier lately
+1582,48,Yes,154,138,94,86,40.651,I already eat healthy foods
+1583,54,No,130,120,98,80,33.832,Missing
+1584,56,No,146,114,72,80,29.166,I have been trying to eat healthier lately
+1585,51,No,120,114,80,78,44.102,Missing
+1586,55,Yes,124,120,89,80,34.189,I am very interested
+1587,48,Yes,142,154,110,88,45.779,I have been trying to eat healthier lately
+1588,63,No,102,118,58,80,36.624,I already eat healthy foods
+1589,48,No,140,140,76,76,37.426,I am very interested
+1590,42,Yes,140,122,80,76,36.735,Missing
+1591,51,No,102,106,70,72,25.975,I have been trying to eat healthier lately
+1592,62,No,104,110,66,66,26.381,I am very interested
+1593,53,Yes,140,140,90,92,27.333,I have been trying to eat healthier lately
+1594,56,No,134,135,74,78,30.271,I have been trying to eat healthier lately
+1595,62,No,126,122,80,82,26.425,I am very interested
+1596,52,No,168,154,80,90,47.623,Missing
+1597,48,No,114,118,66,68,28.139,I already eat healthy foods
+1598,55,Yes,104,102,71,66,22.505,I already eat healthy foods
+1599,50,No,102,102,64,64,19.691,I am very interested
+1600,53,No,110,106,70,68,39.392,I have been trying to eat healthier lately
+1601,51,No,108,112,78,80,25.344,Missing
+1602,49,Yes,91,103,59,64,19.266,I am interested in finding out more
+1603,55,No,123,103,74,62,18.958,Missing
+1604,47,Yes,130,128,80,76,43.785,I have been trying to eat healthier lately
+1605,51,No,138,120,70,74,30.591,Missing
+1606,57,No,105,106,61,60,20.832,Missing
+1607,47,No,122,120,78,80,39.303,Missing
+1608,52,Yes,130,130,78,76,35.072,I have been trying to eat healthier lately
+1609,58,No,122,130,77,78,24.157,Missing
+1610,63,No,120,122,80,80,39.032,Missing
+1611,60,No,112,110,88,88,25.638,Missing
+1612,57,No,113,112,62,62,23.776,Missing
+1613,58,No,136,136,82,82,38.04,I have been trying to eat healthier lately
+1614,53,No,142,146,70,62,27.51,I already eat healthy foods
+1615,62,No,132,150,76,80,36.62,I am very interested
+1616,53,No,109,108,76,70,20.343,I am very interested
+1617,56,No,138,110,68,70,26.261,I already eat healthy foods
+1618,44,No,132,118,80,78,26.236,I am interested in finding out more
+1619,46,Yes,120,118,70,76,31.567,I already eat healthy foods
+1620,56,Yes,111,106,75,72,22.393,I have been trying to eat healthier lately
+1621,45,No,91,107,46,64,23.203,I already eat healthy foods
+1622,63,No,136,142,88,91,17.201,Missing
+1623,56,Yes,144,139,86,90,31.096,I have been trying to eat healthier lately
+1624,54,No,110,111,72,72,31.907,I have been trying to eat healthier lately
+1625,50,Yes,122,121,76,74,38.968,Missing
+1626,56,No,128,126,78,74,24.695,I already eat healthy foods
+1627,50,Yes,110,112,78,80,44.251,Missing
+1628,48,No,92,100,64,70,25.81,I am very interested
+1629,61,No,122,122,80,71,30.328,I have been trying to eat healthier lately
+1630,51,No,112,110,74,74,25.858,I already eat healthy foods
+1631,59,No,114,124,64,68,19.811,I already eat healthy foods
+1632,55,No,100,100,78,70,16.198,I am very interested
+1633,48,No,112,108,72,70,22.202,Missing
+1634,51,No,110,110,80,80,26.195,I have been trying to eat healthier lately
+1635,43,No,118,116,80,76,38.479,Missing
+1636,51,No,128,116,72,76,28.519,I have been trying to eat healthier lately
+1637,52,No,120,120,80,80,30.182,I have been trying to eat healthier lately
+1638,60,No,149,149,70,70,34.253,I have been trying to eat healthier lately
+1639,47,No,102,110,70,72,25.293,I am very interested
+1640,50,Yes,111,100,78,70,28.183,I am very interested
+1641,54,No,120,124,80,84,37.002,Missing
+1642,48,No,140,140,90,90,33.095,I have been trying to eat healthier lately
+1643,51,No,132,108,80,70,30.976,Missing
+1644,52,Yes,124,122,74,70,34.206,I am very interested
+1645,45,No,114,112,70,70,34.174,I have been trying to eat healthier lately
+1646,48,No,108,100,74,80,32.206,I have been trying to eat healthier lately
+1647,62,No,120,119,74,80,22.061,I already eat healthy foods
+1648,55,No,98,98,50,58,33.274,I am interested in finding out more
+1649,56,No,116,114,68,66,39.796,I have been trying to eat healthier lately
+1650,46,No,120,124,62,68,24.775,Missing
+1651,49,No,106,108,72,64,23.201,Missing
+1652,47,No,110,112,80,78,25.017,I have been trying to eat healthier lately
+1653,54,Yes,100,112,54,60,17.909,Missing
+1654,47,No,124,123,67,74,25.365,Missing
+1655,47,No,90,88,70,64,19.705,I already eat healthy foods
+1656,58,No,138,138,86,82,33.596,I have been trying to eat healthier lately
+1657,64,Yes,100,102,80,78,25.88,Missing
+1658,56,Yes,127,124,84,78,24.138,I am very interested
+1659,61,No,133,128,64,62,21.323,Missing
+1660,49,No,130,120,80,80,44.112,I have been trying to eat healthier lately
+1661,61,No,107,104,62,60,26.401,I am very interested
+1662,54,Yes,130,130,62,62,29.565,I already eat healthy foods
+1663,55,No,136,140,70,70,19.131,I am interested in finding out more
+1664,53,No,130,130,80,80,28.899,Missing
+1665,57,No,114,112,72,70,26.989,Missing
+1666,56,No,114,110,80,80,42.69,I have been trying to eat healthier lately
+1667,53,No,122,118,64,68,31.367,Missing
+1668,54,No,100,100,62,62,22.699,I already eat healthy foods
+1669,49,No,110,109,64,62,29.213,I have been trying to eat healthier lately
+1670,58,No,106,104,80,74,26.244,I have been trying to eat healthier lately
+1671,64,No,142,120,82,70,35.827,I have been trying to eat healthier lately
+1672,49,No,150,158,80,86,21.94,Missing
+1673,55,Yes,130,124,76,78,30.132,Missing
+1674,50,No,132,126,80,82,25.69,Missing
+1675,46,Yes,102,102,72,72,20.07,I have been trying to eat healthier lately
+1676,56,No,138,120,68,70,39.014,I have been trying to eat healthier lately
+1677,53,No,118,112,82,78,39.849,I am very interested
+1678,51,No,159,169,109,100,23.111,I have been trying to eat healthier lately
+1679,55,No,110,108,70,72,24.615,I already eat healthy foods
+1680,55,No,120,122,78,76,32.415,I already eat healthy foods
+1681,64,No,136,132,80,80,31.406,I have been trying to eat healthier lately
+1682,64,No,100,98,64,60,23.737,I already eat healthy foods
+1683,49,No,122,124,86,88,26.202,Missing
+1684,47,No,122,122,80,80,30.818,Missing
+1685,51,Yes,124,120,102,98,42.086,Missing
+1686,54,No,106,114,72,59,25.87,I already eat healthy foods
+1687,55,No,122,116,72,70,24.675,I am not interested
+1688,50,No,128,118,90,80,24.265,I already eat healthy foods
+1689,47,No,135,123,86,84,28.17,I have been trying to eat healthier lately
+1690,46,No,114,110,78,78,18.814,Missing
+1691,57,No,103,106,82,84,26.783,Missing
+1692,49,No,140,138,84,80,50.576,Missing
+1693,57,No,142,138,78,78,24.994,I have been trying to eat healthier lately
+1694,44,No,99,96,58,56,20.479,I have been trying to eat healthier lately
+1695,55,No,122,118,74,74,25.373,I have been trying to eat healthier lately
+1696,62,Yes,144,132,85,84,23.599,I am very interested
+1697,50,No,120,118,82,80,24.948,Missing
+1698,55,Yes,146,140,92,90,32.326,I have been trying to eat healthier lately
+1699,48,No,118,111,72,80,18.68,I have been trying to eat healthier lately
+1700,48,No,120,120,70,70,39.292,I have been trying to eat healthier lately
+1701,46,No,104,110,78,70,35.896,Missing
+1702,49,No,124,118,86,80,23.782,I already eat healthy foods
+1703,46,No,122,128,80,80,26.672,Missing
+1704,59,No,128,132,82,80,43.669,I have been trying to eat healthier lately
+1705,56,Yes,170,136,90,74,31.343,I already eat healthy foods
+1706,52,No,118,118,72,72,21.846,Missing
+1707,53,No,116,116,84,84,33.256,Missing
+1708,55,No,124,122,76,78,21,I am very interested
+1709,61,No,111,114,72,80,30.368,I have been trying to eat healthier lately
+1710,61,No,114,112,80,78,40.047,I have been trying to eat healthier lately
+1711,54,No,118,118,70,70,28.339,I am interested in finding out more
+1712,55,No,124,112,72,66,23.939,I have been trying to eat healthier lately
+1713,56,Yes,118,114,84,76,26.618,I am interested in finding out more
+1714,57,No,126,118,80,86,29.33,I have been trying to eat healthier lately
+1715,52,No,118,113,74,74,21.463,I already eat healthy foods
+1716,57,Yes,122,132,80,80,22.054,I have been trying to eat healthier lately
+1717,61,No,141,136,80,80,40.615,Missing
+1718,62,Yes,106,108,66,68,41.571,I am interested in finding out more
+1719,54,No,139,132,86,84,28.944,I have been trying to eat healthier lately
+1720,57,Yes,122,122,62,62,27.827,Missing
+1721,51,No,138,146,92,90,27.02,Missing
+1722,64,No,105,92,72,58,15.103,I already eat healthy foods
+1723,55,No,122,120,80,80,29.569,Missing
+1724,62,No,110,116,82,80,22.915,Missing
+1725,46,Yes,110,118,70,80,19.668,Missing
+1726,55,No,112,110,78,78,29.916,I have been trying to eat healthier lately
+1727,60,No,118,130,72,74,25.644,I already eat healthy foods
+1728,46,No,112,107,81,71,37.948,I have been trying to eat healthier lately
+1729,48,No,111,112,80,75,23.905,Missing
+1730,56,No,102,100,60,60,22.57,Missing
+1731,64,No,102,112,68,72,31.105,I already eat healthy foods
+1732,51,No,102,106,62,64,18.243,I have been trying to eat healthier lately
+1733,55,No,118,120,70,70,27.443,I have been trying to eat healthier lately
+1734,53,No,104,100,78,80,38.506,I already eat healthy foods
+1735,56,No,138,138,80,80,41.766,Missing
+1736,49,No,128,128,73,74,34.443,I am interested in finding out more
+1737,44,Yes,152,160,94,90,37.789,Missing
+1738,50,No,128,130,71,80,28.463,Missing
+1739,50,Yes,112,112,70,80,23.722,I have been trying to eat healthier lately
+1740,56,No,126,112,72,70,22.728,I have been trying to eat healthier lately
+1741,59,No,106,94,59,53,29.6,I already eat healthy foods
+1742,64,No,130,122,80,78,44.487,Missing
+1743,56,No,126,124,70,74,28.779,Missing
+1744,63,No,130,124,90,78,25.09,Missing
+1745,51,No,120,110,60,60,34.802,I already eat healthy foods
+1746,59,No,100,98,68,58,26.071,I already eat healthy foods
+1747,48,No,124,122,70,68,34.679,I am very interested
+1748,55,Yes,128,140,84,86,26.005,I have been trying to eat healthier lately
+1749,50,No,120,118,75,72,39.831,Missing
+1750,60,No,120,110,88,80,23.636,I am very interested
+1751,51,No,118,119,80,84,32.979,Missing
+1752,54,No,124,124,90,86,28.109,I already eat healthy foods
+1753,54,No,150,156,92,100,44.753,I am very interested
+1754,60,No,110,110,58,58,35.438,Missing
+1755,56,No,108,102,76,76,25.258,Missing
+1756,61,No,140,144,82,80,29.211,I already eat healthy foods
+1757,45,No,122,124,69,70,28.421,I have been trying to eat healthier lately
+1758,53,No,124,120,82,80,40.281,I have been trying to eat healthier lately
+1759,45,Yes,138,137,86,90,27.465,I already eat healthy foods
+1760,48,No,110,112,60,64,23.142,I have been trying to eat healthier lately
+1761,55,No,136,132,70,68,31.758,I am very interested
+1762,61,Yes,120,120,80,70,23.098,I already eat healthy foods
+1763,49,No,104,110,66,70,40.114,I have been trying to eat healthier lately
+1764,46,No,120,110,77,70,31.139,I am interested in finding out more
+1765,46,No,110,110,70,72,23.469,I am very interested
+1766,61,No,128,123,62,64,32.506,Missing
+1767,53,No,111,118,80,62,23.63,Missing
+1768,49,Yes,128,120,82,80,27.179,I have been trying to eat healthier lately
+1769,45,No,112,128,80,80,31.212,Missing
+1770,60,Yes,128,128,76,80,30.671,I already eat healthy foods
+1771,60,No,160,148,78,70,36.955,I am very interested
+1772,50,No,104,108,82,70,47.331,I have been trying to eat healthier lately
+1773,41,No,116,120,77,78,22.046,Missing
+1774,59,No,110,118,72,78,20.618,I already eat healthy foods
+1775,53,No,127,116,72,70,28.73,I am very interested
+1776,51,Yes,116,112,80,80,34.246,I am interested in finding out more
+1777,45,No,112,99,78,70,32.526,I am very interested
+1778,46,No,103,102,78,80,42.285,Missing
+1779,48,No,132,132,80,80,52.526,I am interested in finding out more
+1780,53,No,118,140,70,72,23.757,Missing
+1781,48,No,120,116,80,76,36.528,I have been trying to eat healthier lately
+1782,63,No,114,121,64,63,26.424,I am interested in finding out more
+1783,49,No,131,132,79,79,30.094,Missing
+1784,54,No,108,110,72,62,21.426,Missing
+1785,61,No,150,128,90,86,38.771,Missing
+1786,63,No,114,124,60,64,30.132,Missing
+1787,63,No,158,142,80,78,33.224,Missing
+1788,50,No,110,114,70,72,25.989,I already eat healthy foods
+1789,52,Yes,120,122,80,80,24.531,I already eat healthy foods
+1790,46,No,108,110,60,62,23.915,I have been trying to eat healthier lately
+1791,58,No,140,132,71,71,39.263,I have been trying to eat healthier lately
+1792,46,No,129,140,84,89,32.81,I have been trying to eat healthier lately
+1793,49,Yes,123,125,83,80,34.615,Missing
+1794,50,No,132,130,80,80,48.737,Missing
+1795,54,No,102,108,70,60,31.639,Missing
+1796,48,No,132,130,92,90,22.718,Missing
+1797,64,No,108,110,68,78,21.745,Missing
+1798,51,No,93,122,70,72,24.044,I have been trying to eat healthier lately
+1799,45,No,91,90,63,61,21.706,I already eat healthy foods
+1800,64,No,114,110,76,70,28.199,I am interested in finding out more
+1801,48,No,118,128,78,82,46.02,I am very interested
+1802,64,Yes,142,138,82,80,32.44,Missing
+1803,54,No,96,106,64,78,23.188,Missing
+1804,46,No,144,150,96,100,41.142,I already eat healthy foods
+1805,58,No,122,120,72,80,37.562,I have been trying to eat healthier lately
+1806,53,No,112,118,76,74,23.405,Missing
+1807,45,No,114,110,66,70,45.508,I am very interested
+1808,53,No,114,113,82,80,38.266,I am very interested
+1809,50,No,110,110,78,66,31.54,I have been trying to eat healthier lately
+1810,55,No,88,96,52,50,26.789,I am very interested
+1811,50,No,112,110,78,80,28.825,Missing
+1812,59,No,119,140,75,70,34.336,Missing
+1813,51,No,124,126,80,80,32.184,Missing
+1814,45,No,120,124,78,80,27.17,Missing
+1815,58,No,126,126,88,88,25.5,I already eat healthy foods
+1816,50,No,113,113,75,75,28.755,I have been trying to eat healthier lately
+1817,48,No,132,132,80,81,29.706,I am not interested
+1818,63,No,131,130,90,90,35.957,I am very interested
+1819,57,Yes,128,124,78,70,26.945,I have been trying to eat healthier lately
+1820,56,Yes,120,119,82,80,22.509,Missing
+1821,62,No,121,116,76,74,25.708,I am very interested
+1822,47,No,104,110,64,70,30.479,Missing
+1823,55,No,132,126,70,70,22.21,Missing
+1824,52,Yes,133,123,84,87,20.89,I already eat healthy foods
+1825,54,No,138,140,90,90,43.734,I am very interested
+1826,54,Yes,134,134,72,72,32.877,I have been trying to eat healthier lately
+1827,58,No,126,120,88,80,22.352,I already eat healthy foods
+1828,45,No,127,120,85,80,27.701,I am very interested
+1829,55,No,128,116,80,78,40.962,I have been trying to eat healthier lately
+1830,60,No,104,110,68,70,33.306,I already eat healthy foods
+1831,63,No,122,122,80,80,22.596,I have been trying to eat healthier lately
+1832,64,No,128,110,82,78,36.891,I already eat healthy foods
+1833,61,No,104,102,70,68,36.022,I am interested in finding out more
+1834,58,Yes,140,110,80,80,37.212,I am very interested
+1835,45,No,117,124,78,79,34.142,Missing
+1836,55,No,134,124,72,72,23.106,Missing
+1837,46,No,120,119,80,78,29.442,Missing
+1838,46,No,140,140,80,79,29.733,Missing
+1839,58,No,128,126,74,72,30.196,I have been trying to eat healthier lately
+1840,59,No,120,121,70,70,21.366,Missing
+1841,62,No,120,128,85,89,24.986,I already eat healthy foods
+1842,54,No,140,138,79,77,41.004,Missing
+1843,49,No,98,110,69,77,22.832,Missing
+1844,48,No,122,122,80,80,30.136,Missing
+1845,55,No,118,120,82,80,29.413,Missing
+1846,50,No,128,118,70,62,27.585,I have been trying to eat healthier lately
+1847,46,No,118,124,82,84,25.388,Missing
+1848,46,Yes,126,130,82,84,39.614,Missing
+1849,52,No,108,122,68,80,30.508,I am interested in finding out more
+1850,51,No,106,106,74,70,25.677,I am very interested
+1851,53,No,110,128,80,80,19.107,Missing
+1852,52,No,122,112,64,72,26.676,I have been trying to eat healthier lately
+1853,63,No,116,120,80,82,24.632,I am very interested
+1854,50,No,154,136,100,98,40.081,I am very interested
+1855,43,No,108,108,68,66,25.895,Missing
+1856,48,No,118,120,86,86,25.083,Missing
+1857,48,No,112,110,80,78,28.828,I have been trying to eat healthier lately
+1858,50,Yes,102,98,70,71,24.26,Missing
+1859,53,No,144,150,84,92,25.01,I am interested in finding out more
+1860,52,No,108,110,70,74,44.964,I have been trying to eat healthier lately
+1861,52,No,107,106,69,68,26.953,I am very interested
+1862,53,No,132,120,82,76,41.49,I am very interested
+1863,64,No,120,118,80,70,25.114,I have been trying to eat healthier lately
+1864,62,Yes,138,110,52,78,33.148,Missing
+1865,46,No,116,112,66,66,27.748,Missing
+1866,54,No,136,126,76,69,41.868,I am interested in finding out more
+1867,62,No,122,121,75,76,24.1,Missing
+1868,62,No,142,132,84,82,34.763,Missing
+1869,63,No,142,130,87,82,24.071,Missing
+1870,51,No,124,122,70,70,33.405,I have been trying to eat healthier lately
+1871,50,No,104,102,70,70,23.45,I already eat healthy foods
+1872,49,No,110,118,68,68,37.734,Missing
+1873,60,No,130,128,76,64,33.591,Missing
+1874,46,No,128,126,80,72,32.81,Missing
+1875,61,No,150,140,84,80,38.299,Missing
+1876,46,No,100,102,62,64,30.791,Missing
+1877,57,No,146,122,80,78,24.001,I have been trying to eat healthier lately
+1878,62,No,128,110,80,69,42.973,Missing
+1879,45,No,126,126,78,78,33.423,I am very interested
+1880,56,No,122,120,73,70,38.37,Missing
+1881,54,No,102,102,80,84,27.647,I am interested in finding out more
+1882,53,No,96,96,67,67,25.165,I already eat healthy foods
+1883,54,No,122,120,74,72,33.737,I have been trying to eat healthier lately
+1884,47,No,120,118,78,76,30.489,Missing
+1885,54,No,114,118,74,80,19.988,I already eat healthy foods
+1886,55,No,130,130,82,82,46.671,Missing
+1887,45,No,112,110,70,68,24.617,I have been trying to eat healthier lately
+1888,48,No,110,110,64,64,25.486,Missing
+1889,46,No,110,110,70,70,20.229,I have been trying to eat healthier lately
+1890,59,Yes,128,118,78,70,22.972,I have been trying to eat healthier lately
+1891,46,No,118,108,70,66,22.326,I already eat healthy foods
+1892,58,Yes,100,110,70,74,22.837,Missing
+1893,51,No,120,114,64,70,40.272,Missing
+1894,50,No,110,112,70,74,24.242,I am interested in finding out more
+1895,63,Yes,130,132,86,84,50.337,Missing
+1896,62,No,138,138,80,80,37.982,I am very interested
+1897,63,No,118,120,84,82,39.412,Missing
+1898,62,No,118,116,82,80,34.993,Missing
+1899,50,No,142,140,70,70,45.27,Missing
+1900,56,Yes,112,108,62,70,28.284,I already eat healthy foods
+1901,59,No,120,120,80,79,34.044,I have been trying to eat healthier lately
+1902,58,No,120,128,86,88,30.26,Missing
+1903,51,No,167,166,96,83,36.823,Missing
+1904,51,No,100,94,62,60,29.52,I am very interested
+1905,62,No,126,120,60,60,26.644,Missing
+1906,59,No,120,128,80,78,33.361,I have been trying to eat healthier lately
+1907,61,No,116,112,80,72,38.047,Missing
+1908,50,No,110,108,72,69,21.565,Missing
+1909,42,No,110,114,80,84,48.855,Missing
+1910,50,Yes,118,120,74,72,20.278,Missing
+1911,52,No,120,129,80,84,29.687,I am interested in finding out more
+1912,46,No,114,112,62,60,30.655,I am very interested
+1913,53,No,118,118,76,76,25.697,I have been trying to eat healthier lately
+1914,44,Yes,169,152,102,92,46.589,I already eat healthy foods
+1915,45,Yes,120,126,60,64,35.534,Missing
+1916,62,No,130,132,70,70,48.189,Missing
+1917,52,Yes,132,134,80,84,39.894,Missing
+1918,64,No,131,130,70,70,38.391,I am very interested
+1919,46,No,100,112,62,68,25.815,Missing
+1920,51,No,142,144,98,94,39.581,I am interested in finding out more
+1921,49,No,128,122,70,68,33.033,Missing
+1922,45,Yes,120,108,78,78,37.492,I am very interested
+1923,46,No,132,129,82,80,36.324,Missing
+1924,46,No,118,118,78,76,24.974,Missing
+1925,62,No,110,110,60,60,28.751,Missing
+1926,49,No,146,156,90,91,45.376,I have been trying to eat healthier lately
+1927,45,Yes,121,116,82,87,27.454,Missing
+1928,55,No,122,120,68,65,30.032,I am very interested
+1929,63,No,112,118,76,78,30.267,I already eat healthy foods
+1930,51,Yes,146,152,118,112,47.472,I have been trying to eat healthier lately
+1931,46,Yes,124,124,82,82,37.425,Missing
+1932,47,No,114,114,83,83,27.359,I am very interested
+1933,44,No,103,100,70,68,19.474,Missing
+1934,54,Yes,120,120,78,78,24.325,Missing
+1935,49,Yes,120,134,74,78,18.595,Missing
+1936,50,No,116,100,60,62,25.295,Missing
+1937,59,No,132,130,70,90,39.804,I have been trying to eat healthier lately
+1938,49,No,120,118,60,76,27.143,I am very interested
+1939,63,No,104,104,68,68,52.356,I am very interested
+1940,54,No,124,110,78,72,23.187,I have been trying to eat healthier lately
+1941,63,Yes,120,120,70,68,22.557,Missing
+1942,43,Yes,138,125,82,76,43.752,I have been trying to eat healthier lately
+1943,48,No,128,128,72,72,38.44,I already eat healthy foods
+1944,54,Yes,102,104,75,75,25.439,I am very interested
+1945,62,No,140,128,76,70,41.284,I have been trying to eat healthier lately
+1946,56,No,142,138,96,94,54.782,Missing
+1947,54,No,118,118,65,65,20.019,I already eat healthy foods
+1948,55,No,128,131,80,80,35.908,I am very interested
+1949,61,No,120,118,72,76,45.73,I have been trying to eat healthier lately
+1950,50,No,120,114,78,76,22.027,Missing
+1951,57,No,102,110,65,60,19.295,Missing
+1952,49,Yes,126,112,70,64,23.304,I have been trying to eat healthier lately
+1953,62,No,122,120,80,84,38.72,I am interested in finding out more
+1954,44,No,110,118,70,80,28.505,I have been trying to eat healthier lately
+1955,56,No,100,98,60,64,33.659,I have been trying to eat healthier lately
+1956,49,Yes,123,123,91,91,26.901,Missing
+1957,45,No,110,108,70,70,23.924,Missing
+1958,61,No,106,104,60,60,27.869,Missing
+1959,60,Yes,146,144,82,82,39.62,Missing
+1960,51,No,129,110,78,74,31.269,Missing
+1961,54,No,120,120,80,80,25.977,Missing
+1962,51,Yes,136,150,90,88,47.932,Missing
+1963,60,No,122,122,78,78,32.131,Missing
+1964,44,No,132,124,79,88,25.088,I am very interested
+1965,46,No,144,119,69,66,30.309,Missing
+1966,60,No,106,106,76,76,22.566,Missing
+1967,51,No,120,110,77,64,57.138,I am very interested
+1968,46,No,133,136,80,82,47.422,Missing
+1969,59,No,142,118,82,70,25.081,I am very interested
+1970,47,No,120,124,60,66,29.028,I have been trying to eat healthier lately
+1971,54,No,108,104,82,80,34.143,I have been trying to eat healthier lately
+1972,47,No,120,122,64,66,29.243,I am interested in finding out more
+1973,44,No,119,121,84,79,36.599,I am very interested
+1974,50,No,110,106,74,70,30.345,Missing
+1975,61,No,112,106,78,72,25.729,Missing
+1976,54,Yes,118,124,68,70,32.936,I already eat healthy foods
+1977,46,Yes,122,118,78,76,29.791,Missing
+1978,51,No,120,120,76,78,27.267,I am very interested
+1979,53,No,102,102,74,70,42.075,I have been trying to eat healthier lately
+1980,55,No,108,100,62,60,30.944,I am very interested
+1981,51,No,130,130,68,68,30.292,I am interested in finding out more
+1982,59,Yes,122,130,88,78,31.131,Missing
+1983,47,No,150,132,80,80,50.27,Missing
+1984,63,No,126,122,64,64,30.17,I am very interested
+1985,49,No,102,118,80,74,35.284,I am very interested
+1986,58,No,110,108,70,70,23.061,I already eat healthy foods
+1987,61,No,114,112,63,72,26.947,I already eat healthy foods
+1988,50,No,143,141,64,91,31.214,I am interested in finding out more
+1989,54,Yes,146,144,96,97,36.071,I am very interested
+1990,45,No,98,101,64,68,31.442,I have been trying to eat healthier lately
+1991,49,No,100,100,60,64,24.035,I am very interested
+1992,48,No,110,110,74,74,25.802,I already eat healthy foods
+1993,57,No,118,116,80,80,31.786,I already eat healthy foods
+1994,59,No,121,124,72,76,25.648,Missing
+1995,50,Yes,124,123,82,80,55.051,Missing
+1996,59,No,124,122,72,70,41.674,I have been trying to eat healthier lately
+1997,51,No,122,128,76,80,48.885,I have been trying to eat healthier lately
+1998,53,No,112,134,66,81,42.423,I already eat healthy foods
+1999,44,Yes,100,106,60,66,26.134,I am very interested
+2000,46,Yes,102,112,70,70,32.6,I am very interested
+2001,63,No,130,128,78,76,34.221,I am very interested
+2002,49,No,126,130,80,72,30.337,Missing
+2003,52,No,110,108,62,60,17.941,Missing
+2004,46,No,112,111,74,72,27.525,I am very interested
+2005,45,No,103,103,69,70,27.103,I am very interested
+2006,55,No,133,144,76,83,39.216,I have been trying to eat healthier lately
+2007,60,No,122,118,88,72,40.143,I already eat healthy foods
+2008,51,No,120,120,80,80,34.875,I am very interested
+2009,45,No,142,138,90,92,35.545,Missing
+2010,59,No,152,148,70,72,20.294,Missing
+2011,45,No,124,120,68,70,35.125,I am very interested
+2012,52,No,110,116,80,72,36.014,I have been trying to eat healthier lately
+2013,63,No,112,104,76,70,33.156,I have been trying to eat healthier lately
+2014,59,No,156,122,81,70,31.845,Missing
+2015,54,No,101,102,70,69,21.163,I already eat healthy foods
+2016,45,No,129,116,84,77,26.785,I have been trying to eat healthier lately
+2017,54,No,128,120,68,72,31.133,I have been trying to eat healthier lately
+2018,52,No,110,108,78,78,19.908,I am interested in finding out more
+2019,56,No,106,104,78,68,20.211,Missing
+2020,54,No,122,122,76,68,26.911,I already eat healthy foods
+2021,45,No,101,124,73,74,39.381,I am very interested
+2022,49,Yes,122,121,85,85,30.103,I have been trying to eat healthier lately
+2023,53,No,84,78,58,58,53.297,I am very interested
+2024,54,No,106,110,69,74,45.5,I have been trying to eat healthier lately
+2025,52,Yes,128,130,85,84,36.917,Missing
+2026,54,No,120,118,81,76,24.7,Missing
+2027,61,No,132,132,70,78,36.293,I already eat healthy foods
+2028,53,No,118,120,68,72,26.628,I am very interested
+2029,58,No,114,118,60,68,27.094,I already eat healthy foods
+2030,48,Yes,122,102,82,74,44.451,I already eat healthy foods
+2031,62,No,108,112,84,80,36.777,I already eat healthy foods
+2032,61,No,140,140,60,60,28.961,I have been trying to eat healthier lately
+2033,48,Yes,112,128,57,83,29.689,I have been trying to eat healthier lately
+2034,51,No,110,110,70,70,23.576,Missing
+2035,57,Yes,110,110,68,65,22.382,Missing
+2036,45,No,126,124,82,80,35.636,I am very interested
+2037,53,No,122,118,80,70,22.609,I have been trying to eat healthier lately
+2038,44,No,108,110,56,62,23.235,I am interested in finding out more
+2039,50,No,120,130,74,90,19.358,I am not interested
+2040,61,No,120,122,70,70,24.101,I am very interested
+2041,64,No,120,120,84,88,47.732,I have been trying to eat healthier lately
+2042,63,No,146,136,88,88,43.917,Missing
+2043,55,No,118,117,70,72,31.994,I am very interested
+2044,44,No,98,100,60,60,23.858,Missing
+2045,53,Yes,140,140,96,82,32.885,Missing
+2046,51,No,110,112,60,64,38.552,Missing
+2047,52,No,128,112,82,80,31.006,Missing
+2048,49,No,110,108,70,68,24.464,I am not interested
+2049,46,No,118,100,88,74,33.695,I have been trying to eat healthier lately
+2050,49,No,116,123,84,69,26.822,I have been trying to eat healthier lately
+2051,55,Yes,128,121,88,88,38.968,I already eat healthy foods
+2052,60,No,108,108,74,72,18.829,Missing
+2053,62,Yes,120,120,80,80,40.955,I am very interested
+2054,46,No,130,130,88,88,39.002,Missing
+2055,64,No,125,128,72,81,22.548,I have been trying to eat healthier lately
+2056,54,No,129,116,80,76,23.449,Missing
+2057,54,No,142,130,72,76,29.266,I am very interested
+2058,53,No,100,98,70,68,24.491,I already eat healthy foods
+2059,54,Yes,150,146,84,82,28.225,I have been trying to eat healthier lately
+2060,52,No,118,122,82,76,33.517,Missing
+2061,50,No,124,120,80,80,21.969,Missing
+2062,51,Yes,142,130,82,90,34.084,Missing
+2063,54,Yes,153,150,81,79,41.739,Missing
+2064,49,No,118,118,72,72,23.838,I already eat healthy foods
+2065,51,No,104,96,57,50,24.83,Missing
+2066,48,No,108,110,64,62,24.367,Missing
+2067,54,No,130,124,62,60,33.36,Missing
+2068,61,No,127,136,81,87,30.872,Missing
+2069,56,No,126,124,70,72,24.291,Missing
+2070,64,No,100,92,75,66,29.197,Missing
+2071,50,No,118,124,84,86,29.79,Missing
+2072,47,No,98,85,52,54,29.481,I already eat healthy foods
+2073,59,Yes,122,121,78,82,42.123,I already eat healthy foods
+2074,51,No,116,118,69,78,30.244,Missing
+2075,55,No,110,112,70,76,31.726,I am interested in finding out more
+2076,44,No,127,118,75,76,28.54,I have been trying to eat healthier lately
+2077,62,No,118,120,70,70,24.993,I have been trying to eat healthier lately
+2078,54,No,120,114,79,76,31.264,I am very interested
+2079,44,No,121,122,70,70,30.669,I already eat healthy foods
+2080,53,No,119,117,70,72,27.726,Missing
+2081,59,Yes,128,128,82,82,26.553,Missing
+2082,52,No,108,108,62,62,22.344,Missing
+2083,62,No,98,110,62,72,38.636,I have been trying to eat healthier lately
+2084,57,No,142,150,98,90,41.113,I already eat healthy foods
+2085,55,No,110,108,74,72,30.588,I already eat healthy foods
+2086,57,No,132,122,86,90,41.894,I have been trying to eat healthier lately
+2087,45,No,102,102,70,69,27.398,I already eat healthy foods
+2088,59,No,128,118,80,82,33.936,I already eat healthy foods
+2089,61,No,132,132,98,90,36.218,I already eat healthy foods
+2090,55,Yes,114,120,50,62,32.597,Missing
+2091,50,Yes,110,110,66,60,25.009,I am interested in finding out more
+2092,59,No,116,122,70,74,22.449,I already eat healthy foods
+2093,52,No,104,120,74,86,50.058,Missing
+2094,58,No,130,130,76,76,28.102,I already eat healthy foods
+2095,60,Yes,150,140,100,100,49.227,Missing
+2096,63,No,116,116,78,80,37.72,I have been trying to eat healthier lately
+2097,45,Yes,122,118,92,88,27.815,Missing
+2098,58,Yes,140,120,90,82,53.706,I have been trying to eat healthier lately
+2099,45,No,121,117,80,80,36.333,I am very interested
+2100,55,No,118,124,70,64,23.184,Missing
+2101,51,No,90,102,64,62,20.475,I have been trying to eat healthier lately
+2102,58,No,112,116,76,72,29.298,I am interested in finding out more
+2103,58,No,108,110,80,80,23.37,I am very interested
+2104,54,No,140,148,80,80,37.496,Missing
+2105,55,No,130,126,80,76,50.334,Missing
+2106,63,No,122,122,78,76,39.488,Missing
+2107,45,Yes,136,136,88,78,27.507,I am interested in finding out more
+2108,63,No,142,124,86,84,32.708,I already eat healthy foods
+2109,48,No,110,110,74,72,27.203,I have been trying to eat healthier lately
+2110,53,No,131,132,82,80,38.374,I am very interested
+2111,61,No,118,113,70,75,36.489,Missing
+2112,60,No,128,122,76,76,30.051,I already eat healthy foods
+2113,45,Yes,119,121,71,68,25.264,I am very interested
+2114,45,No,118,120,60,64,25.215,I am very interested
+2115,57,No,130,120,90,86,37.692,I have been trying to eat healthier lately
+2116,55,Yes,136,118,84,82,32.486,Missing
+2117,49,No,114,110,70,70,38.814,I already eat healthy foods
+2118,56,No,150,140,84,72,41.93,Missing
+2119,44,No,124,112,80,70,39.009,Missing
+2120,55,Yes,118,122,80,80,37.068,I have been trying to eat healthier lately
+2121,56,Yes,156,156,120,121,25.217,Missing
+2122,57,Yes,126,138,82,92,35.987,Missing
+2123,54,Yes,131,162,90,90,42.529,Missing
+2124,52,No,108,118,64,62,22.755,I already eat healthy foods
+2125,59,No,142,142,86,86,25.756,I am very interested
+2126,58,No,102,110,62,62,22.557,Missing
+2127,58,No,118,112,78,70,36.555,Missing
+2128,50,No,122,120,72,70,33.831,Missing
+2129,56,No,136,132,80,80,40.263,Missing
+2130,50,No,118,116,80,83,34.764,Missing
+2131,45,No,106,104,62,60,17.183,Missing
+2132,63,Yes,140,128,82,81,40.344,I have been trying to eat healthier lately
+2133,46,No,112,112,74,76,25.358,I am very interested
+2134,52,Yes,160,158,88,90,35.769,I have been trying to eat healthier lately
+2135,41,No,106,112,70,76,20.602,Missing
+2136,62,No,124,124,82,80,33.54,I am very interested
+2137,64,No,140,140,86,84,36.288,I am very interested
+2138,54,Yes,136,129,100,85,29.483,I am very interested
+2139,62,No,148,142,80,80,36.697,I have been trying to eat healthier lately
+2140,46,No,102,126,70,80,24.977,Missing
+2141,57,Yes,112,115,70,72,32.753,Missing
+2142,50,Yes,126,120,87,84,31.115,Missing
+2143,53,No,120,118,80,80,37.026,Missing
+2144,56,No,106,110,80,78,41.045,Missing
+2145,51,No,118,114,68,72,34.592,I already eat healthy foods
+2146,58,No,122,114,82,76,26.017,Missing
+2147,56,Yes,100,110,62,64,23.638,Missing
+2148,60,Yes,138,142,86,89,39.076,I am very interested
+2149,45,Yes,112,108,72,70,25.983,Missing
+2150,61,No,156,156,92,98,42.848,Missing
+2151,52,No,113,126,70,78,29.98,I have been trying to eat healthier lately
+2152,54,No,146,146,79,78,35.055,I have been trying to eat healthier lately
+2153,44,No,112,114,80,78,30.958,I am very interested
+2154,60,Yes,134,137,68,85,31.408,I already eat healthy foods
+2155,46,No,102,104,60,62,31.472,I have been trying to eat healthier lately
+2156,52,No,110,124,76,76,37.933,I am very interested
+2157,48,No,110,110,68,68,26.244,I am very interested
+2158,58,No,110,110,60,60,27.561,I am very interested
+2159,45,No,118,122,82,82,28.9,Missing
+2160,49,No,110,108,70,74,33.483,Missing
+2161,62,Yes,120,120,62,62,45.186,Missing
+2162,53,No,138,138,88,88,39.227,Missing
+2163,45,No,108,114,70,70,35.511,Missing
+2164,50,Yes,152,132,92,81,28.623,Missing
+2165,48,No,128,128,70,72,32.978,Missing
+2166,48,Yes,118,146,84,90,29.628,I am very interested
+2167,50,No,110,104,74,76,25.939,I already eat healthy foods
+2168,59,Yes,114,118,76,80,28.998,Missing
+2169,44,No,122,122,84,84,25.439,I have been trying to eat healthier lately
+2170,45,No,122,115,74,68,38.226,Missing
+2171,59,No,128,124,78,78,31.614,Missing
+2172,47,Yes,124,120,84,74,32.769,Missing
+2173,43,No,114,118,78,80,40.545,Missing
+2174,45,No,108,110,68,74,28.155,I am interested in finding out more
+2175,44,No,110,110,88,84,29.303,Missing
+2176,52,No,122,126,78,76,51.323,Missing
+2177,49,No,120,118,70,79,35.667,Missing
+2178,61,No,150,150,100,100,28.695,Missing
+2179,55,No,132,133,82,80,36.79,I am very interested
+2180,43,No,142,138,81,80,34.586,I already eat healthy foods
+2181,62,Yes,120,130,70,80,29.231,I have been trying to eat healthier lately
+2182,53,No,118,130,76,77,16.976,Missing
+2183,44,No,134,136,78,78,31.544,Missing
+2184,46,No,129,123,76,77,27.202,Missing
+2185,48,No,106,108,60,64,23.287,Missing
+2186,60,No,134,117,77,68,25.264,I already eat healthy foods
+2187,54,No,110,100,88,86,30.015,Missing
+2188,50,No,108,110,70,72,33.903,I already eat healthy foods
+2189,45,No,113,115,73,76,32.56,Missing
+2190,61,No,122,122,70,70,17.906,Missing
+2191,44,No,142,121,86,82,39.729,Missing
+2192,45,No,110,108,60,54,23.891,Missing
+2193,51,Yes,129,138,96,90,26.284,Missing
+2194,47,No,134,105,88,78,36.315,Missing
+2195,48,No,106,110,67,71,30.811,Missing
+2196,60,No,100,100,82,82,34.964,I already eat healthy foods
+2197,53,No,119,120,76,78,26.047,Missing
+2198,64,No,110,110,80,82,34.207,Missing
+2199,47,Yes,118,104,76,72,23.743,I already eat healthy foods
+2200,45,No,96,100,64,60,24.332,I already eat healthy foods
+2201,49,Yes,124,120,81,80,31.436,Missing
+2202,54,No,102,106,71,74,23.539,I am interested in finding out more
+2203,41,No,122,122,70,70,24.731,Missing
+2204,52,Yes,147,146,82,84,24.855,Missing
+2205,56,No,98,102,70,66,18.547,I have been trying to eat healthier lately
+2206,54,No,122,116,72,82,38.934,I am interested in finding out more
+2207,47,Yes,125,125,88,87,27.842,I am interested in finding out more
+2208,48,Yes,162,140,100,90,29.684,Missing
+2209,45,No,102,100,60,66,23.252,I already eat healthy foods
+2210,62,Yes,106,116,60,68,28.265,I have been trying to eat healthier lately
+2211,63,No,145,141,90,93,26.626,I already eat healthy foods
+2212,54,Yes,132,135,82,78,39.08,I am very interested
+2213,52,Yes,201,190,130,110,30.311,I have been trying to eat healthier lately
+2214,56,No,102,125,68,80,20.022,I am very interested
+2215,56,No,122,120,60,60,20.978,Missing
+2216,60,Yes,162,152,93,93,34.334,Missing
+2217,46,No,151,101,99,99,18.145,Missing
+2218,54,No,100,118,70,66,34.232,Missing
+2219,52,Yes,132,132,82,82,40.681,Missing
+2220,49,Yes,122,136,82,82,35.641,Missing
+2221,48,No,126,124,78,76,30.663,Missing
+2222,53,Yes,145,148,92,88,24.482,Missing
+2223,59,No,122,123,80,80,44.427,Missing
+2224,64,No,116,122,78,74,42.644,I already eat healthy foods
+2225,45,No,118,116,80,72,29.073,I already eat healthy foods
+2226,63,No,132,132,80,76,29.066,I already eat healthy foods
+2227,58,Yes,129,129,81,81,26.162,I am very interested
+2228,58,No,180,147,100,98,33.08,I have been trying to eat healthier lately
+2229,56,No,154,130,94,88,38.3,Missing
+2230,56,No,122,122,68,68,29.801,Missing
+2231,58,Yes,130,128,65,68,27.565,Missing
+2232,49,No,118,112,74,72,27.667,Missing
+2233,53,No,104,100,70,70,30.366,Missing
+2234,57,Yes,158,160,87,100,23.728,Missing
+2235,46,No,100,100,70,70,34.567,Missing
+2236,46,No,126,126,76,76,38.577,Missing
+2237,45,Yes,129,134,92,78,37.142,I have been trying to eat healthier lately
+2238,42,Yes,118,118,68,68,33.362,Missing
+2239,52,No,131,133,86,84,31.062,Missing
+2240,53,No,114,124,81,82,20.435,Missing
+2241,49,No,112,112,64,68,24.867,I have been trying to eat healthier lately
+2242,57,No,116,112,78,70,29.162,I have been trying to eat healthier lately
+2243,48,Yes,146,144,92,92,24.448,I am very interested
+2244,44,No,122,120,60,60,21.771,I have been trying to eat healthier lately
+2245,64,No,128,126,64,66,30.017,Missing
+2246,47,No,98,100,60,60,24.172,I already eat healthy foods
+2247,50,Yes,122,124,82,78,28.307,Missing
+2248,48,Yes,110,108,64,63,30.967,I am very interested
+2249,51,Yes,142,138,86,80,30.514,Missing
+2250,53,No,114,110,70,72,41.661,I have been trying to eat healthier lately
+2251,46,No,118,122,88,84,23.644,Missing
+2252,44,No,114,106,80,72,27.986,I have been trying to eat healthier lately
+2253,63,Yes,160,150,88,80,28.532,I am very interested
+2254,50,No,102,102,70,72,43.213,Missing
+2255,51,No,106,108,82,84,36.853,Missing
+2256,56,No,102,104,64,68,35.149,I am very interested
+2257,40,Yes,102,98,76,70,34.143,Missing
+2258,56,No,120,136,90,82,33.723,Missing
+2259,54,No,120,126,86,88,35.797,Missing
+2260,55,No,110,110,70,70,20.836,I already eat healthy foods
+2261,53,Yes,118,120,70,70,23.46,I am very interested
+2262,53,No,124,122,80,80,41.584,I already eat healthy foods
+2263,49,No,120,108,70,70,23.284,Missing
+2264,47,No,138,128,82,82,32.242,Missing
+2265,55,No,112,110,74,68,32.086,Missing
+2266,50,No,118,118,72,74,31.016,Missing
+2267,64,No,138,136,98,97,23.266,Missing
+2268,61,No,138,138,71,72,25.579,Missing
+2269,56,No,102,102,80,80,26.813,Missing
+2270,49,No,98,100,64,60,25.52,Missing
+2271,53,No,110,112,78,76,36.378,Missing
+2272,58,No,106,110,68,68,22.287,I have been trying to eat healthier lately
+2273,64,No,120,120,60,60,38.437,Missing
+2274,54,No,118,120,84,84,48.337,Missing
+2275,61,Yes,172,179,85,94,27.609,Missing
+2276,64,Yes,144,150,82,84,42.964,I already eat healthy foods
+2277,50,No,120,120,82,80,37.094,Missing
+2278,45,No,130,130,90,88,37.357,I already eat healthy foods
+2279,60,No,112,110,72,70,35.268,Missing
+2280,50,No,138,134,90,88,44.989,I am very interested
+2281,50,No,114,112,62,66,27.345,Missing
+2282,56,No,134,130,80,80,37.312,Missing
+2283,55,No,184,170,76,76,72.543,I have been trying to eat healthier lately
+2284,54,No,138,136,88,80,26.635,Missing
+2285,50,No,109,110,84,80,25.583,Missing
+2286,61,No,124,124,70,70,23.341,Missing
+2287,62,No,122,120,78,71,24.236,Missing
+2288,55,Yes,124,120,80,80,40.115,Missing
+2289,46,No,140,160,80,80,40.13,Missing
+2290,54,No,116,118,76,76,26.073,Missing
+2291,47,Yes,118,120,70,68,29.861,Missing
+2292,57,No,100,84,56,48,22.622,Missing
+2293,59,Yes,148,138,88,44,32.29,Missing
+2294,49,Yes,126,124,96,98,30.574,Missing
+2295,62,No,144,136,80,76,25.749,I am very interested
+2296,51,No,110,116,72,76,32.533,Missing
+2297,44,No,116,128,78,96,40.519,Missing
+2298,53,No,102,104,70,72,41.011,Missing
+2299,45,No,128,126,80,82,42.326,I am very interested
+2300,57,Yes,139,138,88,88,39.786,I have been trying to eat healthier lately
+2301,51,No,92,92,64,68,40.681,Missing
+2302,51,No,118,118,80,80,20.349,Missing
+2303,49,No,119,116,80,81,29.678,Missing
+2304,58,Yes,110,112,62,70,23.05,Missing
+2305,54,No,100,98,62,58,44.419,Missing
+2306,55,No,116,116,84,84,55.804,I am very interested
+2307,47,No,146,122,75,60,24.093,Missing
+2308,59,No,116,120,70,70,30.644,I am not interested
+2309,60,No,122,110,90,82,37.561,Missing
+2310,45,No,102,108,66,66,36.417,Missing
+2311,56,No,140,112,80,60,30.017,I am very interested
+2312,53,No,124,124,72,72,20.915,Missing
+2313,51,No,120,120,70,70,27.466,Missing
+2314,56,Yes,110,110,78,78,39.95,Missing
+2315,46,No,111,112,80,81,34.469,Missing
+2316,50,No,126,126,60,60,32.674,Missing
+2317,58,No,116,135,77,82,19.017,Missing
+2318,57,No,118,118,80,80,36.912,Missing
+2319,53,No,132,132,82,82,35.48,Missing
+2320,60,Yes,144,144,90,90,37.399,Missing
+2321,44,No,142,142,76,76,41.459,Missing
+2322,56,No,120,118,80,79,37.626,Missing
+2323,49,No,120,120,66,64,29.483,Missing
+2324,54,No,152,150,92,90,22.995,Missing
+2325,51,Yes,141,146,81,82,30.505,Missing
+2326,53,No,201,188,108,98,32.965,Missing
+2327,50,No,110,104,60,60,19.471,Missing
+2328,48,No,120,120,80,80,25.243,Missing
+2329,57,No,112,102,75,69,31.158,Missing
+2330,46,No,116,110,74,77,16.849,Missing
+2331,60,No,104,108,70,74,27.919,I am very interested
+2332,55,No,108,100,68,60,22.031,Missing
+2333,47,No,138,134,70,70,48.675,Missing
+2334,54,No,120,120,78,76,23.707,I already eat healthy foods
+2335,54,No,120,140,78,82,22.778,Missing
+2336,48,Yes,124,118,82,74,30.805,I am very interested
+2337,44,No,120,120,94,90,33.974,Missing
+2338,58,No,114,114,78,70,29.31,Missing
+2339,49,No,123,120,86,80,47.413,Missing
+2340,40,No,126,126,74,74,21.429,Missing
+2341,55,No,142,138,86,84,26.557,Missing
+2342,44,No,90,88,48,48,18.568,Missing
+2343,50,No,140,132,80,80,49.617,I am very interested
+2344,59,No,119,149,82,101,46.212,Missing
+2345,42,No,129,139,80,81,24.782,Missing
+2346,50,No,121,119,83,78,40.815,I have been trying to eat healthier lately
+2347,43,No,112,116,76,72,34.421,Missing
+2348,63,No,134,130,88,80,45.243,Missing
+2349,53,No,125,112,86,82,34.33,Missing
+2350,64,Yes,128,138,81,80,32.1,I already eat healthy foods
+2351,62,No,122,120,74,72,40.391,Missing
+2352,54,No,100,98,70,64,22.698,Missing
+2353,54,No,120,124,90,88,40.525,Missing
+2354,63,Yes,126,124,84,84,42.058,I have been trying to eat healthier lately
+2355,54,Yes,122,120,82,77,22.883,Missing
+2356,55,No,112,110,76,74,27.406,Missing
+2357,53,No,148,142,88,80,27.337,Missing
+2358,53,No,140,130,80,90,43.785,Missing
+2359,62,No,120,120,74,70,23.682,I already eat healthy foods
+2360,48,No,128,124,77,84,30.726,Missing
+2361,62,Yes,137,136,88,81,28.972,Missing
+2362,61,No,118,120,76,74,26.309,I already eat healthy foods
+2363,49,No,118,118,86,86,26.691,Missing
+2364,56,Yes,100,102,80,80,27.008,Missing
+2365,46,No,120,122,70,70,19.187,I already eat healthy foods
+2366,54,No,116,120,70,70,21.296,I already eat healthy foods
+2367,55,Yes,128,128,82,81,25.239,I already eat healthy foods
+2368,54,No,134,118,70,88,29.999,Missing
+2369,48,No,92,90,58,56,21.083,Missing
+2370,46,Yes,133,130,87,80,37.172,I have been trying to eat healthier lately
+2371,45,No,132,129,88,80,25.758,Missing
+2372,42,No,126,120,72,72,38.89,Missing
+2373,56,No,154,140,90,82,33.215,Missing
+2374,55,Yes,130,128,92,88,31.979,I am very interested
+2375,46,No,122,120,78,70,31.216,Missing
+2376,47,No,100,106,60,62,25.026,Missing
+2377,61,Yes,152,152,101,100,53.766,I have been trying to eat healthier lately
+2378,64,No,100,102,80,72,30.729,I am very interested
+2379,46,No,109,110,70,70,30.739,Missing
+2380,55,No,140,136,78,76,29.936,I already eat healthy foods
+2381,52,No,104,106,70,72,27.321,I am very interested
+2382,49,No,130,120,62,64,32.147,I already eat healthy foods
+2383,46,Yes,120,122,76,74,25.921,Missing
+2384,56,No,132,112,80,64,26.2,Missing
+2385,45,No,134,140,96,95,33.376,I am very interested
+2386,43,Yes,130,120,84,80,42.178,Missing
+2387,54,No,102,104,64,64,30.103,Missing
+2388,46,No,122,122,71,70,34.093,Missing
+2389,45,Yes,131,132,84,84,35.411,Missing
+2390,45,No,122,122,68,68,32.471,Missing
+2391,48,No,112,112,72,72,18.43,Missing
+2392,45,No,102,102,68,68,20.723,I already eat healthy foods
+2393,53,No,118,118,80,80,22.417,Missing
+2394,47,No,134,130,85,82,36.971,Missing
+2395,58,Yes,131,131,79,79,33.109,Missing
+2396,62,No,126,126,80,82,40.268,I have been trying to eat healthier lately
+2397,45,Yes,118,118,72,72,30.492,I have been trying to eat healthier lately
+2398,58,Yes,180,200,108,118,24.765,I am interested in finding out more
+2399,53,No,100,94,60,56,30.094,I am very interested
+2400,48,No,132,132,80,80,33.486,I am interested in finding out more
+2401,45,No,104,110,84,84,25.884,Missing
+2402,42,No,182,184,88,96,38.138,Missing
+2403,44,No,102,110,74,78,23.651,Missing
+2404,59,No,136,130,94,92,33.652,I have been trying to eat healthier lately
+2405,43,No,118,118,72,72,33.213,Missing
+2406,63,Yes,138,120,90,80,27.828,Missing
+2407,57,No,118,118,80,80,34.11,Missing
+2408,54,No,122,122,68,68,24.071,I have been trying to eat healthier lately
+2409,49,No,120,120,70,70,24.854,Missing
+2410,46,Yes,118,118,74,74,30.728,Missing
+2411,55,No,154,136,80,76,21.407,Missing
+2412,53,No,124,130,70,82,24.388,Missing
+2413,56,No,118,118,70,70,24.117,Missing
+2414,57,No,92,100,62,70,20.972,Missing
+2415,46,Yes,132,122,86,75,36.176,Missing
+2416,58,No,112,110,72,68,38.279,Missing
+2417,51,No,122,110,74,60,16.963,Missing
+2418,42,No,110,106,70,64,28.646,Missing
+2419,52,No,110,104,64,72,41.188,I am very interested
+2420,50,No,129,120,82,80,23.91,Missing
+2421,46,No,128,118,80,76,26.572,I have been trying to eat healthier lately
+2422,50,Yes,120,122,80,84,25.017,Missing
+2423,47,No,98,104,60,62,20.775,I already eat healthy foods
+2424,48,No,122,130,82,86,28.435,Missing
+2425,47,No,122,126,76,78,41.369,Missing
+2426,63,No,128,132,74,76,23.17,Missing
+2427,58,No,122,118,78,70,25.895,Missing
+2428,53,No,118,120,72,75,29.116,I am very interested
+2429,43,No,122,122,64,64,22.643,Missing
+2430,48,No,130,130,70,70,19.197,Missing
+2431,57,No,126,130,76,78,26.23,I am interested in finding out more
+2432,45,No,110,110,76,70,27.653,Missing
+2433,48,No,118,118,76,74,19.628,I already eat healthy foods
+2434,50,No,104,100,70,65,24.009,Missing
+2435,51,No,110,102,78,70,19.209,I already eat healthy foods
+2436,46,No,118,120,74,82,37.53,I am interested in finding out more
+2437,58,Yes,110,110,60,60,31.333,I am very interested
+2438,50,No,100,105,70,70,23.268,Missing
+2439,46,No,118,116,78,78,35.073,I am very interested
+2440,45,Yes,124,124,80,78,32.133,Missing
+2441,48,No,112,110,62,62,27.375,I have been trying to eat healthier lately
+2442,52,Yes,118,120,84,82,45.151,Missing
+2443,60,No,102,100,60,60,29.884,I already eat healthy foods
+2444,54,No,102,100,60,62,22.94,I am very interested
+2445,52,No,114,124,68,74,29.263,I am very interested
+2446,51,No,102,110,74,70,26.557,I am very interested
+2447,51,No,108,110,72,70,38.525,Missing
+2448,53,Yes,136,130,90,84,46.329,Missing
+2449,42,No,114,112,76,72,25.203,Missing
+2450,46,No,140,124,72,70,38.823,Missing
+2451,46,No,132,118,72,80,34.057,Missing
+2452,54,No,134,136,80,80,19.318,I have been trying to eat healthier lately
+2453,59,No,126,120,72,70,20.297,Missing
+2454,52,No,138,138,80,85,43.641,Missing
+2455,43,No,102,102,71,71,24.928,I have been trying to eat healthier lately
+2456,52,No,112,106,50,54,20.182,Missing
+2457,60,No,112,108,60,62,24.006,I already eat healthy foods
+2458,46,No,106,123,60,80,38.125,I am very interested
+2459,45,Yes,126,118,70,68,38.799,Missing
+2460,48,No,104,100,64,60,16.802,Missing
+2461,53,No,126,122,74,70,37.938,Missing
+2462,48,No,120,118,70,74,40.396,Missing
+2463,57,No,102,100,72,78,26.316,I am interested in finding out more
+2464,51,No,120,120,86,90,52.472,I have been trying to eat healthier lately
+2465,53,No,122,118,60,62,30.624,I already eat healthy foods
+2466,55,No,146,138,82,84,21.22,I already eat healthy foods
+2467,58,No,118,130,82,82,36.002,I already eat healthy foods
+2468,59,No,124,142,74,76,48.103,I am very interested
+2469,55,No,110,110,70,71,25.866,I am interested in finding out more
+2470,50,No,119,118,80,78,28.367,I am very interested
+2471,53,No,132,132,68,68,33.482,Missing
+2472,44,No,100,98,70,66,35.98,Missing
+2473,51,No,120,124,78,76,62.006,Missing
+2474,53,No,118,124,78,66,19.508,Missing
+2475,47,No,106,122,86,84,32.376,I have been trying to eat healthier lately
+2476,45,No,114,110,80,80,25.184,I have been trying to eat healthier lately
+2477,48,No,104,100,64,64,25.013,I have been trying to eat healthier lately
+2478,48,No,90,92,50,64,27.353,Missing
+2479,53,No,122,118,76,72,44.288,Missing
+2480,55,No,120,138,88,86,42.469,I am very interested
+2481,49,No,120,122,64,70,31.147,I am very interested
+2482,43,No,110,106,80,71,23.216,I am very interested
+2483,57,No,110,104,62,62,22.702,I am very interested
+2484,54,No,134,130,88,90,32.64,I have been trying to eat healthier lately
+2485,43,No,112,112,80,80,30.275,Missing
+2486,40,No,118,108,64,60,27.221,Missing
+2487,48,Yes,110,108,72,70,25.167,Missing
+2488,48,No,117,124,78,81,32.217,Missing
+2489,59,No,162,120,84,82,31.359,I have been trying to eat healthier lately
+2490,44,No,95,90,67,60,20.132,I already eat healthy foods
+2491,48,No,104,110,70,70,26.451,Missing
+2492,47,No,110,110,70,70,31.881,Missing
+2493,43,No,108,112,60,64,27.42,I am very interested
+2494,50,No,110,110,61,60,43.294,I have been trying to eat healthier lately
+2495,54,No,137,128,77,76,35.904,I already eat healthy foods
+2496,44,No,105,104,64,58,25.839,I am interested in finding out more
+2497,53,Yes,140,138,92,92,34.016,I am interested in finding out more
+2498,49,No,110,110,80,80,40.062,Missing
+2499,55,No,101,110,71,75,21.609,I already eat healthy foods
+2500,44,No,116,116,58,56,21.708,I already eat healthy foods
+2501,49,No,129,123,78,80,40.176,I am very interested
+2502,61,No,110,109,70,70,34.771,I have been trying to eat healthier lately
+2503,47,No,138,124,88,78,34.675,Missing
+2504,45,Yes,100,100,59,59,28.448,I am very interested
+2505,44,No,114,116,66,76,26.122,I am very interested
+2506,45,Yes,114,104,80,74,30.455,Missing
+2507,45,No,104,106,62,60,20.184,I am very interested
+2508,48,No,136,136,68,68,43.122,Missing
+2509,54,No,180,196,95,106,57.437,Missing
+2510,58,No,112,108,64,68,47.174,Missing
+2511,46,No,118,119,76,78,33.117,Missing
+2512,48,No,110,118,70,80,31.995,I am very interested
+2513,57,No,120,110,70,78,28.155,I am interested in finding out more
+2514,61,No,94,94,62,58,21.915,I have been trying to eat healthier lately
+2515,52,No,98,112,62,78,31.622,Missing
+2516,50,No,122,122,75,84,20.539,I already eat healthy foods
+2517,53,Yes,129,128,82,82,39.384,Missing
+2518,44,Yes,142,142,97,97,41.672,I am very interested
+2519,53,Yes,161,158,92,93,26.484,I have been trying to eat healthier lately
+2520,47,No,112,118,66,62,25.472,Missing
+2521,62,No,152,140,84,82,41.347,Missing
+2522,49,No,120,120,80,82,23.197,I have been trying to eat healthier lately
+2523,44,No,120,122,80,80,29.801,I have been trying to eat healthier lately
+2524,50,No,120,121,80,82,28.903,I am very interested
+2525,53,No,122,120,64,60,34.44,I am very interested
+2526,45,No,112,112,78,78,32.912,I have been trying to eat healthier lately
+2527,55,Yes,128,136,87,82,31.973,I am very interested
+2528,48,No,118,118,62,62,29.275,Missing
+2529,53,No,110,112,60,64,32.591,I am very interested
+2530,45,Yes,158,168,102,90,34.141,I am very interested
+2531,58,No,130,128,71,68,26.707,I already eat healthy foods
+2532,54,No,124,124,80,80,41.276,I am very interested
+2533,51,Yes,102,102,68,68,23.351,I already eat healthy foods
+2534,51,No,112,112,74,72,28.081,I already eat healthy foods
+2535,56,No,122,110,64,58,32.126,Missing
+2536,53,No,122,118,70,74,39.645,Missing
+2537,49,No,108,118,64,73,24.08,Missing
+2538,50,No,130,124,80,78,18.384,Missing
+2539,46,No,126,118,82,82,29.991,Missing
+2540,50,No,116,112,76,70,26.744,I have been trying to eat healthier lately
+2541,53,No,122,126,78,78,28.805,I am very interested
+2542,50,No,112,118,74,78,44.957,Missing
+2543,44,No,103,110,70,71,28.76,I am very interested
+2544,49,No,121,119,82,84,24.999,Missing
+2545,64,No,128,122,80,80,34.219,I already eat healthy foods
+2546,53,Yes,130,128,91,88,43.059,I am very interested
+2547,47,No,100,100,68,68,32.868,I am very interested
+2548,51,Yes,140,144,80,82,24.155,Missing
+2549,43,No,120,120,80,78,34.882,I am very interested
+2550,59,No,140,142,68,69,55.845,I have been trying to eat healthier lately
+2551,45,Yes,124,124,81,82,22.105,Missing
+2552,41,No,97,100,60,64,28.648,Missing
+2553,51,No,112,112,68,68,25.48,Missing
+2554,52,No,162,162,84,84,52.452,Missing
+2555,63,No,120,120,80,80,24.36,I am very interested
+2556,43,No,124,118,76,78,30.12,Missing
+2557,47,Yes,133,131,81,85,33.822,I already eat healthy foods
+2558,51,No,119,120,64,65,36.683,I already eat healthy foods
+2559,48,No,118,120,68,76,28.785,I am interested in finding out more
+2560,44,No,128,126,76,88,32.995,I am interested in finding out more
+2561,44,Yes,130,130,80,80,27.471,Missing
+2562,40,No,118,120,78,72,37.656,Missing
+2563,58,No,112,110,78,78,33.533,I already eat healthy foods
+2564,57,No,130,128,80,80,46.554,I am not interested
+2565,45,No,116,110,72,76,38.722,Missing
+2566,64,Yes,118,112,64,62,25.71,Missing
+2567,48,No,100,96,64,68,19.765,I already eat healthy foods
+2568,44,No,100,106,70,68,28.124,I have been trying to eat healthier lately
+2569,51,No,120,122,70,64,34.062,I am very interested
+2570,49,No,130,134,90,92,23.82,I am very interested
+2571,43,No,123,118,85,78,34.982,Missing
+2572,47,No,105,106,66,64,28.362,I am interested in finding out more
+2573,43,No,126,92,72,66,20.101,I have been trying to eat healthier lately
+2574,44,No,124,110,82,74,32.967,Missing
+2575,44,No,126,124,84,76,38.725,Missing
+2576,59,No,130,130,80,80,47.679,I have been trying to eat healthier lately
+2577,55,No,118,124,84,78,41.015,Missing
+2578,59,Yes,110,110,60,60,20.327,Missing
+2579,46,No,120,124,60,64,34.099,I am very interested
+2580,44,No,133,125,82,80,26.588,I already eat healthy foods
+2581,58,No,109,110,69,66,28.003,Missing
+2582,44,Yes,118,117,72,80,30.134,Missing
+2583,47,No,106,104,76,80,27.394,I am very interested
+2584,58,No,117,112,76,71,34.503,I am very interested
+2585,48,No,119,120,80,80,32.913,I am very interested
+2586,44,No,142,132,94,94,57.316,I have been trying to eat healthier lately
+2587,45,No,120,126,76,72,28.161,I am very interested
+2588,44,No,108,112,70,74,37.66,Missing
+2589,46,No,114,118,66,68,22.693,I am very interested
+2590,43,No,102,110,62,70,19.708,I have been trying to eat healthier lately
+2591,54,Yes,128,122,82,80,35.776,I have been trying to eat healthier lately
+2592,42,No,124,120,76,70,31.801,Missing
+2593,47,No,118,110,70,64,26.392,Missing
+2594,46,No,133,116,65,75,30.55,Missing
+2595,49,No,124,126,84,82,39.258,Missing
+2596,51,No,115,120,62,72,28.466,I have been trying to eat healthier lately
+2597,48,No,110,112,70,68,20.628,I already eat healthy foods
+2598,45,Yes,132,130,90,88,36.957,Missing
+2599,45,No,102,108,60,60,23.516,I already eat healthy foods
+2600,44,No,118,118,72,72,35.88,Missing
+2601,51,Yes,130,130,90,82,34.115,I already eat healthy foods
+2602,47,No,118,134,71,86,26.241,I already eat healthy foods
+2603,58,No,110,113,77,75,31.749,I am interested in finding out more
+2604,61,No,160,158,76,78,19.982,Missing
+2605,44,No,124,124,84,90,44.91,Missing
+2606,56,No,104,102,72,70,18.978,Missing
+2607,49,No,110,112,70,78,33.106,Missing
+2608,48,Yes,130,120,84,84,64.088,Missing
+2609,56,Yes,158,158,104,100,34.471,Missing
+2610,52,No,118,120,78,80,22.44,Missing
+2611,63,No,100,101,68,72,21.184,I already eat healthy foods
+2612,55,No,118,118,74,74,32.302,I am very interested
+2613,55,No,120,116,78,80,37.379,I have been trying to eat healthier lately
+2614,62,Yes,124,119,84,78,25.88,Missing
+2615,48,Yes,130,130,82,82,46.006,Missing
+2616,46,No,116,114,66,64,22.308,I already eat healthy foods
+2617,49,No,122,122,78,82,28.96,I am interested in finding out more
+2618,45,Yes,120,122,80,81,25.799,I am interested in finding out more
+2619,41,No,112,112,70,70,19.807,Missing
+2620,61,No,104,104,64,64,23.166,Missing
+2621,49,No,108,108,62,62,27.746,I am very interested
+2622,43,No,118,110,74,70,30.456,I already eat healthy foods
+2623,63,No,122,122,72,72,34.425,I have been trying to eat healthier lately
+2624,44,No,104,122,66,82,48.225,I have been trying to eat healthier lately
+2625,53,No,116,102,68,60,25.978,I have been trying to eat healthier lately
+2626,58,No,120,128,78,76,39.105,I am interested in finding out more
+2627,64,No,128,128,70,70,31.718,Missing
+2628,48,No,106,110,64,62,28.273,Missing
+2629,45,No,104,106,72,70,36.075,I have been trying to eat healthier lately
+2630,49,No,110,96,72,59,43.341,I have been trying to eat healthier lately
+2631,63,No,110,112,64,64,25.967,I have been trying to eat healthier lately
+2632,63,No,92,100,56,58,27.488,I am interested in finding out more
+2633,63,Yes,132,132,90,90,40.034,I have been trying to eat healthier lately
+2634,46,Yes,122,124,82,80,28.323,I have been trying to eat healthier lately
+2635,53,No,102,106,62,62,21.431,Missing
+2636,48,No,102,102,72,72,27.796,I have been trying to eat healthier lately
+2637,62,No,100,130,60,80,28.028,I have been trying to eat healthier lately
+2638,53,No,142,138,80,80,34.465,I am very interested
+2639,53,No,126,126,100,84,49.258,I have been trying to eat healthier lately
+2640,48,No,146,148,90,88,41.668,I am very interested
+2641,64,No,159,162,96,108,28.08,I have been trying to eat healthier lately
+2642,50,No,90,100,55,60,29.183,I have been trying to eat healthier lately
+2643,54,No,102,98,64,64,29.434,I already eat healthy foods
+2644,56,No,124,118,80,78,32.946,I have been trying to eat healthier lately
+2645,44,No,116,118,66,68,22.855,Missing
+2646,48,No,120,105,80,74,30.431,Missing
+2647,50,No,106,108,78,70,43.896,Missing
+2648,46,No,101,110,64,60,22.557,Missing
+2649,55,Yes,126,120,82,76,44.055,I am interested in finding out more
+2650,48,No,132,126,82,82,35.606,Missing
+2651,49,No,128,127,70,70,44.249,Missing
+2652,58,No,101,110,74,74,23.159,Missing
+2653,43,No,102,110,68,86,40.026,Missing
+2654,44,No,136,108,64,68,41.868,I have been trying to eat healthier lately
+2655,51,No,111,108,66,60,22.702,I have been trying to eat healthier lately
+2656,40,No,121,120,70,70,26.033,Missing
+2657,57,Yes,132,132,82,82,25.77,Missing
+2658,60,No,114,120,72,74,27.159,I am interested in finding out more
+2659,43,No,140,120,80,80,60.073,I have been trying to eat healthier lately
+2660,47,No,102,104,60,64,22.141,I have been trying to eat healthier lately
+2661,49,No,166,182,92,101,33.166,I have been trying to eat healthier lately
+2662,48,No,104,104,70,70,53.329,I have been trying to eat healthier lately
+2663,46,No,126,124,82,72,52.464,I have been trying to eat healthier lately
+2664,64,No,102,102,80,80,23.652,I have been trying to eat healthier lately
+2665,54,No,96,110,58,68,26.488,Missing
+2666,54,Yes,122,120,86,78,28.091,I have been trying to eat healthier lately
+2667,48,No,140,146,82,90,44.478,I already eat healthy foods
+2668,43,No,110,110,64,62,32.826,I am very interested
+2669,62,No,127,134,70,74,28.116,I am very interested
+2670,44,No,102,99,60,68,29.504,I have been trying to eat healthier lately
+2671,49,No,120,100,80,70,27.296,I have been trying to eat healthier lately
+2672,45,No,120,118,89,84,31.503,I have been trying to eat healthier lately
+2673,58,No,90,92,54,56,21.983,I already eat healthy foods
+2674,50,No,115,120,74,82,31.791,I have been trying to eat healthier lately
+2675,47,No,122,124,60,64,19.887,I already eat healthy foods
+2676,49,No,120,118,68,70,21.849,I am interested in finding out more
+2677,54,Yes,104,112,48,68,44.724,I am very interested
+2678,44,No,110,110,80,78,29.135,I am very interested
+2679,47,No,104,102,67,70,23.915,I am interested in finding out more
+2680,51,Yes,140,140,90,90,31.83,Missing
+2681,55,No,135,129,95,90,24.162,I have been trying to eat healthier lately
+2682,62,No,122,122,66,62,21.399,I have been trying to eat healthier lately
+2683,60,Yes,132,138,88,89,31.412,I have been trying to eat healthier lately
+2684,43,No,157,150,90,88,32.656,I already eat healthy foods
+2685,51,Yes,132,136,88,86,24.883,I am very interested
+2686,42,No,162,154,100,98,34.345,Missing
+2687,46,No,116,110,76,70,29.989,I am not interested
+2688,48,No,134,135,83,89,26.51,I already eat healthy foods
+2689,49,No,135,130,82,76,27.029,I already eat healthy foods
+2690,47,No,118,120,86,90,30.62,Missing
+2691,49,No,102,120,78,80,26.081,I am very interested
+2692,54,No,118,116,70,70,35.194,I am very interested
+2693,61,No,124,120,68,80,23.096,Missing
+2694,50,No,104,100,80,61,26.107,I am very interested
+2695,45,No,118,118,80,79,25.024,Missing
+2696,42,Yes,121,110,80,76,26.248,Missing
+2697,64,No,160,154,82,74,29.615,I already eat healthy foods
+2698,60,Yes,132,150,98,98,34.464,Missing
+2699,50,No,139,130,92,90,28.462,I have been trying to eat healthier lately
+2700,44,Yes,128,120,86,86,24.543,Missing
+2701,50,No,138,112,80,66,57.077,I am interested in finding out more
+2702,54,No,130,128,80,81,34.309,I am interested in finding out more
+2703,58,No,122,112,80,80,24.368,I am very interested
+2704,54,No,118,118,70,79,25.415,I already eat healthy foods
+2705,52,Yes,146,136,92,89,33.936,I am not interested
+2706,61,Yes,128,128,84,84,50.552,Missing
+2707,51,Yes,136,136,98,98,38.168,Missing
+2708,54,Yes,130,132,70,78,25.364,Missing
+2709,43,Yes,146,150,90,90,25.474,I have been trying to eat healthier lately
+2710,47,No,120,120,86,94,43.954,I am very interested
+2711,46,Yes,122,120,82,82,36.024,I have been trying to eat healthier lately
+2712,47,No,102,100,58,60,22.971,Missing
+2713,56,No,112,112,64,60,25.329,I already eat healthy foods
+2714,54,No,122,120,84,80,42.631,I am very interested
+2715,45,Yes,110,110,82,82,33.427,I have been trying to eat healthier lately
+2716,45,No,122,116,80,80,24.37,I am very interested
+2717,46,No,132,130,78,76,35.848,I am interested in finding out more
+2718,59,Yes,134,130,88,86,32.224,I have been trying to eat healthier lately
+2719,52,No,140,138,100,90,23.426,I already eat healthy foods
+2720,52,No,112,110,74,70,22.544,I already eat healthy foods
+2721,55,No,120,128,80,84,32.286,I am interested in finding out more
+2722,43,No,90,108,80,80,26.353,Missing
+2723,46,No,120,116,78,70,20.703,I have been trying to eat healthier lately
+2724,51,No,108,110,70,80,32.369,I have been trying to eat healthier lately
+2725,50,No,130,138,80,80,27.546,I have been trying to eat healthier lately
+2726,47,No,110,112,62,68,25.84,I am very interested
+2727,60,No,100,102,60,64,26.924,I am very interested
+2728,47,No,112,112,76,74,33.082,Missing
+2729,47,No,110,108,70,70,23.146,I already eat healthy foods
+2730,63,No,138,128,84,82,22.177,I have been trying to eat healthier lately
+2731,62,No,106,100,58,62,21.325,Missing
+2732,63,Yes,136,126,86,82,61.188,I have been trying to eat healthier lately
+2733,51,No,118,118,76,78,25.044,I already eat healthy foods
+2734,50,No,106,104,68,70,24.489,I am very interested
+2735,62,No,122,126,76,78,31.398,I have been trying to eat healthier lately
+2736,49,Yes,160,160,90,98,27.938,Missing
+2737,43,Yes,118,118,84,84,37.94,I have been trying to eat healthier lately
+2738,44,No,112,110,74,78,19.609,I have been trying to eat healthier lately
+2739,47,No,128,116,72,70,28.869,Missing
+2740,49,Yes,131,130,83,82,35.782,I have been trying to eat healthier lately
+2741,59,No,142,132,69,78,20.078,I have been trying to eat healthier lately
+2742,47,No,124,150,80,80,25.262,I have been trying to eat healthier lately
+2743,48,Yes,113,110,67,62,22.027,Missing
+2744,43,No,104,110,68,70,28.22,Missing
+2745,50,Yes,140,138,81,84,30.053,I have been trying to eat healthier lately
+2746,42,No,118,118,74,74,30.844,Missing
+2747,45,No,109,110,70,68,29.794,Missing
+2748,60,No,122,126,80,78,46.255,I have been trying to eat healthier lately
+2749,51,No,120,116,60,60,33.962,I already eat healthy foods
+2750,48,No,108,108,68,68,30.246,I have been trying to eat healthier lately
+2751,56,No,132,128,82,76,32.2,I am interested in finding out more
+2752,45,Yes,112,116,70,72,35.467,Missing
+2753,48,No,125,126,84,84,24.499,Missing
+2754,53,No,112,120,62,80,20.606,Missing
+2755,51,No,100,80,60,50,24.056,Missing
+2756,51,No,104,120,62,77,33.919,Missing
+2757,47,No,104,120,62,78,33.907,Missing
+2758,49,No,102,108,68,70,38.36,Missing
+2759,51,Yes,124,134,88,86,30.926,Missing
+2760,45,No,122,111,90,70,26.811,Missing
+2761,57,No,128,124,88,84,38.17,I am very interested
+2762,46,No,138,142,72,86,18.744,I already eat healthy foods
+2763,43,No,104,106,60,76,20.077,I am interested in finding out more
+2764,49,No,125,120,78,78,31.167,I am interested in finding out more
+2765,59,No,110,107,76,56,26.039,I have been trying to eat healthier lately
+2766,44,No,104,114,76,76,35.449,I am interested in finding out more
+2767,49,No,94,100,68,70,46.222,Missing
+2768,61,No,114,114,77,74,27.369,I am very interested
+2769,54,No,120,118,78,78,47.709,I am very interested
+2770,64,No,145,146,84,83,52.552,Missing
+2771,54,Yes,130,128,85,84,29.968,I have been trying to eat healthier lately
+2772,59,No,112,108,77,70,35.504,I am very interested
+2773,44,No,90,96,52,48,21.868,I already eat healthy foods
+2774,43,Yes,122,122,66,66,25.71,Missing
+2775,44,No,112,114,64,64,22.231,I already eat healthy foods
+2776,52,No,135,133,89,91,29.048,I have been trying to eat healthier lately
+2777,48,No,130,130,78,76,24.35,I am interested in finding out more
+2778,44,No,108,110,63,59,21.232,Missing
+2779,47,No,118,120,72,78,22.794,Missing
+2780,50,No,120,115,67,78,29.458,I have been trying to eat healthier lately
+2781,51,Yes,115,122,82,89,35.355,Missing
+2782,62,Yes,142,140,80,83,25.048,I am not interested
+2783,44,No,104,120,70,88,34.338,I already eat healthy foods
+2784,54,No,152,148,88,86,34.535,I am very interested
+2785,44,No,117,124,75,84,28.073,I am interested in finding out more
+2786,64,No,116,117,60,59,28.474,I am very interested
+2787,64,No,124,124,76,76,48.55,Missing
+2788,61,No,126,154,80,80,28.309,Missing
+2789,62,No,114,108,64,70,31.903,Missing
+2790,43,No,110,110,68,68,52.958,Missing
+2791,46,No,112,110,72,72,35.03,Missing
+2792,46,No,120,120,70,70,26.625,Missing
+2793,47,No,120,118,70,70,28.081,I am very interested
+2794,43,Yes,130,128,90,90,40.181,I am not interested
+2795,61,No,118,114,78,76,20.914,Missing
+2796,56,No,123,133,75,80,26.834,Missing
+2797,44,No,120,122,72,72,26.405,I already eat healthy foods
+2798,44,Yes,146,137,96,87,25.297,I have been trying to eat healthier lately
+2799,62,No,122,120,80,80,32.608,I have been trying to eat healthier lately
+2800,63,No,108,118,72,78,30.819,Missing
+2801,48,No,118,128,62,72,24.544,Missing
+2802,45,No,136,131,76,70,25.414,Missing
+2803,53,No,108,106,68,70,23.589,I already eat healthy foods
+2804,52,No,111,106,76,72,23.752,I have been trying to eat healthier lately
+2805,49,No,122,120,78,78,25.959,Missing
+2806,53,No,122,112,86,82,36.873,I already eat healthy foods
+2807,56,No,170,160,88,88,37.248,I have been trying to eat healthier lately
+2808,44,No,100,98,60,60,21.976,Missing
+2809,51,No,144,140,78,78,34.481,Missing
+2810,59,Yes,120,122,76,70,22.982,I have been trying to eat healthier lately
+2811,52,No,120,127,80,83,34.793,Missing
+2812,49,No,118,120,70,72,22.59,Missing
+2813,44,No,102,106,60,64,30.824,Missing
+2814,52,Yes,112,110,71,70,23.522,Missing
+2815,45,Yes,126,120,81,80,34.562,I am interested in finding out more
+2816,46,No,120,108,82,78,24.759,I have been trying to eat healthier lately
+2817,50,No,112,112,76,74,30.279,I am very interested
+2818,58,No,122,122,66,66,23.724,Missing
+2819,51,No,112,118,74,72,32.107,I have been trying to eat healthier lately
+2820,52,Yes,146,124,92,78,42.552,I am interested in finding out more
+2821,51,No,126,120,70,70,29.291,I already eat healthy foods
+2822,55,No,128,118,74,74,38.613,I already eat healthy foods
+2823,55,No,140,138,88,83,39.042,I am not interested
+2824,44,No,104,102,62,60,25.606,I am very interested
+2825,61,No,120,110,81,77,36.144,I am very interested
+2826,45,No,110,112,60,64,29.899,I have been trying to eat healthier lately
+2827,45,No,102,110,70,72,38,I have been trying to eat healthier lately
+2828,43,No,140,138,82,80,38.361,I am very interested
+2829,46,No,110,110,72,72,27.79,I have been trying to eat healthier lately
+2830,53,No,120,120,62,62,20.181,I am very interested
+2831,43,No,108,108,92,92,30.261,I have been trying to eat healthier lately
+2832,48,Yes,122,128,88,86,34.622,Missing
+2833,44,No,127,124,72,70,34.701,Missing
+2834,56,No,113,105,76,71,40.4,I have been trying to eat healthier lately
+2835,44,No,112,121,74,80,20.712,I have been trying to eat healthier lately
+2836,62,No,100,88,70,50,39.734,I have been trying to eat healthier lately
+2837,47,Yes,132,138,82,88,35.713,Missing
+2838,50,No,110,112,68,66,36.033,Missing
+2839,44,No,118,130,71,89,25.905,I am very interested
+2840,52,Yes,126,120,86,80,28.337,I have been trying to eat healthier lately
+2841,44,No,102,98,72,60,21.146,Missing
+2842,54,No,100,110,62,70,23.682,I already eat healthy foods
+2843,46,No,98,124,40,60,34.301,Missing
+2844,40,No,136,136,78,78,27.235,Missing
+2845,45,No,109,95,75,65,21.586,I already eat healthy foods
+2846,45,Yes,130,130,70,70,29.588,I am very interested
+2847,48,No,126,122,70,70,32.493,I already eat healthy foods
+2848,60,No,96,110,66,64,52.482,I have been trying to eat healthier lately
+2849,51,No,148,140,76,76,21.988,I am very interested
+2850,43,No,118,126,60,80,24.496,I have been trying to eat healthier lately
+2851,59,No,114,112,80,80,34.209,I have been trying to eat healthier lately
+2852,46,No,110,110,62,62,37.724,Missing
+2853,50,No,112,118,82,80,48.261,I am very interested
+2854,55,No,126,126,80,80,31.087,I am not interested
+2855,47,No,101,120,70,78,27.491,I already eat healthy foods
+2856,47,No,110,112,70,68,34.931,I have been trying to eat healthier lately
+2857,47,No,120,122,74,76,25.812,Missing
+2858,42,No,112,112,60,60,24.168,Missing
+2859,43,No,118,120,70,70,26.099,I have been trying to eat healthier lately
+2860,55,Yes,122,120,84,82,43.392,I have been trying to eat healthier lately
+2861,64,No,120,121,78,78,33.181,I have been trying to eat healthier lately
+2862,45,No,100,100,60,58,30.108,I am not interested
+2863,45,No,108,110,62,70,25.018,Missing
+2864,44,No,123,116,80,79,38.431,Missing
+2865,56,No,95,101,60,64,19.571,I already eat healthy foods
+2866,56,No,110,120,70,80,26.765,Missing
+2867,50,No,111,112,70,76,28.773,I already eat healthy foods
+2868,56,No,122,118,74,72,20.8,I am interested in finding out more
+2869,47,No,112,118,73,62,19.665,Missing
+2870,41,No,92,90,68,64,22.396,Missing
+2871,47,No,147,140,113,88,26.157,Missing
+2872,56,No,90,94,58,60,34.753,I already eat healthy foods
+2873,49,Yes,138,143,98,87,36.745,Missing
+2874,45,No,104,110,72,71,31.478,Missing
+2875,56,No,116,110,75,72,21.004,Missing
+2876,56,No,122,124,84,80,33.924,I am very interested
+2877,45,No,122,118,70,70,32.9,I am very interested
+2878,58,No,110,116,70,80,44.572,I am very interested
+2879,58,Yes,124,119,83,83,22.589,Missing
+2880,43,No,132,131,74,74,27.483,I have been trying to eat healthier lately
+2881,43,Yes,134,125,78,85,29.302,I already eat healthy foods
+2882,50,No,116,112,78,74,32.338,I am very interested
+2883,43,No,110,100,62,62,22.346,Missing
+2884,47,No,126,122,76,76,28.779,I have been trying to eat healthier lately
+2885,43,No,102,106,68,62,26.931,I am very interested
+2886,60,Yes,114,114,81,80,33.129,I have been trying to eat healthier lately
+2887,61,No,118,122,64,68,19.228,I am very interested
+2888,44,No,116,120,70,84,28.014,Missing
+2889,52,No,132,126,78,76,49.124,Missing
+2890,53,No,114,114,68,68,30.367,I already eat healthy foods
+2891,53,No,129,108,80,70,34.055,I have been trying to eat healthier lately
+2892,54,No,122,120,68,71,34.988,I am very interested
+2893,44,No,118,118,68,68,32.925,I am interested in finding out more
+2894,47,No,130,124,69,82,34.706,Missing
+2895,45,No,115,120,80,85,34.728,Missing
+2896,55,No,105,99,72,70,29.415,I am very interested
+2897,57,No,96,108,64,76,29.577,Missing
+2898,64,Yes,128,118,70,63,29.401,Missing
+2899,45,Yes,126,124,84,82,31.893,I am very interested
+2900,60,No,150,146,60,66,21.322,Missing
+2901,50,No,102,108,67,65,22.524,Missing
+2902,47,No,127,121,80,78,32.891,Missing
+2903,47,No,137,131,80,84,36.092,Missing
+2904,50,No,144,142,84,82,22.744,I am not interested
+2905,52,No,136,140,68,84,65.317,Missing
+2906,63,No,140,140,76,80,43.869,I have been trying to eat healthier lately
+2907,52,No,100,92,56,56,18.667,I already eat healthy foods
+2908,46,No,120,116,76,70,34.136,I am very interested
+2909,47,No,118,110,78,70,33.853,I have been trying to eat healthier lately
+2910,45,No,108,102,62,60,27.449,I have been trying to eat healthier lately
+2911,45,No,124,122,83,82,32.503,I already eat healthy foods
+2912,50,No,118,106,80,78,22.82,I already eat healthy foods
+2913,48,No,116,106,74,74,19.34,I have been trying to eat healthier lately
+2914,61,No,120,128,88,92,43.161,I am very interested
+2915,54,Yes,124,130,82,80,30.026,I already eat healthy foods
+2916,43,No,102,102,60,70,20.877,Missing
+2917,44,No,123,122,76,74,28.544,I already eat healthy foods
+2918,43,No,122,120,70,68,31.18,Missing
+2919,64,No,140,136,72,68,25.794,I have been trying to eat healthier lately
+2920,49,Yes,170,172,100,105,42.019,Missing
+2921,44,No,122,120,70,70,29.935,Missing
+2922,45,No,96,96,58,60,36.448,Missing
+2923,50,No,130,120,90,84,35.627,Missing
+2924,45,No,108,106,66,66,18.939,I already eat healthy foods
+2925,45,No,110,106,80,74,40.448,I have been trying to eat healthier lately
+2926,41,No,123,123,76,76,21.187,Missing
+2927,52,No,116,116,66,64,24.48,I am not interested
+2928,44,No,137,134,74,68,28.868,Missing
+2929,49,No,132,130,84,82,22.657,I have been trying to eat healthier lately
+2930,50,Yes,128,122,84,78,28.321,I already eat healthy foods
+2931,45,No,110,106,72,70,35.66,I am very interested
+2932,48,No,102,101,53,50,18.544,Missing
+2933,46,No,120,120,71,72,30.068,I have been trying to eat healthier lately
+2934,57,Yes,126,120,72,70,23.984,I have been trying to eat healthier lately
+2935,64,No,128,126,78,82,34.926,I am very interested
+2936,43,No,117,108,68,70,21.139,I am very interested
+2937,53,Yes,144,139,84,80,35.413,I have been trying to eat healthier lately
+2938,63,No,120,120,86,86,24.345,Missing
+2939,51,No,134,134,79,80,28.456,Missing
+2940,50,No,124,120,68,68,31.295,Missing
+2941,46,No,139,132,83,82,43.743,Missing
+2942,47,No,110,118,68,79,40.123,Missing
+2943,44,No,96,120,64,78,36.557,I have been trying to eat healthier lately
+2944,48,No,107,96,72,62,24.718,Missing
+2945,45,No,114,114,84,70,50.958,I am interested in finding out more
+2946,44,No,115,114,74,69,31.409,I have been trying to eat healthier lately
+2947,42,No,102,110,66,66,26.541,Missing
+2948,57,No,100,112,68,70,42.262,Missing
+2949,44,No,101,96,70,72,29.666,I am very interested
+2950,47,No,112,112,62,70,30.897,I have been trying to eat healthier lately
+2951,43,No,120,120,78,76,30.481,Missing
+2952,50,No,116,122,78,82,35.49,I already eat healthy foods
+2953,56,No,118,118,56,56,32.721,I am very interested
+2954,50,No,110,127,76,76,43.988,I am interested in finding out more
+2955,50,Yes,124,118,80,80,38.76,I have been trying to eat healthier lately
+2956,55,Yes,160,154,90,86,44.673,I am very interested
+2957,45,No,126,139,80,87,32.889,I am interested in finding out more
+2958,50,No,110,114,70,70,34.293,Missing
+2959,51,No,127,137,88,75,26.699,I am interested in finding out more
+2960,47,No,108,106,78,70,21.953,I am very interested
+2961,61,No,110,110,70,68,31.68,Missing
+2962,46,No,118,96,78,62,23.104,I am interested in finding out more
+2963,46,Yes,140,124,92,100,28.966,Missing
+2964,49,No,100,98,52,54,26.302,Missing
+2965,60,No,120,120,62,70,23.55,Missing
+2966,59,No,128,122,86,78,30.739,Missing
+2967,48,No,128,126,68,64,28.392,Missing
+2968,50,Yes,115,120,78,70,36.728,Missing
+2969,52,No,130,124,70,72,26.85,Missing
+2970,57,No,118,128,80,80,24.977,Missing
+2971,44,Yes,118,120,80,81,36.406,I am very interested
+2972,58,Yes,116,110,74,76,41.801,I am interested in finding out more
+2973,50,No,120,120,74,74,21.598,I have been trying to eat healthier lately
+2974,50,No,140,130,90,90,38.324,Missing
+2975,56,No,110,134,78,86,23.114,I already eat healthy foods
+2976,49,Yes,106,109,78,80,18.625,I have been trying to eat healthier lately
+2977,45,No,108,108,70,70,25.401,I am interested in finding out more
+2978,55,No,120,120,76,68,30.411,Missing
+2979,44,No,100,92,64,65,23.086,I am very interested
+2980,43,No,110,116,76,78,23.16,I already eat healthy foods
+2981,46,No,119,126,84,90,27.45,Missing
+2982,50,Yes,100,120,68,72,33.911,I am not interested
+2983,57,Yes,124,120,80,76,34.528,Missing
+2984,44,Yes,132,130,84,90,25.859,I already eat healthy foods
+2985,51,No,120,136,68,92,42.647,Missing
+2986,56,No,112,110,78,76,29.762,I have been trying to eat healthier lately
+2987,53,No,110,110,70,70,33.018,I have been trying to eat healthier lately
+2988,53,Yes,133,128,74,70,48.268,Missing
+2989,64,Yes,138,130,88,80,38.155,Missing
+2990,50,No,138,134,80,80,31.423,I have been trying to eat healthier lately
+2991,59,No,112,108,70,68,24.573,I am very interested
+2992,50,Yes,104,110,66,68,25.603,I am very interested
+2993,56,No,120,120,72,70,32.175,I have been trying to eat healthier lately
+2994,57,Yes,146,132,92,82,34.432,Missing
+2995,43,No,130,130,72,72,22.14,Missing
+2996,50,Yes,122,122,84,84,40.391,I am very interested
+2997,40,No,96,95,62,58,21.3,Missing
+2998,44,No,108,108,66,60,23.521,I already eat healthy foods
+2999,47,No,110,92,64,56,30.475,I am very interested
+3000,45,No,129,118,73,78,27.943,I am interested in finding out more
+3001,48,No,145,144,72,70,41.849,I am very interested
+3002,49,Yes,122,120,87,85,39.446,I am very interested
+3003,45,No,120,118,78,78,46.648,I am very interested
+3004,56,No,139,122,78,60,31.162,Missing
+3005,45,No,113,107,84,84,35.463,I am very interested
+3006,57,No,120,140,80,80,43.931,I am very interested
+3007,44,No,120,120,80,80,32.803,Missing
+3008,44,No,100,98,72,52,27.138,Missing
+3009,55,No,112,120,70,74,26.455,I have been trying to eat healthier lately
+3010,57,No,128,124,70,64,32.554,I am interested in finding out more
+3011,45,No,110,112,64,70,24.659,Missing
+3012,45,No,121,125,67,75,37.653,I have been trying to eat healthier lately
+3013,43,No,104,102,66,74,32.147,I am very interested
+3014,55,No,118,116,84,80,24.987,I have been trying to eat healthier lately
+3015,52,No,108,107,73,72,23.47,I have been trying to eat healthier lately
+3016,51,No,130,126,78,76,22.06,I have been trying to eat healthier lately
+3017,48,No,124,96,80,53,16.438,I am interested in finding out more
+3018,45,No,92,92,78,78,21.793,I already eat healthy foods
+3019,43,No,127,128,85,88,28.332,I am very interested
+3020,50,No,130,117,75,73,38.131,I have been trying to eat healthier lately
+3021,56,No,103,106,60,65,27.419,I am interested in finding out more
+3022,54,No,130,134,90,90,21.181,Missing
+3023,43,No,110,112,78,80,37.931,Missing
+3024,52,Yes,110,110,68,74,30.432,I have been trying to eat healthier lately
+3025,45,No,130,130,72,72,21.908,Missing
+3026,55,No,110,114,68,70,32.209,I already eat healthy foods
+3027,51,No,120,128,69,76,24.764,Missing
+3028,45,No,118,124,64,60,31.638,Missing
+3029,52,No,112,108,64,66,20.614,Missing
+3030,43,No,105,111,69,76,21.137,I already eat healthy foods
+3031,58,No,113,102,70,64,28.711,Missing
+3032,58,No,108,100,72,62,20.735,I am very interested
+3033,53,Yes,110,112,60,61,25.716,I am very interested
+3034,56,Yes,138,134,82,80,33.495,Missing
+3035,53,No,124,120,78,80,29.395,I have been trying to eat healthier lately
+3036,56,No,190,190,98,98,24.367,I have been trying to eat healthier lately
+3037,62,No,110,120,52,58,31.386,I already eat healthy foods
+3038,48,Yes,100,100,60,59,27.01,I have been trying to eat healthier lately
+3039,56,No,122,104,70,78,28.511,I have been trying to eat healthier lately
+3040,57,No,114,130,88,86,26.486,Missing
+3041,52,No,108,100,64,66,30.511,I am very interested
+3042,64,No,130,102,65,66,28.756,I am very interested
+3043,57,Yes,142,130,90,76,29.57,Missing
+3044,52,No,114,114,68,68,22.331,I have been trying to eat healthier lately
+3045,51,No,142,134,78,62,55.684,Missing
+3046,59,No,110,98,66,60,33.814,I am very interested
+3047,45,No,103,103,70,70,26.43,I am very interested
+3048,45,No,110,112,70,72,37.947,I am interested in finding out more
+3049,43,No,140,140,76,76,38.536,I already eat healthy foods
+3050,44,No,130,130,96,97,48.98,I have been trying to eat healthier lately
+3051,58,No,134,116,60,60,40.316,I am interested in finding out more
+3052,59,No,144,142,88,80,40.644,Missing
+3053,51,No,122,122,80,80,22.97,I have been trying to eat healthier lately
+3054,43,Yes,124,111,86,86,26.503,Missing
+3055,47,No,108,120,80,76,29.34,I already eat healthy foods
+3056,43,No,124,126,73,70,33.448,I am very interested
+3057,53,No,117,104,83,70,21.911,Missing
+3058,52,No,99,96,64,66,19.858,Missing
+3059,54,No,132,114,60,70,28.416,I am very interested
+3060,46,No,132,126,78,76,44.085,I am interested in finding out more
+3061,55,No,112,106,67,68,27.976,I have been trying to eat healthier lately
+3062,50,No,128,128,60,60,25.489,Missing
+3063,46,No,170,160,101,95,30.224,I am very interested
+3064,61,Yes,111,108,70,70,22.792,Missing
+3065,50,No,128,130,70,70,27.344,Missing
+3066,58,No,118,94,64,70,21.58,I am interested in finding out more
+3067,52,No,155,140,98,76,25.708,Missing
+3068,47,Yes,166,137,93,82,27.317,Missing
+3069,51,No,122,120,74,70,26.294,I am interested in finding out more
+3070,53,No,110,112,60,60,25.843,I have been trying to eat healthier lately
+3071,45,No,130,130,70,70,22.397,I already eat healthy foods
+3072,59,No,121,120,74,78,40.609,I have been trying to eat healthier lately
+3073,49,No,121,120,72,70,29.861,I have been trying to eat healthier lately
+3074,43,No,138,136,89,87,37.128,Missing
+3075,49,Yes,144,139,96,90,25.672,I am very interested
+3076,52,Yes,154,130,92,80,28.359,Missing
+3077,47,No,110,116,74,66,26.788,Missing
+3078,58,No,128,122,74,70,23.602,Missing
+3079,60,No,131,124,79,76,43.113,Missing
+3080,45,Yes,153,151,96,98,56.544,Missing
+3081,46,No,118,120,78,78,35.523,I have been trying to eat healthier lately
+3082,42,No,124,120,74,70,30.423,Missing
+3083,49,No,124,122,76,66,32.247,Missing
+3084,45,No,110,112,60,60,26.197,I am very interested
+3085,48,No,144,140,100,98,33.3,I am very interested
+3086,43,Yes,112,106,69,64,30.734,Missing
+3087,60,No,124,124,80,80,24.741,I have been trying to eat healthier lately
+3088,56,Yes,132,120,84,78,38.263,Missing
+3089,48,No,126,124,78,84,22.734,I have been trying to eat healthier lately
+3090,46,No,102,98,80,78,38.672,Missing
+3091,57,Yes,116,113,70,68,29.308,Missing
+3092,47,No,118,112,80,76,33.825,Missing
+3093,63,No,122,118,80,76,30.901,Missing
+3094,61,No,122,126,78,80,33.557,Missing
+3095,51,No,122,132,74,68,26.172,Missing
+3096,45,No,120,120,70,70,43.563,Missing
+3097,45,No,114,110,68,62,36.615,Missing
+3098,55,No,131,114,82,86,33.516,Missing
+3099,42,No,100,120,62,80,25.073,Missing
+3100,43,No,112,112,68,70,35.541,Missing
+3101,55,No,120,120,80,80,28.575,Missing
+3102,47,Yes,120,120,72,72,21.899,Missing
+3103,50,No,113,112,80,78,30.404,I am very interested
+3104,53,No,118,123,82,72,49.911,Missing
+3105,57,No,112,112,70,70,22.76,Missing
+3106,57,No,150,149,82,86,31.443,Missing
+3107,43,Yes,102,102,52,52,36.929,Missing
+3108,54,No,106,100,70,68,29.154,Missing
+3109,64,No,124,120,80,80,35.403,Missing
